@@ -20,7 +20,16 @@ else:
 
 # start to store the data
 with open('twitter-huge.json', 'r', encoding='utf-8') as file:
-    new_line = file.readlines()
-    print(new_line)
+    line_count = sum(1 for line in file)
+    text = ""
+    new_line = file.readline()
+    for i in range(1):
+        new_line = file.readline()
+
+        text = text + new_line
+
+    t = json.loads(text[:-2])
+    db.save(t)
+    print(line_count)
 
 
