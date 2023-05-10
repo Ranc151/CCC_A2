@@ -25,19 +25,19 @@ if db_name in couch:
 else:
     db = couch.create(db_name)
 
+# divide the file into parts and then read the file in parallel using MPI
+line_count = 10
+each_part_bytes = int(line_count // size)
+mod = line_count % size
+if rank == size - 1:
+    begin = rank * each_part_bytes
+    end = (rank + 1) * each_part_bytes + mod
+else:
+    begin = rank * each_part_bytes
+    end = (rank + 1) * each_part_bytes
+
 # start to store the data
 with open('twitter-huge.json', 'r', encoding='utf-8') as file:
-    # divide the file into parts and then read the file in parallel using MPI
-    line_count = 100
-    each_part_bytes = int(line_count // size)
-    mod = line_count % size
-    if rank == size - 1:
-        begin = rank * each_part_bytes
-        end = (rank + 1) * each_part_bytes + mod
-    else:
-        begin = rank * each_part_bytes
-        end = (rank + 1) * each_part_bytes
-
     if rank == 0:  # rank 0 is the first part of this file so need ignore the '[' at the beginning of
         # twitter-data-small.json
         new_line = file.readline()  # ignore the '[' at the beginning of twitter-data-small.json
@@ -45,9 +45,10 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
 
     while True:
         new_line = file.readline()
+        print(new_line)
         if new_line != "]}":
-
-            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra', "tag"]
+            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra',
+                            'tag']
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
                                 'preventative measures', 'mask', 'social distancing', 'testing',
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
@@ -89,14 +90,16 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                         break
             if file.tell() >= end:  # stops when the assigned range is exceeded
                 break
+        else:
+            break
 if rank == 0:
-    print(time.time()-begin_time)
-    #new_line = file.readline()
-    #for i in range(1):
+    print(time.time() - begin_time)
+    # new_line = file.readline()
+    # for i in range(1):
     #    new_line = file.readline()
 
     #    text = text + new_line
 
-    #t = json.loads(text[:-2])
-    #db.save(t)
-    #print(line_count)
+    # t = json.loads(text[:-2])
+    # db.save(t)
+    # print(line_count)
