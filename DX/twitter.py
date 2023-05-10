@@ -1,13 +1,13 @@
 import couchdb
 import json
-
+import time
 from mpi4py import MPI
 
 # use MPI to save processing time
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
 size = comm.Get_size()
-
+begin_time = time.time()
 # Login authentication
 admin = 'admin'
 password = 'Sjx991225'
@@ -28,10 +28,10 @@ else:
 # start to store the data
 with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     # divide the file into parts and then read the file in parallel using MPI
-    line_count = 10
+    line_count = 100
     each_part_bytes = int(line_count // size)
     mod = line_count % size
-    if rank == size-1:
+    if rank == size - 1:
         begin = rank * each_part_bytes
         end = (rank + 1) * each_part_bytes + mod
     else:
@@ -46,13 +46,13 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            twitter = json.loads(new_line[:-2])  # load a json string to dict
-            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra']
+
+            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra', "tag"]
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
                                 'preventative measures', 'mask', 'social distancing', 'testing',
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
-                                'state of emergency']
-            keyword_time = ["2020", "2021", "2022"]
+                                'state of emergency', "tag"]
+            keyword_time = ["2020", "2021", "2022", "tag"]
             keyword = ['unemployment rate', 'employment rate', 'job seekers', 'job vacancies', 'career transition',
                        'labor market', 'salary',
                        'full-time', 'part-time', 'self-employment', 'vocational training',
@@ -65,7 +65,7 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                        'price level', 'wage growth', 'price stability', 'deflation',
                        'living expenses', 'food prices', 'energy prices', 'housing costs',
                        'transportation costs', 'healthcare costs', 'education costs',
-                       'childcare costs', 'retirement savings']
+                       'childcare costs', 'retirement savings', "tag"]
             stop_all_loops = False
             for i in keyword_area:
                 if i in new_line:
@@ -73,11 +73,13 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                         if j in new_line:
                             for p in keyword_time:
                                 if p in new_line:
-                                    for t in key_word:
+                                    for t in keyword:
                                         if t in new_line:
                                             stop_all_loops = True
+                                            print(new_line)
+                                            twitter = json.loads(new_line[:-2])  # load a json string to dict
 
-                                            data.save(twitter)  # analyse the twitter
+                                            db.save(twitter)  # analyse the twitter
                                             break
                                     if stop_all_loops:
                                         break
@@ -87,7 +89,8 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                         break
             if file.tell() >= end:  # stops when the assigned range is exceeded
                 break
-
+if rank == 0:
+    print(time.time()-begin_time)
     #new_line = file.readline()
     #for i in range(1):
     #    new_line = file.readline()
