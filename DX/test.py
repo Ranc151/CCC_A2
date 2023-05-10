@@ -28,7 +28,7 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     for i in range(5):
         new_line = file.readline()
         if new_line != "]}":
-            keyword_area = ['sydney', 'melbourne', 'brisbane', 'perth', 'adelaide', 'hobart', 'darwin', 'canberra']
+            keyword_area = ['sydney', 'melbourne', 'brisbane', 'perth', 'adelaide', 'hobart', 'darwin', 'canberra', 'australia']
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
                                 'preventative measures', 'mask', 'social distancing', 'testing',
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',

@@ -43,7 +43,7 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
         new_line = file.readline()  # ignore the '[' at the beginning of twitter-data-small.json
     file.seek(begin)  # Read in from the assigned part
 
-    for i in range(100):
+    for i in range(10):
         new_line = file.readline()
         print(new_line)
         if new_line != "]}":
