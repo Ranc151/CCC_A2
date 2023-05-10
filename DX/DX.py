@@ -1,4 +1,4 @@
-import DX
+import couchdb
 import json
 
 # Login authentication
@@ -19,7 +19,8 @@ else:
     db = couch.create(db_name)
 
 # start to store the data
-with open('twitter.huge.json', 'r') as file:
-    json_data = json.load(file)
+with open('twitter-huge.json', 'r', encoding='utf-8') as file:
+    new_line = file.readlines()
+    print(new_line)
 
 
