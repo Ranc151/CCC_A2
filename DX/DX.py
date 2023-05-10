@@ -1,14 +1,13 @@
-import CouchDB
+import DX
 import json
 
-# test
 # Login authentication
 admin = 'admin'
 password = 'Sjx991225'
 url = f'http://{admin}:{password}@172.26.130.209:5984/'
 
 # get couchdb instance
-couch = CouchDB.Server(url)
+couch = couchdb.Server(url)
 
 # set the db name
 db_name = 'twitter'
