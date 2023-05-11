@@ -23,23 +23,15 @@ couch = couchdb.Server(url)
 # set the db name
 db_name = 'test'
 db = couch[db_name]
-# Whether the database exists
-# if db_name in couch:
-#     db = couch[db_name]
-# else:
-#     db = couch.create(db_name)
 
 # divide the file into parts and then read the file in parallel using MPI
+
 startIndex = math.floor(bytesNo / size) * rank
 endIndex = startIndex + math.floor(bytesNo / size)
-
-# startIndex = 1500000 * rank
-# endIndex = startIndex + 1500000
 
 # start to store the data
 with open('G:\\twitter-huge.json', 'r', encoding='utf-8') as file:
     if rank == 0:  # rank 0 is the first part of this file so need ignore the '[' at the beginning of
-        # twitter-data-small.json
         new_line = file.readline()  # ignore the '[' at the beginning of twitter-data-small.json
     file.seek(startIndex)  # Read in from the assigned part
 
