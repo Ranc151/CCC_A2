@@ -1,17 +1,10 @@
 import couchdb
 import json
 import time
-from mpi4py import MPI
 import os.path
 import math
+import pandas
 
-
-# use MPI to save processing time
-comm = MPI.COMM_WORLD
-rank = comm.Get_rank()
-size = comm.Get_size()
-begin_time = time.time()
-bytesNo = os.path.getsize("twitter-huge.json")
 # Login authentication
 admin = 'admin'
 password = 'Sjx991225'
@@ -21,4 +14,7 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # 打开json文件导入
-with()
+db = couch['twitter']
+mydocument = db.get('twitter')
+mydata = json.loads(mydocument)
+print(mydata)
