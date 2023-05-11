@@ -28,12 +28,12 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     for i in range(5):
         new_line = file.readline()
         if new_line != "]}":
-            keyword_area = ['sydney', 'melbourne', 'brisbane', 'perth', 'adelaide', 'hobart', 'darwin', 'canberra', 'australia']
+            keyword_area = ['sydney', 'melbourne', 'brisbane', 'perth', 'adelaide', 'hobart', 'darwin', 'canberra', 'australia', "ta"]
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
                                 'preventative measures', 'mask', 'social distancing', 'testing',
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
-                                'state of emergency']
-            keyword_time = ["2020", "2021", "2022"]
+                                'state of emergency', "ta"]
+            keyword_time = ["2020", "2021", "2022", "ta"]
             keyword = ['unemployment rate', 'employment rate', 'job seekers', 'job vacancies', 'career transition',
                        'labor market', 'salary',
                        'full-time', 'part-time', 'self-employment', 'vocational training',
@@ -46,15 +46,15 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                        'price level', 'wage growth', 'price stability', 'deflation',
                        'living expenses', 'food prices', 'energy prices', 'housing costs',
                        'transportation costs', 'healthcare costs', 'education costs',
-                       'childcare costs', 'retirement savings']
+                       'childcare costs', 'retirement savings', "ta"]
             stop_all_loops = False
-            for i in keyword_time:
+            for i in keyword_area:
                 if i in new_line.lower():
-                    for j in keyword_time:
+                    for j in keyword_epidemic:
                         if j in new_line.lower():
                             for p in keyword_time:
                                 if p in new_line.lower():
-                                    for t in keyword_time:
+                                    for t in keyword:
                                         if t in new_line.lower():
                                             stop_all_loops = True
                                             print(new_line)
