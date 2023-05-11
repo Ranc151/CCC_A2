@@ -1,6 +1,7 @@
 import couchdb
 from mastodon import Mastodon, StreamListener
 import json
+from mpi4py import MPI
 
 # authentication
 admin = 'admin'

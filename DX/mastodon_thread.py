@@ -1,7 +1,9 @@
 import couchdb
 from mastodon import Mastodon, StreamListener
 import json
-import threading
+from mpi4py import MPI
+import time
+
 # authentication
 admin = 'admin'
 password = 'Sjx991225'
@@ -11,47 +13,52 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # indicate the db name
-db_name = 'mastodon'
+db = couch["mastodon"]
 
-# if not exist, create one
-if db_name not in couch:
-    db = couch.create(db_name)
-else:
-    db = couch[db_name]
+# use MPI to save processing time
+comm = MPI.COMM_WORLD
+rank = comm.Get_rank()
+size = comm.Get_size()
+begin_time = time.time()
 
 
-def read_data_from_server(server_url, access_token):
-    mastodon = Mastodon(
-        access_token=access_token,
-        api_base_url=server_url
+def read_data_from_server(n_url, n_token):
+    m = Mastodon(
+        access_token=n_token,
+        api_base_url=n_url
     )
-    timeline = mastodon.timeline_home()
-    for status in timeline:
-        print(status['content'])
 
-# 定义服务器和访问令牌列表
-servers = [
-    {
-        'url': 'https://server1.com',
-        'access_token': 'access_token_1'
-    },
-    {
-        'url': 'https://server2.com',
-        'access_token': 'access_token_2'
-    },
-    {
-        'url': 'https://server3.com',
-        'access_token': 'access_token_3'
-    }
-]
+    class Listener(StreamListener):
+        # called when receiving new post or status update
+        def on_update(self, status):
+            # do sth
+            json_str = json.dumps(status, indent=2, sort_keys=True, default=str)
+            mastodon = json.loads(json_str)
+            t_id = mastodon.get("account").get("acct")
+            if db.get(t_id):
+                rev = db.get(t_id).rev
+                mastodon["_id"] = t_id
+                mastodon["_rev"] = rev
+            else:
+                mastodon["_id"] = t_id
+            doc_id, doc_rev = db.save(mastodon)
+            print(f'Document saved with ID: {doc_id} and revision: {doc_rev}')
 
-# 创建线程列表
-threads = []
-for server in servers:
-    thread = threading.Thread(target=read_data_from_server, args=(server['url'], server['access_token']))
-    threads.append(thread)
-    thread.start()
+    # make it better with try-catch and error-handling
+    m.stream_public(Listener())
 
-# 等待所有线程完成
-for thread in threads:
-    thread.join()
+
+if rank == 0:
+    url = f'https://mastodon.cloud'
+    token = '_a0u5oZfyz5AFL896YEglRPZc08zzV-2QKPcR5fzmfw'
+    read_data_from_server(url, token)
+
+if rank == 1:
+    url = f'https://mastodon.au'
+    token = '44vF0WecDpS34kI_HQuwTCYu4XE1GbH_kKK0B7G-nLQ'
+    read_data_from_server(url, token)
+
+if rank == 2:
+    url = f'https://mastodon.social'
+    token = 'Bf-Cjcq3Gdnhz8LmZmPU4uzB2QN0_Kq7gYZty0LQRwg'
+    read_data_from_server(url, token)
