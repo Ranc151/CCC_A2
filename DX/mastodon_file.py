@@ -20,9 +20,9 @@ if db_name in couch:
 else:
     db = couch.create(db_name)
 
-token = 'hzvvhq7vXANMqao4u4Csz5vqrYl1Yt7rlKf-XkfGaHU'
+token = 'hSX3gkvQ18YnyQKNIv25zuBJu6cTP8uWSKUjanOUr8U'
 mastodon = Mastodon(
-    api_base_url=f'https://mastodon.social/',
+    api_base_url=f'https://mastodon.social',
     access_token=token
 )
 

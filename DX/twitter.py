@@ -21,7 +21,7 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 'twitter'
+db_name = 'test'
 
 # Whether the database exists
 if db_name in couch:
@@ -67,18 +67,28 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                        'childcare costs', 'retirement savings']
             stop_all_loops = False
             for i in keyword_area:
-                if i in new_line.lower():
+                if i in new_line:
                     for j in keyword_epidemic:
-                        if j in new_line.lower():
+                        if j in new_line:
                             for p in keyword_time:
-                                if p in new_line.lower():
+                                if p in new_line:
                                     for t in keyword:
-                                        if t in new_line.lower():
+                                        if t in new_line:
                                             stop_all_loops = True
-                                            print(new_line)
-                                            twitter = json.loads(new_line[:-2])  # load a json string to dict
 
-                                            db.save(twitter)  # analyse the twitter
+                                            twitter = json.loads(new_line[:-2])  # load a json string to dict
+                                            t_id = twitter.get("id")
+                                            doc = db.get("_id")
+                                            if db.get(t_id):
+                                                rev = db.get(t_id).rev
+                                                twitter["_id"] = t_id
+                                                twitter["_rev"] = rev
+                                            else:
+                                                twitter["_id"] = t_id
+
+
+
+                                            doc_id, doc_rev = db.save(twitter)  # analyse the twitter
                                             break
                                     if stop_all_loops:
                                         break
