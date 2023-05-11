@@ -4,7 +4,7 @@ import time
 from mpi4py import MPI
 import os.path
 import math
-
+import os
 
 # use MPI to save processing time
 comm = MPI.COMM_WORLD
@@ -22,12 +22,12 @@ couch = couchdb.Server(url)
 
 # set the db name
 db_name = 'test'
-
+db = couch[db_name]
 # Whether the database exists
-if db_name in couch:
-    db = couch[db_name]
-else:
-    db = couch.create(db_name)
+# if db_name in couch:
+#     db = couch[db_name]
+# else:
+#     db = couch.create(db_name)
 
 # divide the file into parts and then read the file in parallel using MPI
 startIndex = math.floor(bytesNo / size) * rank
@@ -37,7 +37,7 @@ endIndex = startIndex + math.floor(bytesNo / size)
 # endIndex = startIndex + 1500000
 
 # start to store the data
-with open('twitter-huge.json', 'r', encoding='utf-8') as file:
+with open('G:\\twitter-huge.json', 'r', encoding='utf-8') as file:
     if rank == 0:  # rank 0 is the first part of this file so need ignore the '[' at the beginning of
         # twitter-data-small.json
         new_line = file.readline()  # ignore the '[' at the beginning of twitter-data-small.json
@@ -46,7 +46,8 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra', 'Australian', 'Australia']
+            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra',
+                            'Australian', 'Australia']
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
                                 'preventative measures', 'mask', 'social distancing', 'testing',
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
@@ -86,8 +87,6 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                                             else:
                                                 twitter["_id"] = t_id
 
-
-
                                             doc_id, doc_rev = db.save(twitter)  # analyse the twitter
                                             break
                                     if stop_all_loops:
@@ -103,13 +102,4 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
 
 if rank == 0:
     print(time.time() - begin_time)
-    # new_line = file.readline()
-    # for i in range(1):
-    #    new_line = file.readline()
-
-    #    text = text + new_line
-
-    # t = json.loads(text[:-2])
-    # db.save(t)
-    # print(line_count)
 
