@@ -1,4 +1,4 @@
-[
+{"Labour_2021":[
     {
         "fid": "3",
         "lbr_frc_stat": "Unemployed Total",
@@ -680,3 +680,4 @@
         "state_name_abbr": "NT"
     }
 ]
+}
