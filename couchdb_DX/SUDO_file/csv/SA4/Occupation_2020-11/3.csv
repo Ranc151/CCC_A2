@@ -1,0 +1,85 @@
+fid, empy_m, empy_pt, empy_f, state_code_2016, empy_ft, state_name_2016, sa4_code_2016, mpy_distribution, gccsa_name_2016, mpy_by_occ_tot, gccsa_code_2016, sa4_name_2016, occ
+8,9300,6700,3700,1,6300,New South Wales,101,11.7,Rest of NSW,13000,1RNSW,Capital Region,Labourers
+16,13200,8700,5300,1,9800,New South Wales,102,11.8,Greater Sydney,18500,1GSYD,Central Coast,Labourers
+24,8900,6000,5600,1,8500,New South Wales,103,13.1,Rest of NSW,14600,1RNSW,Central West,Labourers
+32,5700,2600,1600,1,4700,New South Wales,104,13.8,Rest of NSW,7300,1RNSW,Coffs Harbour - Grafton,Labourers
+40,4900,2200,1300,1,4000,New South Wales,105,11.1,Rest of NSW,6100,1RNSW,Far West and Orana,Labourers
+48,11400,6100,4900,1,10300,New South Wales,106,12.5,Rest of NSW,16300,1RNSW,Hunter Valley exc Newcastle,Labourers
+56,11000,10000,5000,1,6100,New South Wales,107,10.6,Rest of NSW,16100,1RNSW,Illawarra,Labourers
+64,7400,6200,2900,1,4100,New South Wales,108,12.2,Rest of NSW,10300,1RNSW,Mid North Coast,Labourers
+72,5600,3300,1800,1,4100,New South Wales,109,13.4,Rest of NSW,7500,1RNSW,Murray,Labourers
+80,6500,3500,3700,1,6800,New South Wales,110,12,Rest of NSW,10300,1RNSW,New England and North West,Labourers
+88,9400,8100,5000,1,6300,New South Wales,111,7.9,Rest of NSW,14400,1RNSW,Newcastle and Lake Macquarie,Labourers
+96,9900,8500,6400,1,7700,New South Wales,112,13.9,Rest of NSW,16200,1RNSW,Richmond - Tweed,Labourers
+104,9500,4600,2100,1,7000,New South Wales,113,14.3,Rest of NSW,11600,1RNSW,Riverina,Labourers
+112,4400,3400,2300,1,3300,New South Wales,114,10.9,Rest of NSW,6700,1RNSW,Southern Highlands and Shoalhaven,Labourers
+120,4300,2600,2000,1,3700,New South Wales,115,4.8,Greater Sydney,6300,1GSYD,Sydney - Baulkham Hills and Hawkesbury,Labourers
+128,13000,8100,7700,1,12700,New South Wales,116,11,Greater Sydney,20800,1GSYD,Sydney - Blacktown,Labourers
+136,8400,5100,3100,1,6400,New South Wales,117,4.8,Greater Sydney,11500,1GSYD,Sydney - City and Inner South,Labourers
+144,5300,3800,2500,1,4100,New South Wales,118,4.6,Greater Sydney,7900,1GSYD,Sydney - Eastern Suburbs,Labourers
+152,18900,12500,5100,1,11500,New South Wales,119,7.9,Greater Sydney,24000,1GSYD,Sydney - Inner South West,Labourers
+160,7400,5000,2000,1,4400,New South Wales,120,5.1,Greater Sydney,9400,1GSYD,Sydney - Inner West,Labourers
+168,5700,5700,2800,1,2800,New South Wales,121,3.5,Greater Sydney,8500,1GSYD,Sydney - North Sydney and Hornsby,Labourers
+176,6400,5100,2700,1,4000,New South Wales,122,6.1,Greater Sydney,9100,1GSYD,Sydney - Northern Beaches,Labourers
+184,9000,4200,4200,1,8900,New South Wales,123,8.9,Greater Sydney,13100,1GSYD,Sydney - Outer South West,Labourers
+192,10200,4800,4000,1,9400,New South Wales,124,8.6,Greater Sydney,14200,1GSYD,Sydney - Outer West and Blue Mountains,Labourers
+200,20800,11800,5200,1,14200,New South Wales,125,11,Greater Sydney,26000,1GSYD,Sydney - Parramatta,Labourers
+208,4000,3400,1900,1,2500,New South Wales,126,5.1,Greater Sydney,5900,1GSYD,Sydney - Ryde,Labourers
+216,15200,10100,7300,1,12400,New South Wales,127,11.5,Greater Sydney,22500,1GSYD,Sydney - South West,Labourers
+224,3800,2800,2000,1,3000,New South Wales,128,4.6,Greater Sydney,5800,1GSYD,Sydney - Sutherland,Labourers
+232,5800,4600,2900,2,4000,Victoria,201,10.7,Rest of Vic.,8600,2RVIC,Ballarat,Labourers
+240,5400,3200,3400,2,5600,Victoria,202,11.4,Rest of Vic.,8800,2RVIC,Bendigo,Labourers
+248,9000,8200,5200,2,6100,Victoria,203,9,Rest of Vic.,14300,2RVIC,Geelong,Labourers
+256,6000,5500,4300,2,4800,Victoria,204,10.8,Rest of Vic.,10300,2RVIC,Hume,Labourers
+264,10200,9500,7000,2,7700,Victoria,205,13.9,Rest of Vic.,17200,2RVIC,Latrobe - Gippsland,Labourers
+272,11100,10200,4800,2,5600,Victoria,206,3.5,Greater Melbourne,15800,2GMEL,Melbourne - Inner,Labourers
+280,5600,5100,3600,2,4100,Victoria,207,4.4,Greater Melbourne,9200,2GMEL,Melbourne - Inner East,Labourers
+288,6100,6100,2800,2,2700,Victoria,208,3.9,Greater Melbourne,8900,2GMEL,Melbourne - Inner South,Labourers
+296,12400,8800,6100,2,9700,Victoria,209,6.6,Greater Melbourne,18500,2GMEL,Melbourne - North East,Labourers
+304,13000,10700,5800,2,8200,Victoria,210,10,Greater Melbourne,18900,2GMEL,Melbourne - North West,Labourers
+312,14900,8500,8300,2,14700,Victoria,211,8.8,Greater Melbourne,23300,2GMEL,Melbourne - Outer East,Labourers
+320,27900,20900,19100,2,26100,Victoria,212,11,Greater Melbourne,47000,2GMEL,Melbourne - South East,Labourers
+328,22200,13700,9700,2,18200,Victoria,213,7.9,Greater Melbourne,31900,2GMEL,Melbourne - West,Labourers
+336,12000,6600,4300,2,9700,Victoria,214,10.5,Greater Melbourne,16300,2GMEL,Mornington Peninsula,Labourers
+344,5700,4400,2700,2,4000,Victoria,215,12.2,Rest of Vic.,8500,2RVIC,North West,Labourers
+352,6200,6100,5300,2,5400,Victoria,216,18.9,Rest of Vic.,11500,2RVIC,Shepparton,Labourers
+360,5800,5600,5300,2,5600,Victoria,217,17.1,Rest of Vic.,11100,2RVIC,Warrnambool and South West,Labourers
+368,7000,2100,2400,3,7300,Queensland,301,7.8,Greater Brisbane,9400,3GBRI,Brisbane - East,Labourers
+376,4400,3800,3400,3,4000,Queensland,302,6.7,Greater Brisbane,7800,3GBRI,Brisbane - North,Labourers
+384,11200,9500,5200,3,7000,Queensland,303,8.4,Greater Brisbane,16500,3GBRI,Brisbane - South,Labourers
+392,3700,4000,1800,3,1600,Queensland,304,5.8,Greater Brisbane,5600,3GBRI,Brisbane - West,Labourers
+400,14300,10000,6500,3,10800,Queensland,306,15.9,Rest of Qld,20800,3RQLD,Cairns,Labourers
+408,6500,3300,3100,3,6200,Queensland,307,15,Rest of Qld,9600,3RQLD,Darling Downs - Maranoa,Labourers
+416,10500,6000,4900,3,9400,Queensland,308,13.3,Rest of Qld,15400,3RQLD,Central Queensland,Labourers
+424,18900,15400,11200,3,14700,Queensland,309,9.3,Rest of Qld,30200,3RQLD,Gold Coast,Labourers
+432,15900,10500,8400,3,13700,Queensland,310,14.2,Greater Brisbane,24200,3GBRI,Ipswich,Labourers
+440,14400,6000,7300,3,15700,Queensland,311,14,Greater Brisbane,21700,3GBRI,Logan - Beaudesert,Labourers
+448,6700,5100,4300,3,6000,Queensland,312,11.6,Rest of Qld,11000,3RQLD,Mackay - Isaac - Whitsunday,Labourers
+456,9300,5300,5600,3,9700,Queensland,313,14.4,Greater Brisbane,15000,3GBRI,Moreton Bay - North,Labourers
+464,4400,2600,2200,3,4000,Queensland,314,5.9,Greater Brisbane,6500,3GBRI,Moreton Bay - South,Labourers
+472,4200,2100,1500,3,3600,Queensland,315,14.4,Rest of Qld,5700,3RQLD,Queensland - Outback,Labourers
+480,13300,10600,6200,3,8900,Queensland,316,10.9,Rest of Qld,19500,3RQLD,Sunshine Coast,Labourers
+488,8300,3500,3700,3,8500,Queensland,317,16,Rest of Qld,12000,3RQLD,Toowoomba,Labourers
+496,9600,6500,5300,3,8400,Queensland,318,13.3,Rest of Qld,15000,3RQLD,Townsville,Labourers
+504,8300,6800,6200,3,7700,Queensland,319,13.2,Rest of Qld,14500,3RQLD,Wide Bay,Labourers
+512,7400,6000,4400,4,5700,South Australia,401,7.2,Greater Adelaide,11800,4GADE,Adelaide - Central and Hills,Labourers
+520,16400,11500,9800,4,14800,South Australia,402,13.1,Greater Adelaide,26300,4GADE,Adelaide - North,Labourers
+528,10200,9300,7200,4,8000,South Australia,403,9.6,Greater Adelaide,17400,4GADE,Adelaide - South,Labourers
+536,8100,6300,3700,4,5500,South Australia,404,10,Greater Adelaide,11800,4GADE,Adelaide - West,Labourers
+544,3600,4100,3300,4,2800,South Australia,405,13.3,Rest of SA,6900,4RSAU,Barossa - Yorke - Mid North,Labourers
+552,3300,2500,2000,4,2900,South Australia,406,13.7,Rest of SA,5400,4RSAU,South Australia - Outback,Labourers
+560,9600,6600,6200,4,9200,South Australia,407,18.1,Rest of SA,15800,4RSAU,South Australia - South East,Labourers
+568,8000,4800,4300,5,7500,Western Australia,501,13.3,Rest of WA,12300,5RWAU,Bunbury,Labourers
+576,2700,1000,1300,5,3000,Western Australia,502,9.7,Greater Perth,4000,5GPER,Mandurah,Labourers
+584,4800,5700,3300,5,2400,Western Australia,503,7.9,Greater Perth,8100,5GPER,Perth - Inner,Labourers
+592,7000,6300,5200,5,5900,Western Australia,504,8.5,Greater Perth,12100,5GPER,Perth - North East,Labourers
+600,19100,12700,9200,5,15500,Western Australia,505,9.4,Greater Perth,28200,5GPER,Perth - North West,Labourers
+608,17600,15700,12400,5,14300,Western Australia,506,11.1,Greater Perth,30000,5GPER,Perth - South East,Labourers
+616,11200,9500,7000,5,8700,Western Australia,507,8.2,Greater Perth,18100,5GPER,Perth - South West,Labourers
+624,7300,5600,4100,5,5900,Western Australia,509,16.1,Rest of WA,11400,5RWAU,Western Australia - Wheat Belt,Labourers
+632,7700,6400,4200,6,5400,Tasmania,601,10.2,Greater Hobart,11900,6GHOB,Hobart,Labourers
+640,5500,4200,4300,6,5500,Tasmania,602,13.9,Rest of Tas.,9700,6RTAS,Launceston and North East,Labourers
+648,1500,1100,1000,6,1400,Tasmania,603,14.1,Rest of Tas.,2500,6RTAS,South East,Labourers
+656,3600,3100,2900,6,3400,Tasmania,604,13.5,Rest of Tas.,6500,6RTAS,West and North West,Labourers
+664,3800,2200,2100,7,3800,Northern Territory,701,7.3,Greater Darwin,6000,7GDAR,Darwin,Labourers
+672,3300,2400,1700,7,2700,Northern Territory,702,10.3,Rest of NT,5100,7RNTE,Northern Territory - Outback,Labourers

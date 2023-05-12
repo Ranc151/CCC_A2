@@ -1,0 +1,44 @@
+{
+    "Labour_2021": [
+        {
+            "fid": "3",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Sydney",
+            "p": "155100",
+            "gccsa_code_2016": "1GSYD",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "7",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Melbourne",
+            "p": "153300",
+            "gccsa_code_2016": "2GMEL",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "11",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Brisbane",
+            "p": "82900",
+            "gccsa_code_2016": "3GBRI",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "15",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Adelaide",
+            "p": "40200",
+            "gccsa_code_2016": "4GADE",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "19",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Perth",
+            "p": "57800",
+            "gccsa_code_2016": "5GPER",
+            "state_name_abbr": "WA"
+        }
+    ]
+}

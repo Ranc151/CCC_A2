@@ -1,0 +1,6 @@
+fid, gccsa_name_2016, state_code_2016, state_name_2016, age_grp, pop, gccsa_code_2016, pop_distribution
+2,Greater Sydney,1,New South Wales,25 to 34,895500,1GSYD,20.5
+8,Greater Melbourne,2,Victoria,25 to 34,890400,2GMEL,21.1
+14,Greater Brisbane,3,Queensland,25 to 34,397300,3GBRI,19.3
+20,Greater Adelaide,4,South Australia,25 to 34,192500,4GADE,17
+26,Greater Perth,5,Western Australia,25 to 34,319100,5GPER,18.6
