@@ -22,12 +22,13 @@ couch = couchdb.Server(url)
 
 # set the db name
 db_name = 'test'
+db = couch[db_name]
 
 # Whether the database exists
-if db_name in couch:
-    db = couch[db_name]
-else:
-    db = couch.create(db_name)
+# if db_name in couch:
+#     db = couch[db_name]
+# else:
+#     db = couch.create(db_name)
 
 # divide the file into parts and then read the file in parallel using MPI
 startIndex = math.floor(bytesNo / size) * rank
