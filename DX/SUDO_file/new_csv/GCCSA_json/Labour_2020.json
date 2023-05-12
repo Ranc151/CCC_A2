@@ -1,0 +1,49 @@
+{
+    "Labour_2020": [
+        {
+            "fid": "3",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Sydney",
+            "state_code_2016": "1",
+            "state_name_2016": "New South Wales",
+            "p": "181300",
+            "gccsa_code_2016": "1GSYD"
+        },
+        {
+            "fid": "7",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Melbourne",
+            "state_code_2016": "2",
+            "state_name_2016": "Victoria",
+            "p": "192600",
+            "gccsa_code_2016": "2GMEL"
+        },
+        {
+            "fid": "11",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Brisbane",
+            "state_code_2016": "3",
+            "state_name_2016": "Queensland",
+            "p": "99300",
+            "gccsa_code_2016": "3GBRI"
+        },
+        {
+            "fid": "15",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Adelaide",
+            "state_code_2016": "4",
+            "state_name_2016": "South Australia",
+            "p": "49800",
+            "gccsa_code_2016": "4GADE"
+        },
+        {
+            "fid": "19",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Perth",
+            "state_code_2016": "5",
+            "state_name_2016": "Western Australia",
+            "p": "81200",
+            "gccsa_code_2016": "5GPER"
+        }
+    ]
+}
