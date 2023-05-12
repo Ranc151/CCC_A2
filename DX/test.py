@@ -46,7 +46,11 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                        'price level', 'wage growth', 'price stability', 'deflation',
                        'living expenses', 'food prices', 'energy prices', 'housing costs',
                        'transportation costs', 'healthcare costs', 'education costs',
-                       'childcare costs', 'retirement savings', "ta"]
+                       'childcare costs', 'retirement savings', 'fever', 'cough', 'sore throat', 'nasal congestion',
+                       'runny nose', 'sneezing', 'body aches', 'fatigue', 'loss of appetite', 'headache', 'chills',
+                       'employed full-time', 'employed part-time', 'not in labour force', 'unemployed total',
+                       '15 to 24', '25 to 34', '35 to44',
+                       '45 to 54', '55 to 64', '65 and over']
             stop_all_loops = False
             for i in keyword_area:
                 if i in new_line.lower():
