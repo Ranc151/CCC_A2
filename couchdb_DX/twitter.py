@@ -21,7 +21,7 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 'test'
+db_name = 'twitter_dataset'
 db = couch[db_name]
 
 # Whether the database exists
@@ -52,7 +52,7 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                                 'preventative measures', 'mask', 'social distancing', 'testing',
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
                                 'state of emergency']
-            keyword_time = ["2020", "2021", "2022"]
+            keyword_time = ["2020", "2021"]
             keyword = ['unemployment rate', 'employment rate', 'job seekers', 'job vacancies', 'career transition',
                        'labor market', 'salary',
                        'full-time', 'part-time', 'self-employment', 'vocational training',
