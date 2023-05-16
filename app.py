@@ -5,7 +5,7 @@ from flask_restful import Api, Resource
 
 # setting config
 app = Flask(__name__)
-api = Api(app)
+
 
 
 # app.config['DEBUG'] = True          # debug model open
@@ -35,16 +35,6 @@ def api_1():
         return
 
 
-class api_2(Resource):
-    def get(self, id=None):
-        if not id:
-            return
-        else:
-            print(id)
-            return
-
-    def post(self):
-        return
 
 
 if __name__ == '__main__':
