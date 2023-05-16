@@ -31,7 +31,6 @@ endIndex = startIndex + math.floor(bytesNo / size)
 # start to store the data
 with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     if rank == 0:  # rank 0 is the first part of this file so need ignore the '[' at the beginning of
-        # twitter-data-small.json
         new_line = file.readline()  # ignore the '[' at the beginning of twitter-data-small.json
     file.seek(startIndex)  # Read in from the assigned part
 
