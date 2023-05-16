@@ -1,8 +1,8 @@
 import csv
 import json
 
-csv_file = 'Labour_2021.csv'
-json_file = 'Labour_2021.json'
+csv_file = 'Labour_2020.csv'
+json_file = '../SA4_json/Labour_2020.json'
 
 data = []
 
