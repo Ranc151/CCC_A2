@@ -20,9 +20,21 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
+<<<<<<< HEAD
 db_name = 'twitter_dataset'
 db = couch[db_name]
 
+=======
+db_name = 't'
+# db = couch[db_name]
+
+# Whether the database exists
+if db_name in couch:
+    db = couch[db_name]
+else:
+    db = couch.create(db_name)
+
+>>>>>>> origin/master
 # divide the file into parts and then read the file in parallel using MPI
 startIndex = math.floor(bytesNo / size) * rank
 endIndex = startIndex + math.floor(bytesNo / size)
@@ -37,6 +49,7 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
+<<<<<<< HEAD
             keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra',
                             'Australian', 'Australia']
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
@@ -71,17 +84,21 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                                     for t in keyword:
                                         if t in new_line:
                                             stop_all_loops = True
+=======
+>>>>>>> origin/master
 
-                                            twitter = json.loads(new_line[:-2])  # load a json string to dict
-                                            t_id = twitter.get("id")
-                                            doc = db.get("_id")
-                                            if db.get(t_id):
-                                                rev = db.get(t_id).rev
-                                                twitter["_id"] = t_id
-                                                twitter["_rev"] = rev
-                                            else:
-                                                twitter["_id"] = t_id
+            twitter = json.loads(new_line[:-2])  # load a json string to dict
+            t_id = twitter.get("id")
+            doc = db.get("_id")
+            if db.get(t_id):
+                rev = db.get(t_id).rev
+                twitter["_id"] = t_id
+                twitter["_rev"] = rev
+            else:
+                twitter["_id"] = t_id
+                doc_id, doc_rev = db.save(twitter)  # analyse the twitter
 
+<<<<<<< HEAD
                                             doc_id, doc_rev = db.save(twitter)  # analyse the twitter
                                             break
                                     if stop_all_loops:
@@ -90,6 +107,8 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
                                 break
                     if stop_all_loops:
                         break
+=======
+>>>>>>> origin/master
             if file.tell() >= endIndex:  # stops when the assigned range is exceeded
                 break
         else:

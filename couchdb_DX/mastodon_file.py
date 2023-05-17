@@ -41,7 +41,7 @@ class Listener(StreamListener):
                             'preventative measures', 'mask', 'social distancing', 'testing',
                             'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
                             'state of emergency']
-        keyword_time = ["2020", "2021", "2022"]
+        keyword_time = ["2020", "2021"]
         keyword = ['unemployment rate', 'employment rate', 'job seekers', 'job vacancies', 'career transition',
                    'labor market', 'salary',
                    'full-time', 'part-time', 'self-employment', 'vocational training',

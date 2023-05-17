@@ -33,6 +33,7 @@ def read_data_from_server(n_url, n_token):
         def on_update(self, status):
             # do sth
             json_str = json.dumps(status, indent=2, sort_keys=True, default=str)
+<<<<<<< HEAD
             keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra',
                             'Australian', 'Australia']
             keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
@@ -81,6 +82,19 @@ def read_data_from_server(n_url, n_token):
                                 break
                     if stop_all_loops:
                         break
+=======
+
+            mastodon = json.loads(json_str)
+            t_id = mastodon.get("account").get("acct")
+            if db.get(t_id):
+                rev = db.get(t_id).rev
+                mastodon["_id"] = t_id
+                mastodon["_rev"] = rev
+            else:
+                mastodon["_id"] = t_id
+            doc_id, doc_rev = db.save(mastodon)
+            print(f'Document saved with ID: {doc_id} and revision: {doc_rev}')
+>>>>>>> origin/master
 
     # make it better with try-catch and error-handling
     m.stream_public(Listener())

@@ -1,8 +1,8 @@
 import csv
 import json
 
-csv_file = 'Labour_2021.csv'  # 输入的CSV文件路径
-json_file = 'Labour_2021.json'  # 输出的JSON文件路径
+csv_file = 'Labour_2020.csv'  # 输入的CSV文件路径
+json_file = '../GCCSA_json/Labour_2020.json'  # 输出的JSON文件路径
 
 data = []
 
