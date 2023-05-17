@@ -43,6 +43,8 @@ def generate_random_color():
     return r, g, b
 
 
+sum_g = [0, 0]
+sum_s = [0, 0]
 employer = ["Employed Full-Time", "Unemployed Total"]
 k = [labour_21_em, labour_21_unem]
 for p in range(2):
@@ -52,17 +54,17 @@ for p in range(2):
         key.append(i.split(" ")[1])
     for i in k[p]:
         items.append(k[p][i])
+        sum_g[p] = sum_g[p] + int(k[p][i])
     fig, ax = plt.subplots()
     color = generate_random_color()
     fig.patch.set_facecolor('lightgray')
     ax.bar(key, items, color=color)
-    ax.set(xlabel="city", ylabel="Population", title=employer[p]+" Grand capital")
+    ax.set(xlabel="city", ylabel="Population", title=employer[p] + " Grand capital")
     plt.xticks(rotation=45)
     for o in range(len(key)):
         plt.text(key[o], items[o], str(items[o]), ha='center', va='bottom')
 
     plt.show()
-
 
 ## SA4
 # get couchdb instance
@@ -97,17 +99,17 @@ for p in range(2):
         key.append(i.split(" ")[-1])
     for i in k[p]:
         items.append(k[p][i])
+        sum_s[p] = sum_s[p] + int(k[p][i])
     fig, ax = plt.subplots()
     color = generate_random_color()
     fig.patch.set_facecolor('lightgray')
     ax.bar(key[0:10], items[0:10], color=color)
     plt.xticks(rotation=45)
-    ax.set(xlabel="city", ylabel="Population", title=employer[p]+" Small city", )
+    ax.set(xlabel="city", ylabel="Population", title=employer[p] + " Small city", )
     for o in range(len(key[0:10])):
         plt.text(key[o], items[o], str(items[o]), ha='center', va='bottom')
 
     plt.show()
 
-sum1 = sum()
 
-
+print()
