@@ -11,7 +11,7 @@ password = 'Sjx991225'
 url = f'http://{admin}:{password}@172.26.130.209:5984/'
 server=couchdb.Server(url)
 # get couchdb instance
-db = server['twitter']
+db = server['sudo(s)']
 
 # 获取数据库中的所有文档
 docs = [row.doc for row in db.view('_all_docs', include_docs=True)]
@@ -30,11 +30,3 @@ with open('merged_docs.json', 'r') as f:
 
 print(json.dumps(merged_data, indent=4))
 
-dict1 = {}
-dict1_list = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra', 'Australian', 'Australia']
-for keyword_area in merged_data.keys():
-    dict1_list[keyword_area] = merged_data.get(keyword_area).get("city").lower().replace(" ", "")
-
-for sub in list(dict1.keys()):
-    if dict1.get(sub) not in dict1_list:
-        del dict1[sub]
