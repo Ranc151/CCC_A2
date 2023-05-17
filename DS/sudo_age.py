@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import random
 import numpy as np
 
-# Login authentication
+# Login authentications
 admin = 'admin'
 password = 'Sjx991225'
 url = f'http://{admin}:{password}@172.26.130.209:5984/'
