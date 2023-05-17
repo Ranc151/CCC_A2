@@ -1,0 +1,86 @@
+fid, sa4_code_2016, age_grp, sa4_name_2016, pop, pop_distribution, state_name_abbr
+2,102,25 to 34,Central Coast,33900,12.10000038,NSW
+8,115,25 to 34,Sydney - Baulkham Hills and Hawkesbury,32200,15.5,NSW
+14,116,25 to 34,Sydney - Blacktown,65700,21.79999924,NSW
+20,117,25 to 34,Sydney - City and Inner South,112600,33.5,NSW
+26,118,25 to 34,Sydney - Eastern Suburbs,63700,25.39999962,NSW
+32,119,25 to 34,Sydney - Inner South West,98400,19.10000038,NSW
+38,120,25 to 34,Sydney - Inner West,59600,21.60000038,NSW
+44,121,25 to 34,Sydney - North Sydney and Hornsby,47600,13.19999981,NSW
+50,122,25 to 34,Sydney - Northern Beaches,30400,13.69999981,NSW
+56,123,25 to 34,Sydney - Outer South West,42400,18.39999962,NSW
+62,124,25 to 34,Sydney - Outer West and Blue Mountains,53000,20.10000038,NSW
+68,125,25 to 34,Sydney - Parramatta,95500,23.5,NSW
+74,126,25 to 34,Sydney - Ryde,37100,21.39999962,NSW
+80,127,25 to 34,Sydney - South West,72700,19.79999924,NSW
+86,128,25 to 34,Sydney - Sutherland,34000,18.10000038,NSW
+92,101,25 to 34,Capital Region,34200,18,NSW
+98,103,25 to 34,Central West,22700,13.39999962,NSW
+104,104,25 to 34,Coffs Harbour - Grafton,10200,8.800000191,NSW
+110,105,25 to 34,Far West and Orana,14500,16,NSW
+116,106,25 to 34,Hunter Valley exc Newcastle,33700,14.80000019,NSW
+122,107,25 to 34,Illawarra,37900,14.5,NSW
+128,108,25 to 34,Mid North Coast,19000,10.10000038,NSW
+134,109,25 to 34,Murray,15300,15.39999962,NSW
+140,110,25 to 34,New England and North West,14400,9.699999809,NSW
+146,111,25 to 34,Newcastle and Lake Macquarie,53200,17,NSW
+152,112,25 to 34,Richmond - Tweed,25100,11.89999962,NSW
+158,113,25 to 34,Riverina,18900,14.80000019,NSW
+164,114,25 to 34,Southern Highlands and Shoalhaven,14400,11,NSW
+170,206,25 to 34,Melbourne - Inner,193900,30.60000038,VIC
+176,207,25 to 34,Melbourne - Inner East,55300,16.70000076,VIC
+182,208,25 to 34,Melbourne - Inner South,48800,13.30000019,VIC
+188,209,25 to 34,Melbourne - North East,82200,18.10000038,VIC
+194,210,25 to 34,Melbourne - North West,72600,21.39999962,VIC
+200,211,25 to 34,Melbourne - Outer East,69100,16,VIC
+206,212,25 to 34,Melbourne - South East,147800,21,VIC
+212,213,25 to 34,Melbourne - West,156600,23,VIC
+218,214,25 to 34,Mornington Peninsula,36600,14.60000038,VIC
+224,201,25 to 34,Ballarat,20100,14.60000038,VIC
+230,202,25 to 34,Bendigo,16000,12,VIC
+236,203,25 to 34,Geelong,36800,14.19999981,VIC
+242,204,25 to 34,Hume,22500,15.60000038,VIC
+248,205,25 to 34,Latrobe - Gippsland,36600,15.5,VIC
+254,215,25 to 34,North West,15900,13.10000038,VIC
+260,216,25 to 34,Shepparton,12600,11.69999981,VIC
+266,217,25 to 34,Warrnambool and South West,13100,12.89999962,VIC
+272,301,25 to 34,Brisbane - East,25600,13,QLD
+278,302,25 to 34,Brisbane - North,32400,17.29999924,QLD
+284,303,25 to 34,Brisbane - South,59700,19,QLD
+290,304,25 to 34,Brisbane - West,24600,15.69999981,QLD
+296,305,25 to 34,Brisbane Inner City,78100,29.79999924,QLD
+302,310,25 to 34,Ipswich,61100,21.10000038,QLD
+308,311,25 to 34,Logan - Beaudesert,57400,20.5,QLD
+314,313,25 to 34,Moreton Bay - North,26000,12.10000038,QLD
+320,314,25 to 34,Moreton Bay - South,31900,18.10000038,QLD
+326,306,25 to 34,Cairns,35600,17.29999924,QLD
+332,307,25 to 34,Darling Downs - Maranoa,13400,13.19999981,QLD
+338,308,25 to 34,Central Queensland,32300,18.10000038,QLD
+344,309,25 to 34,Gold Coast,83100,15.30000019,QLD
+350,312,25 to 34,Mackay - Isaac - Whitsunday,21600,15.60000038,QLD
+356,315,25 to 34,Queensland - Outback,14200,22.60000038,QLD
+362,316,25 to 34,Sunshine Coast,41300,12.5,QLD
+368,317,25 to 34,Toowoomba,17600,13.69999981,QLD
+374,318,25 to 34,Townsville,35100,18.70000076,QLD
+380,319,25 to 34,Wide Bay,27700,11,QLD
+386,401,25 to 34,Adelaide - Central and Hills,40200,15.39999962,SA
+392,402,25 to 34,Adelaide - North,69600,19.39999962,SA
+398,403,25 to 34,Adelaide - South,43800,14.10000038,SA
+404,404,25 to 34,Adelaide - West,37700,18.29999924,SA
+410,405,25 to 34,Barossa - Yorke - Mid North,9200,9.699999809,SA
+416,406,25 to 34,South Australia - Outback,10600,15.80000019,SA
+422,407,25 to 34,South Australia - South East,20700,12.69999981,SA
+428,502,25 to 34,Mandurah,11200,12.89999962,WA
+434,503,25 to 34,Perth - Inner,27500,17.20000076,WA
+440,504,25 to 34,Perth - North East,35300,15.69999981,WA
+446,505,25 to 34,Perth - North West,80300,17.20000076,WA
+452,506,25 to 34,Perth - South East,89300,20.70000076,WA
+458,507,25 to 34,Perth - South West,70600,19.70000076,WA
+464,501,25 to 34,Bunbury,19700,13.19999981,WA
+470,509,25 to 34,Western Australia - Wheat Belt,12900,11.5,WA
+476,601,25 to 34,Hobart,33000,16.79999924,TAS
+482,602,25 to 34,Launceston and North East,19000,15.39999962,TAS
+488,603,25 to 34,South East,2900,8.5,TAS
+494,604,25 to 34,West and North West,11700,12.39999962,TAS
+500,701,25 to 34,Darwin,24400,21.39999962,NT
+506,702,25 to 34,Northern Territory - Outback,18400,24.29999924,NT

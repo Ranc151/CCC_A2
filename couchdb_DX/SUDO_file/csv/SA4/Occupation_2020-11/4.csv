@@ -1,0 +1,85 @@
+fid, empy_m, empy_pt, empy_f, state_code_2016, empy_ft, state_name_2016, sa4_code_2016, mpy_distribution, gccsa_name_2016, mpy_by_occ_tot, gccsa_code_2016, sa4_name_2016, occ
+7,5200,1300,800,1,4700,New South Wales,101,5.4,Rest of NSW,6000,1RNSW,Capital Region,Machinery Operators And Drivers
+15,8200,1500,700,1,7400,New South Wales,102,5.7,Greater Sydney,8900,1GSYD,Central Coast,Machinery Operators And Drivers
+23,8400,1700,900,1,7600,New South Wales,103,8.4,Rest of NSW,9300,1RNSW,Central West,Machinery Operators And Drivers
+31,2600,300,500,1,2800,New South Wales,104,5.8,Rest of NSW,3100,1RNSW,Coffs Harbour - Grafton,Machinery Operators And Drivers
+39,5400,1200,600,1,4900,New South Wales,105,11.1,Rest of NSW,6100,1RNSW,Far West and Orana,Machinery Operators And Drivers
+47,10800,1800,2400,1,11400,New South Wales,106,10.1,Rest of NSW,13200,1RNSW,Hunter Valley exc Newcastle,Machinery Operators And Drivers
+55,7100,1100,600,1,6600,New South Wales,107,5.1,Rest of NSW,7700,1RNSW,Illawarra,Machinery Operators And Drivers
+63,3500,2000,0,1,1500,New South Wales,108,4.2,Rest of NSW,3500,1RNSW,Mid North Coast,Machinery Operators And Drivers
+71,4600,400,100,1,4300,New South Wales,109,8.4,Rest of NSW,4700,1RNSW,Murray,Machinery Operators And Drivers
+79,9400,1200,1200,1,9400,New South Wales,110,12.4,Rest of NSW,10600,1RNSW,New England and North West,Machinery Operators And Drivers
+87,11100,1300,300,1,10100,New South Wales,111,6.3,Rest of NSW,11400,1RNSW,Newcastle and Lake Macquarie,Machinery Operators And Drivers
+95,6500,1600,500,1,5400,New South Wales,112,6,Rest of NSW,7000,1RNSW,Richmond - Tweed,Machinery Operators And Drivers
+103,4900,1400,800,1,4300,New South Wales,113,7,Rest of NSW,5700,1RNSW,Riverina,Machinery Operators And Drivers
+111,4500,600,100,1,4000,New South Wales,114,7.5,Rest of NSW,4600,1RNSW,Southern Highlands and Shoalhaven,Machinery Operators And Drivers
+119,5000,700,0,1,4400,New South Wales,115,3.8,Greater Sydney,5000,1GSYD,Sydney - Baulkham Hills and Hawkesbury,Machinery Operators And Drivers
+127,19200,3100,3900,1,20000,New South Wales,116,12.2,Greater Sydney,23100,1GSYD,Sydney - Blacktown,Machinery Operators And Drivers
+135,2300,1600,400,1,1100,New South Wales,117,1.1,Greater Sydney,2700,1GSYD,Sydney - City and Inner South,Machinery Operators And Drivers
+143,2300,1000,1200,1,2500,New South Wales,118,2,Greater Sydney,3500,1GSYD,Sydney - Eastern Suburbs,Machinery Operators And Drivers
+151,17800,4300,1900,1,15500,New South Wales,119,6.5,Greater Sydney,19700,1GSYD,Sydney - Inner South West,Machinery Operators And Drivers
+159,4300,1400,0,1,2900,New South Wales,120,2.3,Greater Sydney,4300,1GSYD,Sydney - Inner West,Machinery Operators And Drivers
+167,2600,300,0,1,2300,New South Wales,121,1.1,Greater Sydney,2600,1GSYD,Sydney - North Sydney and Hornsby,Machinery Operators And Drivers
+175,3000,700,700,1,3000,New South Wales,122,2.5,Greater Sydney,3700,1GSYD,Sydney - Northern Beaches,Machinery Operators And Drivers
+183,12200,2600,1200,1,10800,New South Wales,123,9.1,Greater Sydney,13400,1GSYD,Sydney - Outer South West,Machinery Operators And Drivers
+191,12100,1800,900,1,11300,New South Wales,124,8,Greater Sydney,13100,1GSYD,Sydney - Outer West and Blue Mountains,Machinery Operators And Drivers
+199,12800,4900,2100,1,10000,New South Wales,125,6.3,Greater Sydney,14800,1GSYD,Sydney - Parramatta,Machinery Operators And Drivers
+207,3100,900,700,1,2800,New South Wales,126,3.2,Greater Sydney,3700,1GSYD,Sydney - Ryde,Machinery Operators And Drivers
+215,18900,5100,3700,1,17600,New South Wales,127,11.5,Greater Sydney,22600,1GSYD,Sydney - South West,Machinery Operators And Drivers
+223,6100,1000,1000,1,6200,New South Wales,128,5.8,Greater Sydney,7200,1GSYD,Sydney - Sutherland,Machinery Operators And Drivers
+231,4700,300,600,2,5000,Victoria,201,6.6,Rest of Vic.,5300,2RVIC,Ballarat,Machinery Operators And Drivers
+239,4000,500,0,2,3500,Victoria,202,5.2,Rest of Vic.,4000,2RVIC,Bendigo,Machinery Operators And Drivers
+247,7800,2600,800,2,6000,Victoria,203,5.4,Rest of Vic.,8600,2RVIC,Geelong,Machinery Operators And Drivers
+255,5900,1600,1200,2,5500,Victoria,204,7.6,Rest of Vic.,7200,2RVIC,Hume,Machinery Operators And Drivers
+263,10100,1300,200,2,8900,Victoria,205,8.3,Rest of Vic.,10200,2RVIC,Latrobe - Gippsland,Machinery Operators And Drivers
+271,8200,2600,800,2,6400,Victoria,206,2,Greater Melbourne,9000,2GMEL,Melbourne - Inner,Machinery Operators And Drivers
+279,3400,1500,500,2,2400,Victoria,207,1.8,Greater Melbourne,3900,2GMEL,Melbourne - Inner East,Machinery Operators And Drivers
+287,4100,800,300,2,3500,Victoria,208,1.9,Greater Melbourne,4400,2GMEL,Melbourne - Inner South,Machinery Operators And Drivers
+295,14900,3100,2300,2,14200,Victoria,209,6.2,Greater Melbourne,17300,2GMEL,Melbourne - North East,Machinery Operators And Drivers
+303,14700,5300,3200,2,12700,Victoria,210,9.6,Greater Melbourne,18000,2GMEL,Melbourne - North West,Machinery Operators And Drivers
+311,10300,2000,900,2,9100,Victoria,211,4.2,Greater Melbourne,11200,2GMEL,Melbourne - Outer East,Machinery Operators And Drivers
+319,28400,5400,7000,2,30000,Victoria,212,8.3,Greater Melbourne,35400,2GMEL,Melbourne - South East,Machinery Operators And Drivers
+327,40200,10200,5600,2,35600,Victoria,213,11.4,Greater Melbourne,45800,2GMEL,Melbourne - West,Machinery Operators And Drivers
+335,8100,1800,1100,2,7400,Victoria,214,5.9,Greater Melbourne,9200,2GMEL,Mornington Peninsula,Machinery Operators And Drivers
+343,3800,900,200,2,3200,Victoria,215,5.9,Rest of Vic.,4100,2RVIC,North West,Machinery Operators And Drivers
+351,3000,400,600,2,3300,Victoria,216,5.9,Rest of Vic.,3600,2RVIC,Shepparton,Machinery Operators And Drivers
+359,3400,900,500,2,2900,Victoria,217,5.8,Rest of Vic.,3800,2RVIC,Warrnambool and South West,Machinery Operators And Drivers
+367,7400,700,500,3,7100,Queensland,301,6.5,Greater Brisbane,7900,3GBRI,Brisbane - East,Machinery Operators And Drivers
+375,5400,2400,800,3,3800,Queensland,302,5.3,Greater Brisbane,6100,3GBRI,Brisbane - North,Machinery Operators And Drivers
+383,7200,2200,700,3,5600,Queensland,303,4,Greater Brisbane,7900,3GBRI,Brisbane - South,Machinery Operators And Drivers
+391,1800,800,400,3,1400,Queensland,304,2.3,Greater Brisbane,2200,3GBRI,Brisbane - West,Machinery Operators And Drivers
+399,9400,1900,1300,3,8900,Queensland,306,8.3,Rest of Qld,10800,3RQLD,Cairns,Machinery Operators And Drivers
+407,5900,200,200,3,5900,Queensland,307,9.7,Rest of Qld,6200,3RQLD,Darling Downs - Maranoa,Machinery Operators And Drivers
+415,11400,1400,900,3,10800,Queensland,308,10.5,Rest of Qld,12200,3RQLD,Central Queensland,Machinery Operators And Drivers
+423,14400,3500,1500,3,12400,Queensland,309,4.9,Rest of Qld,15900,3RQLD,Gold Coast,Machinery Operators And Drivers
+431,16400,2700,1000,3,14700,Queensland,310,10.2,Greater Brisbane,17400,3GBRI,Ipswich,Machinery Operators And Drivers
+439,17500,1700,1900,3,17600,Queensland,311,12.4,Greater Brisbane,19300,3GBRI,Logan - Beaudesert,Machinery Operators And Drivers
+447,10400,500,1200,3,11100,Queensland,312,12.2,Rest of Qld,11600,3RQLD,Mackay - Isaac - Whitsunday,Machinery Operators And Drivers
+455,9800,1600,500,3,8700,Queensland,313,9.9,Greater Brisbane,10300,3GBRI,Moreton Bay - North,Machinery Operators And Drivers
+463,5500,1300,1200,3,5400,Queensland,314,6.1,Greater Brisbane,6700,3GBRI,Moreton Bay - South,Machinery Operators And Drivers
+471,3500,0,900,3,4400,Queensland,315,11.1,Rest of Qld,4400,3RQLD,Queensland - Outback,Machinery Operators And Drivers
+479,6700,1900,800,3,5700,Queensland,316,4.2,Rest of Qld,7500,3RQLD,Sunshine Coast,Machinery Operators And Drivers
+487,4700,900,300,3,4100,Queensland,317,6.7,Rest of Qld,5000,3RQLD,Toowoomba,Machinery Operators And Drivers
+495,9200,2100,1500,3,8600,Queensland,318,9.5,Rest of Qld,10700,3RQLD,Townsville,Machinery Operators And Drivers
+503,7800,1600,1400,3,7500,Queensland,319,8.3,Rest of Qld,9100,3RQLD,Wide Bay,Machinery Operators And Drivers
+511,4500,700,400,4,4200,South Australia,401,2.9,Greater Adelaide,4800,4GADE,Adelaide - Central and Hills,Machinery Operators And Drivers
+519,15600,4300,1800,4,13000,South Australia,402,8.6,Greater Adelaide,17300,4GADE,Adelaide - North,Machinery Operators And Drivers
+527,8000,2300,700,4,6400,South Australia,403,4.8,Greater Adelaide,8600,4GADE,Adelaide - South,Machinery Operators And Drivers
+535,6200,1300,600,4,5600,South Australia,404,5.8,Greater Adelaide,6800,4GADE,Adelaide - West,Machinery Operators And Drivers
+543,3500,900,600,4,3200,South Australia,405,7.7,Rest of SA,4000,4RSAU,Barossa - Yorke - Mid North,Machinery Operators And Drivers
+551,4600,500,200,4,4300,South Australia,406,12.4,Rest of SA,4900,4RSAU,South Australia - Outback,Machinery Operators And Drivers
+559,5700,1100,500,4,5100,South Australia,407,7.1,Rest of SA,6200,4RSAU,South Australia - South East,Machinery Operators And Drivers
+567,9300,1000,400,5,8700,Western Australia,501,10.5,Rest of WA,9700,5RWAU,Bunbury,Machinery Operators And Drivers
+575,3100,100,900,5,3900,Western Australia,502,9.7,Greater Perth,4000,5GPER,Mandurah,Machinery Operators And Drivers
+583,1300,400,0,5,1000,Western Australia,503,1.3,Greater Perth,1300,5GPER,Perth - Inner,Machinery Operators And Drivers
+591,12200,1800,2100,5,12500,Western Australia,504,10,Greater Perth,14300,5GPER,Perth - North East,Machinery Operators And Drivers
+599,17900,3100,1800,5,16600,Western Australia,505,6.5,Greater Perth,19700,5GPER,Perth - North West,Machinery Operators And Drivers
+607,18700,3400,2300,5,17500,Western Australia,506,7.7,Greater Perth,20900,5GPER,Perth - South East,Machinery Operators And Drivers
+615,15100,2200,1900,5,14800,Western Australia,507,7.7,Greater Perth,17000,5GPER,Perth - South West,Machinery Operators And Drivers
+623,5100,1300,1100,5,4900,Western Australia,509,8.8,Rest of WA,6200,5RWAU,Western Australia - Wheat Belt,Machinery Operators And Drivers
+631,5600,1800,400,6,4300,Tasmania,601,5.1,Greater Hobart,6000,6GHOB,Hobart,Machinery Operators And Drivers
+639,4600,1000,400,6,4000,Tasmania,602,7.2,Rest of Tas.,5000,6RTAS,Launceston and North East,Machinery Operators And Drivers
+647,1000,400,200,6,800,Tasmania,603,6.8,Rest of Tas.,1200,6RTAS,South East,Machinery Operators And Drivers
+655,3900,900,400,6,3400,Tasmania,604,8.9,Rest of Tas.,4300,6RTAS,West and North West,Machinery Operators And Drivers
+663,4600,900,300,7,4100,Northern Territory,701,6.1,Greater Darwin,5000,7GDAR,Darwin,Machinery Operators And Drivers
+671,1900,300,0,7,1600,Northern Territory,702,3.9,Rest of NT,1900,7RNTE,Northern Territory - Outback,Machinery Operators And Drivers

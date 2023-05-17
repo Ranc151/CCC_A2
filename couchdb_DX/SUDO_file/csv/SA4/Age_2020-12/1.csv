@@ -1,0 +1,85 @@
+fid, gccsa_name_2016, state_code_2016, state_name_2016, sa4_code_2016, age_grp, sa4_name_2016, pop, gccsa_code_2016, pop_distribution
+1,Rest of NSW,1,New South Wales,101,15 to 24,Capital Region,22900,1RNSW,12.2
+7,Greater Sydney,1,New South Wales,102,15 to 24,Central Coast,39500,1GSYD,14.1
+13,Rest of NSW,1,New South Wales,103,15 to 24,Central West,24200,1RNSW,14.2
+19,Rest of NSW,1,New South Wales,104,15 to 24,Coffs Harbour - Grafton,14400,1RNSW,12.4
+25,Rest of NSW,1,New South Wales,105,15 to 24,Far West and Orana,9400,1RNSW,10.2
+31,Rest of NSW,1,New South Wales,106,15 to 24,Hunter Valley exc Newcastle,30200,1RNSW,13.5
+37,Rest of NSW,1,New South Wales,107,15 to 24,Illawarra,43500,1RNSW,16.8
+43,Rest of NSW,1,New South Wales,108,15 to 24,Mid North Coast,21500,1RNSW,11.5
+49,Rest of NSW,1,New South Wales,109,15 to 24,Murray,14000,1RNSW,14.3
+55,Rest of NSW,1,New South Wales,110,15 to 24,New England and North West,17800,1RNSW,11.9
+61,Rest of NSW,1,New South Wales,111,15 to 24,Newcastle and Lake Macquarie,52300,1RNSW,16.9
+67,Rest of NSW,1,New South Wales,112,15 to 24,Richmond - Tweed,27900,1RNSW,13.4
+73,Rest of NSW,1,New South Wales,113,15 to 24,Riverina,21200,1RNSW,16.5
+79,Rest of NSW,1,New South Wales,114,15 to 24,Southern Highlands and Shoalhaven,16200,1RNSW,12.5
+85,Greater Sydney,1,New South Wales,115,15 to 24,Sydney - Baulkham Hills and Hawkesbury,39300,1GSYD,19.3
+91,Greater Sydney,1,New South Wales,116,15 to 24,Sydney - Blacktown,46100,1GSYD,15.6
+97,Greater Sydney,1,New South Wales,117,15 to 24,Sydney - City and Inner South,39500,1GSYD,11.7
+103,Greater Sydney,1,New South Wales,118,15 to 24,Sydney - Eastern Suburbs,37300,1GSYD,14.9
+109,Greater Sydney,1,New South Wales,119,15 to 24,Sydney - Inner South West,78400,1GSYD,15.2
+115,Greater Sydney,1,New South Wales,120,15 to 24,Sydney - Inner West,43400,1GSYD,15.6
+121,Greater Sydney,1,New South Wales,121,15 to 24,Sydney - North Sydney and Hornsby,51400,1GSYD,14.2
+127,Greater Sydney,1,New South Wales,122,15 to 24,Sydney - Northern Beaches,33700,1GSYD,15.1
+133,Greater Sydney,1,New South Wales,123,15 to 24,Sydney - Outer South West,44100,1GSYD,19.3
+139,Greater Sydney,1,New South Wales,124,15 to 24,Sydney - Outer West and Blue Mountains,43800,1GSYD,16.7
+145,Greater Sydney,1,New South Wales,125,15 to 24,Sydney - Parramatta,63700,1GSYD,15.5
+151,Greater Sydney,1,New South Wales,126,15 to 24,Sydney - Ryde,31700,1GSYD,18.2
+157,Greater Sydney,1,New South Wales,127,15 to 24,Sydney - South West,71900,1GSYD,19.7
+163,Greater Sydney,1,New South Wales,128,15 to 24,Sydney - Sutherland,25700,1GSYD,13.8
+169,Rest of Vic.,2,Victoria,201,15 to 24,Ballarat,19600,2RVIC,14.2
+175,Rest of Vic.,2,Victoria,202,15 to 24,Bendigo,21200,2RVIC,15.8
+181,Rest of Vic.,2,Victoria,203,15 to 24,Geelong,39200,2RVIC,15.2
+187,Rest of Vic.,2,Victoria,204,15 to 24,Hume,16900,2RVIC,11.6
+193,Rest of Vic.,2,Victoria,205,15 to 24,Latrobe - Gippsland,27600,2RVIC,11.6
+199,Greater Melbourne,2,Victoria,206,15 to 24,Melbourne - Inner,94700,2GMEL,14.8
+205,Greater Melbourne,2,Victoria,207,15 to 24,Melbourne - Inner East,62600,2GMEL,18.6
+211,Greater Melbourne,2,Victoria,208,15 to 24,Melbourne - Inner South,68600,2GMEL,18.5
+217,Greater Melbourne,2,Victoria,209,15 to 24,Melbourne - North East,60100,2GMEL,13.2
+223,Greater Melbourne,2,Victoria,210,15 to 24,Melbourne - North West,64100,2GMEL,18.9
+229,Greater Melbourne,2,Victoria,211,15 to 24,Melbourne - Outer East,60000,2GMEL,13.7
+235,Greater Melbourne,2,Victoria,212,15 to 24,Melbourne - South East,127900,2GMEL,18
+241,Greater Melbourne,2,Victoria,213,15 to 24,Melbourne - West,102000,2GMEL,15
+247,Greater Melbourne,2,Victoria,214,15 to 24,Mornington Peninsula,34400,2GMEL,13.5
+253,Rest of Vic.,2,Victoria,215,15 to 24,North West,13300,2RVIC,10.7
+259,Rest of Vic.,2,Victoria,216,15 to 24,Shepparton,20400,2RVIC,18.7
+265,Rest of Vic.,2,Victoria,217,15 to 24,Warrnambool and South West,15000,2RVIC,14.6
+271,Greater Brisbane,3,Queensland,301,15 to 24,Brisbane - East,25300,3GBRI,12.9
+277,Greater Brisbane,3,Queensland,302,15 to 24,Brisbane - North,25400,3GBRI,13.6
+283,Greater Brisbane,3,Queensland,303,15 to 24,Brisbane - South,57600,3GBRI,18.4
+289,Greater Brisbane,3,Queensland,304,15 to 24,Brisbane - West,33600,3GBRI,21.4
+295,Rest of Qld,3,Queensland,306,15 to 24,Cairns,30100,3RQLD,14.7
+301,Rest of Qld,3,Queensland,307,15 to 24,Darling Downs - Maranoa,15000,3RQLD,14.7
+307,Rest of Qld,3,Queensland,308,15 to 24,Central Queensland,23800,3RQLD,13.4
+313,Rest of Qld,3,Queensland,309,15 to 24,Gold Coast,83500,3RQLD,15.7
+319,Greater Brisbane,3,Queensland,310,15 to 24,Ipswich,53600,3GBRI,18.8
+325,Greater Brisbane,3,Queensland,311,15 to 24,Logan - Beaudesert,43300,3GBRI,15.8
+331,Rest of Qld,3,Queensland,312,15 to 24,Mackay - Isaac - Whitsunday,20200,3RQLD,14.7
+337,Greater Brisbane,3,Queensland,313,15 to 24,Moreton Bay - North,26400,3GBRI,12.5
+343,Greater Brisbane,3,Queensland,314,15 to 24,Moreton Bay - South,30100,3GBRI,17.4
+349,Rest of Qld,3,Queensland,315,15 to 24,Queensland - Outback,9900,3RQLD,15.7
+355,Rest of Qld,3,Queensland,316,15 to 24,Sunshine Coast,48000,3RQLD,14.8
+361,Rest of Qld,3,Queensland,317,15 to 24,Toowoomba,13800,3RQLD,10.8
+367,Rest of Qld,3,Queensland,318,15 to 24,Townsville,32800,3RQLD,17.7
+373,Rest of Qld,3,Queensland,319,15 to 24,Wide Bay,33800,3RQLD,13.5
+379,Greater Adelaide,4,South Australia,401,15 to 24,Adelaide - Central and Hills,38900,4GADE,15.1
+385,Greater Adelaide,4,South Australia,402,15 to 24,Adelaide - North,55400,4GADE,15.5
+391,Greater Adelaide,4,South Australia,403,15 to 24,Adelaide - South,48900,4GADE,15.8
+397,Greater Adelaide,4,South Australia,404,15 to 24,Adelaide - West,29500,4GADE,14.4
+403,Rest of SA,4,South Australia,405,15 to 24,Barossa - Yorke - Mid North,8700,4RSAU,9.1
+409,Rest of SA,4,South Australia,406,15 to 24,South Australia - Outback,9700,4RSAU,14.3
+415,Rest of SA,4,South Australia,407,15 to 24,South Australia - South East,23900,4RSAU,14.8
+421,Rest of WA,5,Western Australia,501,15 to 24,Bunbury,23700,5RWAU,15.9
+427,Greater Perth,5,Western Australia,502,15 to 24,Mandurah,7900,5GPER,9.2
+433,Greater Perth,5,Western Australia,503,15 to 24,Perth - Inner,25500,5GPER,16.2
+439,Greater Perth,5,Western Australia,504,15 to 24,Perth - North East,31400,5GPER,14.2
+445,Greater Perth,5,Western Australia,505,15 to 24,Perth - North West,72800,5GPER,15.7
+451,Greater Perth,5,Western Australia,506,15 to 24,Perth - South East,71300,5GPER,16.7
+457,Greater Perth,5,Western Australia,507,15 to 24,Perth - South West,55800,5GPER,15.7
+463,Rest of WA,5,Western Australia,509,15 to 24,Western Australia - Wheat Belt,12300,5RWAU,11
+469,Greater Hobart,6,Tasmania,601,15 to 24,Hobart,29300,6GHOB,14.9
+475,Rest of Tas.,6,Tasmania,602,15 to 24,Launceston and North East,17600,6RTAS,14.4
+481,Rest of Tas.,6,Tasmania,603,15 to 24,South East,4100,6RTAS,12.2
+487,Rest of Tas.,6,Tasmania,604,15 to 24,West and North West,11600,6RTAS,12.4
+493,Greater Darwin,7,Northern Territory,701,15 to 24,Darwin,17600,7GDAR,15.5
+499,Rest of NT,7,Northern Territory,702,15 to 24,Northern Territory - Outback,12400,7RNTE,16.5

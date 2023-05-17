@@ -1,0 +1,164 @@
+{
+    "Labour_2021": [
+        {
+            "fid": "1",
+            "lbr_frc_stat": "Employed Full-Time",
+            "gccsa_name_2016": "Greater Sydney",
+            "p": "1993500",
+            "gccsa_code_2016": "1GSYD",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "5",
+            "lbr_frc_stat": "Employed Full-Time",
+            "gccsa_name_2016": "Greater Melbourne",
+            "p": "1863200",
+            "gccsa_code_2016": "2GMEL",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "9",
+            "lbr_frc_stat": "Employed Full-Time",
+            "gccsa_name_2016": "Greater Brisbane",
+            "p": "928300",
+            "gccsa_code_2016": "3GBRI",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "13",
+            "lbr_frc_stat": "Employed Full-Time",
+            "gccsa_name_2016": "Greater Adelaide",
+            "p": "444400",
+            "gccsa_code_2016": "4GADE",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "17",
+            "lbr_frc_stat": "Employed Full-Time",
+            "gccsa_name_2016": "Greater Perth",
+            "p": "747800",
+            "gccsa_code_2016": "5GPER",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "2",
+            "lbr_frc_stat": "Employed Part-Time",
+            "gccsa_name_2016": "Greater Sydney",
+            "p": "769200",
+            "gccsa_code_2016": "1GSYD",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "6",
+            "lbr_frc_stat": "Employed Part-Time",
+            "gccsa_name_2016": "Greater Melbourne",
+            "p": "815300",
+            "gccsa_code_2016": "2GMEL",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "10",
+            "lbr_frc_stat": "Employed Part-Time",
+            "gccsa_name_2016": "Greater Brisbane",
+            "p": "407600",
+            "gccsa_code_2016": "3GBRI",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "14",
+            "lbr_frc_stat": "Employed Part-Time",
+            "gccsa_name_2016": "Greater Adelaide",
+            "p": "239600",
+            "gccsa_code_2016": "4GADE",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "18",
+            "lbr_frc_stat": "Employed Part-Time",
+            "gccsa_name_2016": "Greater Perth",
+            "p": "381300",
+            "gccsa_code_2016": "5GPER",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "4",
+            "lbr_frc_stat": "Not in the Labour Force",
+            "gccsa_name_2016": "Greater Sydney",
+            "p": "1464000",
+            "gccsa_code_2016": "1GSYD",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "8",
+            "lbr_frc_stat": "Not in the Labour Force",
+            "gccsa_name_2016": "Greater Melbourne",
+            "p": "1360700",
+            "gccsa_code_2016": "2GMEL",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "12",
+            "lbr_frc_stat": "Not in the Labour Force",
+            "gccsa_name_2016": "Greater Brisbane",
+            "p": "659800",
+            "gccsa_code_2016": "3GBRI",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "16",
+            "lbr_frc_stat": "Not in the Labour Force",
+            "gccsa_name_2016": "Greater Adelaide",
+            "p": "411000",
+            "gccsa_code_2016": "4GADE",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "20",
+            "lbr_frc_stat": "Not in the Labour Force",
+            "gccsa_name_2016": "Greater Perth",
+            "p": "542100",
+            "gccsa_code_2016": "5GPER",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "3",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Sydney",
+            "p": "155100",
+            "gccsa_code_2016": "1GSYD",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "7",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Melbourne",
+            "p": "153300",
+            "gccsa_code_2016": "2GMEL",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "11",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Brisbane",
+            "p": "82900",
+            "gccsa_code_2016": "3GBRI",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "15",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Adelaide",
+            "p": "40200",
+            "gccsa_code_2016": "4GADE",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "19",
+            "lbr_frc_stat": "Unemployed Total",
+            "gccsa_name_2016": "Greater Perth",
+            "p": "57800",
+            "gccsa_code_2016": "5GPER",
+            "state_name_abbr": "WA"
+        }
+    ]
+}

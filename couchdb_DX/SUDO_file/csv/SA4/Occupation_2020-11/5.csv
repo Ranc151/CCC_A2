@@ -1,0 +1,85 @@
+fid, empy_m, empy_pt, empy_f, state_code_2016, empy_ft, state_name_2016, sa4_code_2016, mpy_distribution, gccsa_name_2016, mpy_by_occ_tot, gccsa_code_2016, sa4_name_2016, occ
+1,8300,3700,5100,1,9700,New South Wales,101,12,Rest of NSW,13400,1RNSW,Capital Region,Managers
+9,9900,1300,6400,1,15000,New South Wales,102,10.4,Greater Sydney,16300,1GSYD,Central Coast,Managers
+17,14300,2500,6300,1,18100,New South Wales,103,18.5,Rest of NSW,20600,1RNSW,Central West,Managers
+25,4600,2200,4100,1,6600,New South Wales,104,16.4,Rest of NSW,8700,1RNSW,Coffs Harbour - Grafton,Managers
+33,4100,1400,2100,1,4800,New South Wales,105,11.3,Rest of NSW,6200,1RNSW,Far West and Orana,Managers
+41,7200,3600,7700,1,11300,New South Wales,106,11.4,Rest of NSW,14900,1RNSW,Hunter Valley exc Newcastle,Managers
+49,8000,2100,5000,1,11000,New South Wales,107,8.6,Rest of NSW,13000,1RNSW,Illawarra,Managers
+57,5200,500,4400,1,9100,New South Wales,108,11.5,Rest of NSW,9700,1RNSW,Mid North Coast,Managers
+65,5200,1500,3000,1,6600,New South Wales,109,14.6,Rest of NSW,8200,1RNSW,Murray,Managers
+73,11400,1100,6000,1,16300,New South Wales,110,20.4,Rest of NSW,17400,1RNSW,New England and North West,Managers
+81,11100,2700,4900,1,13300,New South Wales,111,8.8,Rest of NSW,16000,1RNSW,Newcastle and Lake Macquarie,Managers
+89,8600,2800,5200,1,11000,New South Wales,112,11.8,Rest of NSW,13800,1RNSW,Richmond - Tweed,Managers
+97,9200,1100,2800,1,10900,New South Wales,113,14.8,Rest of NSW,12000,1RNSW,Riverina,Managers
+105,4800,2800,4300,1,6300,New South Wales,114,14.7,Rest of NSW,9100,1RNSW,Southern Highlands and Shoalhaven,Managers
+113,14100,1800,7900,1,20300,New South Wales,115,16.7,Greater Sydney,22100,1GSYD,Sydney - Baulkham Hills and Hawkesbury,Managers
+121,9800,1200,5200,1,13800,New South Wales,116,8,Greater Sydney,15100,1GSYD,Sydney - Blacktown,Managers
+129,19100,3300,21000,1,36800,New South Wales,117,16.8,Greater Sydney,40100,1GSYD,Sydney - City and Inner South,Managers
+137,17600,4700,15400,1,28400,New South Wales,118,19.1,Greater Sydney,33000,1GSYD,Sydney - Eastern Suburbs,Managers
+145,19800,3900,13400,1,29400,New South Wales,119,11,Greater Sydney,33200,1GSYD,Sydney - Inner South West,Managers
+153,15500,2000,12600,1,26100,New South Wales,120,15.3,Greater Sydney,28100,1GSYD,Sydney - Inner West,Managers
+161,24000,6100,20500,1,38400,New South Wales,121,18.4,Greater Sydney,44500,1GSYD,Sydney - North Sydney and Hornsby,Managers
+169,11500,3700,11100,1,18900,New South Wales,122,15.1,Greater Sydney,22600,1GSYD,Sydney - Northern Beaches,Managers
+177,11800,1500,4800,1,15100,New South Wales,123,11.3,Greater Sydney,16600,1GSYD,Sydney - Outer South West,Managers
+185,7900,2500,8500,1,13900,New South Wales,124,10,Greater Sydney,16400,1GSYD,Sydney - Outer West and Blue Mountains,Managers
+193,17200,1400,6900,1,22600,New South Wales,125,10.2,Greater Sydney,24100,1GSYD,Sydney - Parramatta,Managers
+201,10100,2000,5400,1,13400,New South Wales,126,13.3,Greater Sydney,15500,1GSYD,Sydney - Ryde,Managers
+209,13600,1500,7500,1,19600,New South Wales,127,10.7,Greater Sydney,21100,1GSYD,Sydney - South West,Managers
+217,12100,1300,4800,1,15700,New South Wales,128,13.6,Greater Sydney,17000,1GSYD,Sydney - Sutherland,Managers
+225,5100,600,2400,2,6900,Victoria,201,9.2,Rest of Vic.,7400,2RVIC,Ballarat,Managers
+233,6400,1200,2200,2,7300,Victoria,202,11.1,Rest of Vic.,8600,2RVIC,Bendigo,Managers
+241,11500,2500,6700,2,15700,Victoria,203,11.4,Rest of Vic.,18100,2RVIC,Geelong,Managers
+249,10700,3300,7400,2,14900,Victoria,204,19,Rest of Vic.,18100,2RVIC,Hume,Managers
+257,11700,3900,5900,2,13600,Victoria,205,14.3,Rest of Vic.,17600,2RVIC,Latrobe - Gippsland,Managers
+265,34900,8600,30200,2,56500,Victoria,206,14.6,Greater Melbourne,65100,2GMEL,Melbourne - Inner,Managers
+273,19900,5000,12700,2,27600,Victoria,207,15.4,Greater Melbourne,32600,2GMEL,Melbourne - Inner East,Managers
+281,31000,5100,15900,2,41800,Victoria,208,20.7,Greater Melbourne,46900,2GMEL,Melbourne - Inner South,Managers
+289,24300,4400,11000,2,30900,Victoria,209,12.6,Greater Melbourne,35300,2GMEL,Melbourne - North East,Managers
+297,10100,3000,7400,2,14600,Victoria,210,9.3,Greater Melbourne,17500,2GMEL,Melbourne - North West,Managers
+305,18700,3500,10700,2,25900,Victoria,211,11.1,Greater Melbourne,29500,2GMEL,Melbourne - Outer East,Managers
+313,28100,7600,18300,2,38900,Victoria,212,10.8,Greater Melbourne,46400,2GMEL,Melbourne - South East,Managers
+321,28500,6300,15500,2,37700,Victoria,213,11,Greater Melbourne,44000,2GMEL,Melbourne - West,Managers
+329,13900,3100,7700,2,18500,Victoria,214,13.9,Greater Melbourne,21600,2GMEL,Mornington Peninsula,Managers
+337,10000,1800,2900,2,11100,Victoria,215,18.6,Rest of Vic.,12900,2RVIC,North West,Managers
+345,7300,1300,2900,2,8900,Victoria,216,16.8,Rest of Vic.,10200,2RVIC,Shepparton,Managers
+353,10300,2600,5400,2,13100,Victoria,217,24.2,Rest of Vic.,15700,2RVIC,Warrnambool and South West,Managers
+361,11400,1800,5700,3,15300,Queensland,301,14.2,Greater Brisbane,17100,3GBRI,Brisbane - East,Managers
+369,8800,1400,6500,3,13900,Queensland,302,13.2,Greater Brisbane,15300,3GBRI,Brisbane - North,Managers
+377,11300,3000,12300,3,20600,Queensland,303,11.9,Greater Brisbane,23600,3GBRI,Brisbane - South,Managers
+385,7100,2200,5000,3,10000,Queensland,304,12.5,Greater Brisbane,12100,3GBRI,Brisbane - West,Managers
+393,6400,1700,5000,3,9800,Queensland,306,8.7,Rest of Qld,11400,3RQLD,Cairns,Managers
+401,7900,2500,3900,3,9200,Queensland,307,18.4,Rest of Qld,11800,3RQLD,Darling Downs - Maranoa,Managers
+409,9500,2700,6800,3,13600,Queensland,308,14.1,Rest of Qld,16300,3RQLD,Central Queensland,Managers
+417,25800,6000,17400,3,37300,Queensland,309,13.3,Rest of Qld,43200,3RQLD,Gold Coast,Managers
+425,11300,3200,6000,3,14100,Queensland,310,10.2,Greater Brisbane,17300,3GBRI,Ipswich,Managers
+433,9100,1200,6600,3,14500,Queensland,311,10.1,Greater Brisbane,15700,3GBRI,Logan - Beaudesert,Managers
+441,4500,900,3100,3,6600,Queensland,312,8,Rest of Qld,7600,3RQLD,Mackay - Isaac - Whitsunday,Managers
+449,7000,1700,3500,3,8800,Queensland,313,10.1,Greater Brisbane,10500,3GBRI,Moreton Bay - North,Managers
+457,8600,1500,4300,3,11400,Queensland,314,11.8,Greater Brisbane,12900,3GBRI,Moreton Bay - South,Managers
+465,8600,2000,4200,3,10700,Queensland,315,32,Rest of Qld,12700,3RQLD,Queensland - Outback,Managers
+473,13400,2700,6700,3,17500,Queensland,316,11.3,Rest of Qld,20100,3RQLD,Sunshine Coast,Managers
+481,3900,800,3000,3,6100,Queensland,317,9.2,Rest of Qld,6900,3RQLD,Toowoomba,Managers
+489,9400,1000,6000,3,14400,Queensland,318,13.7,Rest of Qld,15400,3RQLD,Townsville,Managers
+497,8900,2800,4800,3,10900,Queensland,319,12.5,Rest of Qld,13700,3RQLD,Wide Bay,Managers
+505,16400,4200,8300,4,20500,South Australia,401,15.2,Greater Adelaide,24800,4GADE,Adelaide - Central and Hills,Managers
+513,9700,2500,7100,4,14300,South Australia,402,8.4,Greater Adelaide,16800,4GADE,Adelaide - North,Managers
+521,14400,3200,8100,4,19300,South Australia,403,12.4,Greater Adelaide,22400,4GADE,Adelaide - South,Managers
+529,8200,1500,5800,4,12500,South Australia,404,11.9,Greater Adelaide,14000,4GADE,Adelaide - West,Managers
+537,6000,2000,3200,4,7200,South Australia,405,17.8,Rest of SA,9200,4RSAU,Barossa - Yorke - Mid North,Managers
+545,1900,400,1000,4,2500,South Australia,406,7.4,Rest of SA,2900,4RSAU,South Australia - Outback,Managers
+553,9900,2600,4700,4,12000,South Australia,407,16.7,Rest of SA,14600,4RSAU,South Australia - South East,Managers
+561,5900,1300,3600,5,8200,Western Australia,501,10.2,Rest of WA,9500,5RWAU,Bunbury,Managers
+569,2100,1100,1800,5,2800,Western Australia,502,9.4,Greater Perth,3900,5GPER,Mandurah,Managers
+577,10500,1500,4200,5,13100,Western Australia,503,14.3,Greater Perth,14600,5GPER,Perth - Inner,Managers
+585,9100,1900,4600,5,11900,Western Australia,504,9.7,Greater Perth,13800,5GPER,Perth - North East,Managers
+593,22000,7800,14100,5,28300,Western Australia,505,12,Greater Perth,36100,5GPER,Perth - North West,Managers
+601,17600,4900,9300,5,22000,Western Australia,506,10,Greater Perth,26900,5GPER,Perth - South East,Managers
+609,12900,2800,7900,5,18000,Western Australia,507,9.5,Greater Perth,20800,5GPER,Perth - South West,Managers
+617,10300,2500,6000,5,13800,Western Australia,509,23.1,Rest of WA,16300,5RWAU,Western Australia - Wheat Belt,Managers
+625,8600,2900,4900,6,10500,Tasmania,601,11.4,Greater Hobart,13400,6GHOB,Hobart,Managers
+633,5600,1500,3100,6,7100,Tasmania,602,12.5,Rest of Tas.,8700,6RTAS,Launceston and North East,Managers
+641,2000,1100,1300,6,2200,Tasmania,603,19.2,Rest of Tas.,3400,6RTAS,South East,Managers
+649,5000,1400,2400,6,6000,Tasmania,604,15.3,Rest of Tas.,7400,6RTAS,West and North West,Managers
+657,5900,800,3800,7,8900,Northern Territory,701,11.9,Greater Darwin,9700,7GDAR,Darwin,Managers
+665,3700,300,1700,7,5100,Northern Territory,702,11,Rest of NT,5400,7RNTE,Northern Territory - Outback,Managers

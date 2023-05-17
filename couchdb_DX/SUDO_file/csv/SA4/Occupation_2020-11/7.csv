@@ -1,0 +1,85 @@
+fid, empy_m, empy_pt, empy_f, state_code_2016, empy_ft, state_name_2016, sa4_code_2016, mpy_distribution, gccsa_name_2016, mpy_by_occ_tot, gccsa_code_2016, sa4_name_2016, occ
+6,4400,5500,5700,1,4700,New South Wales,101,9.2,Rest of NSW,10200,1RNSW,Capital Region,Sales Workers
+14,4900,7800,7800,1,4900,New South Wales,102,8.1,Greater Sydney,12700,1GSYD,Central Coast,Sales Workers
+22,3300,4400,4400,1,3300,New South Wales,103,6.9,Rest of NSW,7700,1RNSW,Central West,Sales Workers
+30,1300,1800,2100,1,1600,New South Wales,104,6.4,Rest of NSW,3400,1RNSW,Coffs Harbour - Grafton,Sales Workers
+38,1600,1900,2700,1,2400,New South Wales,105,7.8,Rest of NSW,4300,1RNSW,Far West and Orana,Sales Workers
+46,2500,7400,8100,1,3200,New South Wales,106,8.1,Rest of NSW,10600,1RNSW,Hunter Valley exc Newcastle,Sales Workers
+54,5700,6800,7200,1,6100,New South Wales,107,8.5,Rest of NSW,12900,1RNSW,Illawarra,Sales Workers
+62,2700,5300,5600,1,3000,New South Wales,108,9.9,Rest of NSW,8300,1RNSW,Mid North Coast,Sales Workers
+70,1200,3500,4300,1,2100,New South Wales,109,10,Rest of NSW,5600,1RNSW,Murray,Sales Workers
+78,3000,2600,3300,1,3700,New South Wales,110,7.4,Rest of NSW,6300,1RNSW,New England and North West,Sales Workers
+86,6500,13200,14800,1,8100,New South Wales,111,11.7,Rest of NSW,21200,1RNSW,Newcastle and Lake Macquarie,Sales Workers
+94,5800,7600,6500,1,4800,New South Wales,112,10.5,Rest of NSW,12300,1RNSW,Richmond - Tweed,Sales Workers
+102,1500,2700,3300,1,2100,New South Wales,113,5.9,Rest of NSW,4800,1RNSW,Riverina,Sales Workers
+110,400,2100,3100,1,1400,New South Wales,114,5.7,Rest of NSW,3500,1RNSW,Southern Highlands and Shoalhaven,Sales Workers
+118,3000,5400,6200,1,3800,New South Wales,115,6.9,Greater Sydney,9200,1GSYD,Sydney - Baulkham Hills and Hawkesbury,Sales Workers
+126,5100,8400,8300,1,5000,New South Wales,116,7.1,Greater Sydney,13400,1GSYD,Sydney - Blacktown,Sales Workers
+134,6600,5700,6800,1,7700,New South Wales,117,5.6,Greater Sydney,13400,1GSYD,Sydney - City and Inner South,Sales Workers
+142,5000,4500,6100,1,6500,New South Wales,118,6.4,Greater Sydney,11100,1GSYD,Sydney - Eastern Suburbs,Sales Workers
+150,13700,13700,16500,1,16400,New South Wales,119,10,Greater Sydney,30200,1GSYD,Sydney - Inner South West,Sales Workers
+158,8800,8200,8700,1,9300,New South Wales,120,9.5,Greater Sydney,17500,1GSYD,Sydney - Inner West,Sales Workers
+166,8900,8900,7000,1,7000,New South Wales,121,6.6,Greater Sydney,15900,1GSYD,Sydney - North Sydney and Hornsby,Sales Workers
+174,5400,4700,5600,1,6300,New South Wales,122,7.4,Greater Sydney,11000,1GSYD,Sydney - Northern Beaches,Sales Workers
+182,4000,7000,7100,1,4100,New South Wales,123,7.6,Greater Sydney,11100,1GSYD,Sydney - Outer South West,Sales Workers
+190,5800,6800,7900,1,6900,New South Wales,124,8.3,Greater Sydney,13700,1GSYD,Sydney - Outer West and Blue Mountains,Sales Workers
+198,7600,9700,9800,1,7700,New South Wales,125,7.3,Greater Sydney,17400,1GSYD,Sydney - Parramatta,Sales Workers
+206,5200,5700,5300,1,4800,New South Wales,126,9,Greater Sydney,10500,1GSYD,Sydney - Ryde,Sales Workers
+214,8000,8900,10300,1,9400,New South Wales,127,9.3,Greater Sydney,18300,1GSYD,Sydney - South West,Sales Workers
+222,3400,4000,3800,1,3200,New South Wales,128,5.8,Greater Sydney,7200,1GSYD,Sydney - Sutherland,Sales Workers
+230,5900,7000,5500,2,4500,Victoria,201,14.3,Rest of Vic.,11500,2RVIC,Ballarat,Sales Workers
+238,2800,4100,4200,2,2900,Victoria,202,9,Rest of Vic.,7000,2RVIC,Bendigo,Sales Workers
+246,4000,7900,9100,2,5200,Victoria,203,8.2,Rest of Vic.,13100,2RVIC,Geelong,Sales Workers
+254,1700,3900,3300,2,1100,Victoria,204,5.1,Rest of Vic.,4900,2RVIC,Hume,Sales Workers
+262,4000,5100,6300,2,5300,Victoria,205,8.4,Rest of Vic.,10400,2RVIC,Latrobe - Gippsland,Sales Workers
+270,12100,12200,16400,2,16400,Victoria,206,6.4,Greater Melbourne,28500,2GMEL,Melbourne - Inner,Sales Workers
+278,10800,11300,9800,2,9300,Victoria,207,9.7,Greater Melbourne,20600,2GMEL,Melbourne - Inner East,Sales Workers
+286,9200,11200,13100,2,11000,Victoria,208,9.8,Greater Melbourne,22200,2GMEL,Melbourne - Inner South,Sales Workers
+294,6900,10900,12500,2,8600,Victoria,209,6.9,Greater Melbourne,19400,2GMEL,Melbourne - North East,Sales Workers
+302,6200,9800,10800,2,7100,Victoria,210,9,Greater Melbourne,16900,2GMEL,Melbourne - North West,Sales Workers
+310,8700,12500,12700,2,9000,Victoria,211,8.1,Greater Melbourne,21400,2GMEL,Melbourne - Outer East,Sales Workers
+318,17200,19800,20100,2,17500,Victoria,212,8.7,Greater Melbourne,37300,2GMEL,Melbourne - South East,Sales Workers
+326,14300,21800,22100,2,14600,Victoria,213,9.1,Greater Melbourne,36400,2GMEL,Melbourne - West,Sales Workers
+334,7200,9400,8100,2,5900,Victoria,214,9.8,Greater Melbourne,15300,2GMEL,Mornington Peninsula,Sales Workers
+342,2200,3400,3800,2,2700,Victoria,215,8.6,Rest of Vic.,6000,2RVIC,North West,Sales Workers
+350,1100,3400,4300,2,2000,Victoria,216,8.9,Rest of Vic.,5400,2RVIC,Shepparton,Sales Workers
+358,1100,2700,2500,2,1000,Victoria,217,5.5,Rest of Vic.,3600,2RVIC,Warrnambool and South West,Sales Workers
+366,5100,5800,6500,3,5800,Queensland,301,9.6,Greater Brisbane,11600,3GBRI,Brisbane - East,Sales Workers
+374,4400,6900,5600,3,3100,Queensland,302,8.6,Greater Brisbane,10000,3GBRI,Brisbane - North,Sales Workers
+382,7500,11000,10800,3,7400,Queensland,303,9.3,Greater Brisbane,18400,3GBRI,Brisbane - South,Sales Workers
+390,3800,5400,3900,3,2300,Queensland,304,8,Greater Brisbane,7700,3GBRI,Brisbane - West,Sales Workers
+398,4500,9100,8700,3,4100,Queensland,306,10.1,Rest of Qld,13200,3RQLD,Cairns,Sales Workers
+406,2700,2800,2800,3,2700,Queensland,307,8.6,Rest of Qld,5500,3RQLD,Darling Downs - Maranoa,Sales Workers
+414,3200,6300,7000,3,3900,Queensland,308,8.9,Rest of Qld,10300,3RQLD,Central Queensland,Sales Workers
+422,11000,18900,20200,3,12300,Queensland,309,9.6,Rest of Qld,31200,3RQLD,Gold Coast,Sales Workers
+430,5200,8700,9000,3,5400,Queensland,310,8.3,Greater Brisbane,14200,3GBRI,Ipswich,Sales Workers
+438,5400,7900,7700,3,5200,Queensland,311,8.4,Greater Brisbane,13100,3GBRI,Logan - Beaudesert,Sales Workers
+446,1100,3000,4600,3,2700,Queensland,312,6,Rest of Qld,5700,3RQLD,Mackay - Isaac - Whitsunday,Sales Workers
+454,2100,5500,5500,3,2000,Queensland,313,7.3,Greater Brisbane,7600,3GBRI,Moreton Bay - North,Sales Workers
+462,6100,7200,6600,3,5400,Queensland,314,11.6,Greater Brisbane,12700,3GBRI,Moreton Bay - South,Sales Workers
+470,700,3000,3000,3,700,Queensland,315,9.3,Rest of Qld,3700,3RQLD,Queensland - Outback,Sales Workers
+478,6000,9000,8800,3,5900,Queensland,316,8.3,Rest of Qld,14800,3RQLD,Sunshine Coast,Sales Workers
+486,2000,3200,3500,3,2300,Queensland,317,7.4,Rest of Qld,5500,3RQLD,Toowoomba,Sales Workers
+494,4400,6700,6600,3,4300,Queensland,318,9.8,Rest of Qld,11000,3RQLD,Townsville,Sales Workers
+502,3900,6500,6200,3,3500,Queensland,319,9.2,Rest of Qld,10100,3RQLD,Wide Bay,Sales Workers
+510,7700,9500,8000,4,6100,South Australia,401,9.5,Greater Adelaide,15600,4GADE,Adelaide - Central and Hills,Sales Workers
+518,7300,11900,12500,4,8000,South Australia,402,9.9,Greater Adelaide,19900,4GADE,Adelaide - North,Sales Workers
+526,6300,9800,9900,4,6300,South Australia,403,8.9,Greater Adelaide,16100,4GADE,Adelaide - South,Sales Workers
+534,4200,6900,6200,4,3400,South Australia,404,8.8,Greater Adelaide,10400,4GADE,Adelaide - West,Sales Workers
+542,1300,2700,2900,4,1500,South Australia,405,8.1,Rest of SA,4200,4RSAU,Barossa - Yorke - Mid North,Sales Workers
+550,900,2100,2500,4,1300,South Australia,406,8.6,Rest of SA,3400,4RSAU,South Australia - Outback,Sales Workers
+558,3300,5000,4600,4,2900,South Australia,407,9,Rest of SA,7900,4RSAU,South Australia - South East,Sales Workers
+566,3000,4600,5200,5,3600,Western Australia,501,8.8,Rest of WA,8200,5RWAU,Bunbury,Sales Workers
+574,1700,2200,2100,5,1500,Western Australia,502,9,Greater Perth,3700,5GPER,Mandurah,Sales Workers
+582,2600,2700,2400,5,2300,Western Australia,503,4.9,Greater Perth,5000,5GPER,Perth - Inner,Sales Workers
+590,5000,8100,7100,5,4000,Western Australia,504,8.5,Greater Perth,12100,5GPER,Perth - North East,Sales Workers
+598,9800,15400,14500,5,8900,Western Australia,505,8.1,Greater Perth,24300,5GPER,Perth - North West,Sales Workers
+606,9200,15400,15400,5,9200,Western Australia,506,9.1,Greater Perth,24600,5GPER,Perth - South East,Sales Workers
+614,6200,11600,11400,5,6000,Western Australia,507,8,Greater Perth,17600,5GPER,Perth - South West,Sales Workers
+622,2500,1600,800,5,1700,Western Australia,509,4.7,Rest of WA,3300,5RWAU,Western Australia - Wheat Belt,Sales Workers
+630,4300,7100,5800,6,3100,Tasmania,601,8.6,Greater Hobart,10100,6GHOB,Hobart,Sales Workers
+638,3200,3700,3500,6,3000,Tasmania,602,9.6,Rest of Tas.,6700,6RTAS,Launceston and North East,Sales Workers
+646,400,700,600,6,300,Tasmania,603,5.6,Rest of Tas.,1000,6RTAS,South East,Sales Workers
+654,1600,2900,2900,6,1500,Tasmania,604,9.3,Rest of Tas.,4500,6RTAS,West and North West,Sales Workers
+662,2700,3500,3900,7,3100,Northern Territory,701,7.9,Greater Darwin,6500,7GDAR,Darwin,Sales Workers
+670,1200,1300,1700,7,1600,Northern Territory,702,5.9,Rest of NT,2900,7RNTE,Northern Territory - Outback,Sales Workers

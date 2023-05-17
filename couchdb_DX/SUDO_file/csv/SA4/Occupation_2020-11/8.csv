@@ -1,0 +1,85 @@
+fid, empy_m, empy_pt, empy_f, state_code_2016, empy_ft, state_name_2016, sa4_code_2016, mpy_distribution, gccsa_name_2016, mpy_by_occ_tot, gccsa_code_2016, sa4_name_2016, occ
+3,13600,3100,4100,1,14700,New South Wales,101,15.9,Rest of NSW,17700,1RNSW,Capital Region,Technicians and Trades Workers
+11,22700,3500,2200,1,21300,New South Wales,102,15.9,Greater Sydney,24900,1GSYD,Central Coast,Technicians and Trades Workers
+19,12600,1400,800,1,12000,New South Wales,103,12.1,Rest of NSW,13400,1RNSW,Central West,Technicians and Trades Workers
+27,8800,2100,900,1,7500,New South Wales,104,18.1,Rest of NSW,9600,1RNSW,Coffs Harbour - Grafton,Technicians and Trades Workers
+35,6000,1800,2200,1,6400,New South Wales,105,14.9,Rest of NSW,8200,1RNSW,Far West and Orana,Technicians and Trades Workers
+43,18300,2100,2600,1,18800,New South Wales,106,16,Rest of NSW,20900,1RNSW,Hunter Valley exc Newcastle,Technicians and Trades Workers
+51,20800,4200,3800,1,20400,New South Wales,107,16.2,Rest of NSW,24600,1RNSW,Illawarra,Technicians and Trades Workers
+59,12100,4400,3200,1,10900,New South Wales,108,18.2,Rest of NSW,15300,1RNSW,Mid North Coast,Technicians and Trades Workers
+67,7500,500,600,1,7600,New South Wales,109,14.5,Rest of NSW,8100,1RNSW,Murray,Technicians and Trades Workers
+75,6900,3200,3700,1,7400,New South Wales,110,12.4,Rest of NSW,10600,1RNSW,New England and North West,Technicians and Trades Workers
+83,21000,1400,2700,1,22300,New South Wales,111,13,Rest of NSW,23700,1RNSW,Newcastle and Lake Macquarie,Technicians and Trades Workers
+91,11500,3300,3100,1,11300,New South Wales,112,12.5,Rest of NSW,14600,1RNSW,Richmond - Tweed,Technicians and Trades Workers
+99,9600,1700,2300,1,10200,New South Wales,113,14.8,Rest of NSW,12000,1RNSW,Riverina,Technicians and Trades Workers
+107,9100,1600,1600,1,9000,New South Wales,114,17.3,Rest of NSW,10700,1RNSW,Southern Highlands and Shoalhaven,Technicians and Trades Workers
+115,15800,3100,2600,1,15300,New South Wales,115,13.9,Greater Sydney,18400,1GSYD,Sydney - Baulkham Hills and Hawkesbury,Technicians and Trades Workers
+123,19000,4200,3700,1,18400,New South Wales,116,12,Greater Sydney,22700,1GSYD,Sydney - Blacktown,Technicians and Trades Workers
+131,17800,5700,4000,1,16100,New South Wales,117,9.2,Greater Sydney,21900,1GSYD,Sydney - City and Inner South,Technicians and Trades Workers
+139,13000,4400,4300,1,12800,New South Wales,118,9.9,Greater Sydney,17200,1GSYD,Sydney - Eastern Suburbs,Technicians and Trades Workers
+147,35600,6500,4600,1,33600,New South Wales,119,13.3,Greater Sydney,40100,1GSYD,Sydney - Inner South West,Technicians and Trades Workers
+155,13600,4300,4400,1,13600,New South Wales,120,9.7,Greater Sydney,17900,1GSYD,Sydney - Inner West,Technicians and Trades Workers
+163,14900,3200,3700,1,15300,New South Wales,121,7.7,Greater Sydney,18500,1GSYD,Sydney - North Sydney and Hornsby,Technicians and Trades Workers
+171,17900,2300,2000,1,17500,New South Wales,122,13.3,Greater Sydney,19800,1GSYD,Sydney - Northern Beaches,Technicians and Trades Workers
+179,20300,2700,2500,1,20100,New South Wales,123,15.6,Greater Sydney,22800,1GSYD,Sydney - Outer South West,Technicians and Trades Workers
+187,20800,4300,3600,1,20100,New South Wales,124,14.8,Greater Sydney,24400,1GSYD,Sydney - Outer West and Blue Mountains,Technicians and Trades Workers
+195,25400,4100,1800,1,23100,New South Wales,125,11.5,Greater Sydney,27200,1GSYD,Sydney - Parramatta,Technicians and Trades Workers
+203,6300,2200,2900,1,7100,New South Wales,126,8,Greater Sydney,9300,1GSYD,Sydney - Ryde,Technicians and Trades Workers
+211,25400,5100,3900,1,24200,New South Wales,127,14.9,Greater Sydney,29300,1GSYD,Sydney - South West,Technicians and Trades Workers
+219,12100,1200,1200,1,12200,New South Wales,128,10.7,Greater Sydney,13400,1GSYD,Sydney - Sutherland,Technicians and Trades Workers
+227,11300,1100,1100,2,11300,Victoria,201,15.4,Rest of Vic.,12400,2RVIC,Ballarat,Technicians and Trades Workers
+235,8700,2000,1900,2,8600,Victoria,202,13.7,Rest of Vic.,10600,2RVIC,Bendigo,Technicians and Trades Workers
+243,22000,4600,3300,2,20700,Victoria,203,15.9,Rest of Vic.,25200,2RVIC,Geelong,Technicians and Trades Workers
+251,14100,2800,1900,2,13200,Victoria,204,16.8,Rest of Vic.,16000,2RVIC,Hume,Technicians and Trades Workers
+259,19300,5800,5700,2,19200,Victoria,205,20.3,Rest of Vic.,25000,2RVIC,Latrobe - Gippsland,Technicians and Trades Workers
+267,27600,8800,8400,2,27200,Victoria,206,8.1,Greater Melbourne,36000,2GMEL,Melbourne - Inner,Technicians and Trades Workers
+275,13800,3500,3100,2,13500,Victoria,207,8,Greater Melbourne,16900,2GMEL,Melbourne - Inner East,Technicians and Trades Workers
+283,18200,3900,4200,2,18600,Victoria,208,9.9,Greater Melbourne,22500,2GMEL,Melbourne - Inner South,Technicians and Trades Workers
+291,34000,10300,9500,2,33200,Victoria,209,15.5,Greater Melbourne,43500,2GMEL,Melbourne - North East,Technicians and Trades Workers
+299,27400,7000,3200,2,23600,Victoria,210,16.2,Greater Melbourne,30600,2GMEL,Melbourne - North West,Technicians and Trades Workers
+307,36600,6300,5500,2,35800,Victoria,211,15.9,Greater Melbourne,42100,2GMEL,Melbourne - Outer East,Technicians and Trades Workers
+315,59300,12100,10300,2,57500,Victoria,212,16.3,Greater Melbourne,69600,2GMEL,Melbourne - South East,Technicians and Trades Workers
+323,44300,8200,8300,2,44400,Victoria,213,13.1,Greater Melbourne,52600,2GMEL,Melbourne - West,Technicians and Trades Workers
+331,22800,5300,4000,2,21400,Victoria,214,17.2,Greater Melbourne,26800,2GMEL,Mornington Peninsula,Technicians and Trades Workers
+339,8200,1500,1200,2,7900,Victoria,215,13.5,Rest of Vic.,9400,2RVIC,North West,Technicians and Trades Workers
+347,8000,2100,3000,2,8900,Victoria,216,18.3,Rest of Vic.,11100,2RVIC,Shepparton,Technicians and Trades Workers
+355,6500,1100,1800,2,7200,Victoria,217,12.8,Rest of Vic.,8300,2RVIC,Warrnambool and South West,Technicians and Trades Workers
+363,15900,2000,1700,3,15600,Queensland,301,14.6,Greater Brisbane,17600,3GBRI,Brisbane - East,Technicians and Trades Workers
+371,9900,1800,3800,3,12000,Queensland,302,11.8,Greater Brisbane,13700,3GBRI,Brisbane - North,Technicians and Trades Workers
+379,19600,5000,4600,3,19200,Queensland,303,12.3,Greater Brisbane,24200,3GBRI,Brisbane - South,Technicians and Trades Workers
+387,6100,1000,1500,3,6600,Queensland,304,7.9,Greater Brisbane,7600,3GBRI,Brisbane - West,Technicians and Trades Workers
+395,15800,1300,3200,3,17800,Queensland,306,14.5,Rest of Qld,19000,3RQLD,Cairns,Technicians and Trades Workers
+403,8400,1100,1500,3,8900,Queensland,307,15.4,Rest of Qld,9900,3RQLD,Darling Downs - Maranoa,Technicians and Trades Workers
+411,20500,2100,2700,3,21100,Queensland,308,19.9,Rest of Qld,23100,3RQLD,Central Queensland,Technicians and Trades Workers
+419,37200,7500,8800,3,38500,Queensland,309,14.2,Rest of Qld,46000,3RQLD,Gold Coast,Technicians and Trades Workers
+427,18500,2800,5400,3,21000,Queensland,310,14,Greater Brisbane,23800,3GBRI,Ipswich,Technicians and Trades Workers
+435,23700,3500,5800,3,26000,Queensland,311,19,Greater Brisbane,29500,3GBRI,Logan - Beaudesert,Technicians and Trades Workers
+443,19800,2900,2300,3,19200,Queensland,312,23.2,Rest of Qld,22100,3RQLD,Mackay - Isaac - Whitsunday,Technicians and Trades Workers
+451,12900,1700,1500,3,12700,Queensland,313,13.8,Greater Brisbane,14400,3GBRI,Moreton Bay - North,Technicians and Trades Workers
+459,11900,2500,2300,3,11700,Queensland,314,12.9,Greater Brisbane,14200,3GBRI,Moreton Bay - South,Technicians and Trades Workers
+467,3700,600,300,3,3400,Queensland,315,10.1,Rest of Qld,4000,3RQLD,Queensland - Outback,Technicians and Trades Workers
+475,23000,6500,5200,3,21600,Queensland,316,15.7,Rest of Qld,28100,3RQLD,Sunshine Coast,Technicians and Trades Workers
+483,11200,1400,1900,3,11700,Queensland,317,17.5,Rest of Qld,13100,3RQLD,Toowoomba,Technicians and Trades Workers
+491,13600,2000,1900,3,13500,Queensland,318,13.8,Rest of Qld,15500,3RQLD,Townsville,Technicians and Trades Workers
+499,11400,2300,2800,3,11800,Queensland,319,12.9,Rest of Qld,14100,3RQLD,Wide Bay,Technicians and Trades Workers
+507,13800,3600,3800,4,14000,South Australia,401,10.8,Greater Adelaide,17600,4GADE,Adelaide - Central and Hills,Technicians and Trades Workers
+515,29100,5300,4000,4,27800,South Australia,402,16.5,Greater Adelaide,33100,4GADE,Adelaide - North,Technicians and Trades Workers
+523,21800,5400,4100,4,20500,South Australia,403,14.3,Greater Adelaide,25900,4GADE,Adelaide - South,Technicians and Trades Workers
+531,12400,2400,2400,4,12300,South Australia,404,12.5,Greater Adelaide,14800,4GADE,Adelaide - West,Technicians and Trades Workers
+539,7000,1000,900,4,6900,South Australia,405,15.3,Rest of SA,7900,4RSAU,Barossa - Yorke - Mid North,Technicians and Trades Workers
+547,5700,1100,900,4,5500,South Australia,406,16.8,Rest of SA,6600,4RSAU,South Australia - Outback,Technicians and Trades Workers
+555,10400,2800,1900,4,9400,South Australia,407,14.1,Rest of SA,12300,4RSAU,South Australia - South East,Technicians and Trades Workers
+563,15200,1500,2700,5,16400,Western Australia,501,19.3,Rest of WA,17900,5RWAU,Bunbury,Technicians and Trades Workers
+571,8600,2000,1700,5,8300,Western Australia,502,24.9,Greater Perth,10300,5GPER,Mandurah,Technicians and Trades Workers
+579,7600,2200,1600,5,6900,Western Australia,503,9,Greater Perth,9200,5GPER,Perth - Inner,Technicians and Trades Workers
+587,19600,2500,4100,5,21200,Western Australia,504,16.6,Greater Perth,23700,5GPER,Perth - North East,Technicians and Trades Workers
+595,38000,7000,8200,5,39300,Western Australia,505,15.3,Greater Perth,46200,5GPER,Perth - North West,Technicians and Trades Workers
+603,35300,8100,6900,5,34100,Western Australia,506,15.6,Greater Perth,42100,5GPER,Perth - South East,Technicians and Trades Workers
+611,31200,5400,6800,5,32600,Western Australia,507,17.3,Greater Perth,38000,5GPER,Perth - South West,Technicians and Trades Workers
+619,7800,1700,1700,5,7800,Western Australia,509,13.4,Rest of WA,9500,5RWAU,Western Australia - Wheat Belt,Technicians and Trades Workers
+627,13200,3500,2400,6,12000,Tasmania,601,13.3,Greater Hobart,15600,6GHOB,Hobart,Technicians and Trades Workers
+635,7400,2200,2000,6,7200,Tasmania,602,13.5,Rest of Tas.,9400,6RTAS,Launceston and North East,Technicians and Trades Workers
+643,2400,1100,500,6,1800,Tasmania,603,15.8,Rest of Tas.,2800,6RTAS,South East,Technicians and Trades Workers
+651,5900,800,1000,6,6100,Tasmania,604,14.3,Rest of Tas.,6900,6RTAS,West and North West,Technicians and Trades Workers
+659,11400,1300,1400,7,11500,Northern Territory,701,15.6,Greater Darwin,12800,7GDAR,Darwin,Technicians and Trades Workers
+667,4800,1000,900,7,4700,Northern Territory,702,11.6,Rest of NT,5700,7RNTE,Northern Territory - Outback,Technicians and Trades Workers

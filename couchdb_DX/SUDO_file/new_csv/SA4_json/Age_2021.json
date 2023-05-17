@@ -1,0 +1,4594 @@
+{
+    "Age_2021": [
+        {
+            "fid": "1",
+            "sa4_code_2016": "102",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Central Coast",
+            "pop": "39300",
+            "pop_distribution": "14",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "7",
+            "sa4_code_2016": "115",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Baulkham Hills and Hawkesbury",
+            "pop": "30200",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "13",
+            "sa4_code_2016": "116",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Blacktown",
+            "pop": "50200",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "19",
+            "sa4_code_2016": "117",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - City and Inner South",
+            "pop": "42500",
+            "pop_distribution": "12.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "25",
+            "sa4_code_2016": "118",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Eastern Suburbs",
+            "pop": "26400",
+            "pop_distribution": "10.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "31",
+            "sa4_code_2016": "119",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Inner South West",
+            "pop": "88800",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "37",
+            "sa4_code_2016": "120",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Inner West",
+            "pop": "36600",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "43",
+            "sa4_code_2016": "121",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - North Sydney and Hornsby",
+            "pop": "59400",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "49",
+            "sa4_code_2016": "122",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Northern Beaches",
+            "pop": "28900",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "55",
+            "sa4_code_2016": "123",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Outer South West",
+            "pop": "40000",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "61",
+            "sa4_code_2016": "124",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Outer West and Blue Mountains",
+            "pop": "35900",
+            "pop_distribution": "13.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "67",
+            "sa4_code_2016": "125",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Parramatta",
+            "pop": "62300",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "73",
+            "sa4_code_2016": "126",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Ryde",
+            "pop": "27900",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "79",
+            "sa4_code_2016": "127",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - South West",
+            "pop": "54900",
+            "pop_distribution": "14.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "85",
+            "sa4_code_2016": "128",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sydney - Sutherland",
+            "pop": "29200",
+            "pop_distribution": "15.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "91",
+            "sa4_code_2016": "101",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Capital Region",
+            "pop": "26000",
+            "pop_distribution": "13.69999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "97",
+            "sa4_code_2016": "103",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Central West",
+            "pop": "28600",
+            "pop_distribution": "16.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "103",
+            "sa4_code_2016": "104",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Coffs Harbour - Grafton",
+            "pop": "15100",
+            "pop_distribution": "13",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "109",
+            "sa4_code_2016": "105",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Far West and Orana",
+            "pop": "13700",
+            "pop_distribution": "15.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "115",
+            "sa4_code_2016": "106",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Hunter Valley exc Newcastle",
+            "pop": "30900",
+            "pop_distribution": "13.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "121",
+            "sa4_code_2016": "107",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Illawarra",
+            "pop": "46600",
+            "pop_distribution": "17.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "127",
+            "sa4_code_2016": "108",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Mid North Coast",
+            "pop": "16700",
+            "pop_distribution": "8.899999619",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "133",
+            "sa4_code_2016": "109",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Murray",
+            "pop": "11600",
+            "pop_distribution": "11.69999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "139",
+            "sa4_code_2016": "110",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "New England and North West",
+            "pop": "18700",
+            "pop_distribution": "12.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "145",
+            "sa4_code_2016": "111",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Newcastle and Lake Macquarie",
+            "pop": "47800",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "151",
+            "sa4_code_2016": "112",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Richmond - Tweed",
+            "pop": "31800",
+            "pop_distribution": "15",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "157",
+            "sa4_code_2016": "113",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Riverina",
+            "pop": "16600",
+            "pop_distribution": "13",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "163",
+            "sa4_code_2016": "114",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Southern Highlands and Shoalhaven",
+            "pop": "16900",
+            "pop_distribution": "12.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "169",
+            "sa4_code_2016": "206",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - Inner",
+            "pop": "89000",
+            "pop_distribution": "14.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "175",
+            "sa4_code_2016": "207",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - Inner East",
+            "pop": "53400",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "181",
+            "sa4_code_2016": "208",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - Inner South",
+            "pop": "53900",
+            "pop_distribution": "14.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "187",
+            "sa4_code_2016": "209",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - North East",
+            "pop": "62600",
+            "pop_distribution": "13.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "193",
+            "sa4_code_2016": "210",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - North West",
+            "pop": "52000",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "199",
+            "sa4_code_2016": "211",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - Outer East",
+            "pop": "62600",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "205",
+            "sa4_code_2016": "212",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - South East",
+            "pop": "115200",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "211",
+            "sa4_code_2016": "213",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Melbourne - West",
+            "pop": "103200",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "217",
+            "sa4_code_2016": "214",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Mornington Peninsula",
+            "pop": "33000",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "223",
+            "sa4_code_2016": "201",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Ballarat",
+            "pop": "22800",
+            "pop_distribution": "16.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "229",
+            "sa4_code_2016": "202",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Bendigo",
+            "pop": "19700",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "235",
+            "sa4_code_2016": "203",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Geelong",
+            "pop": "34600",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "241",
+            "sa4_code_2016": "204",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Hume",
+            "pop": "19000",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "247",
+            "sa4_code_2016": "205",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Latrobe - Gippsland",
+            "pop": "27100",
+            "pop_distribution": "11.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "253",
+            "sa4_code_2016": "215",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "North West",
+            "pop": "15500",
+            "pop_distribution": "12.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "259",
+            "sa4_code_2016": "216",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Shepparton",
+            "pop": "16800",
+            "pop_distribution": "15.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "265",
+            "sa4_code_2016": "217",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Warrnambool and South West",
+            "pop": "15800",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "271",
+            "sa4_code_2016": "301",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Brisbane - East",
+            "pop": "25700",
+            "pop_distribution": "13",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "277",
+            "sa4_code_2016": "302",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Brisbane - North",
+            "pop": "28900",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "283",
+            "sa4_code_2016": "303",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Brisbane - South",
+            "pop": "59200",
+            "pop_distribution": "18.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "289",
+            "sa4_code_2016": "304",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Brisbane - West",
+            "pop": "29600",
+            "pop_distribution": "18.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "295",
+            "sa4_code_2016": "305",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Brisbane Inner City",
+            "pop": "40100",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "301",
+            "sa4_code_2016": "310",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Ipswich",
+            "pop": "51500",
+            "pop_distribution": "17.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "307",
+            "sa4_code_2016": "311",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Logan - Beaudesert",
+            "pop": "46000",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "313",
+            "sa4_code_2016": "313",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Moreton Bay - North",
+            "pop": "26300",
+            "pop_distribution": "12.19999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "319",
+            "sa4_code_2016": "314",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Moreton Bay - South",
+            "pop": "26900",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "325",
+            "sa4_code_2016": "306",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Cairns",
+            "pop": "29600",
+            "pop_distribution": "14.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "331",
+            "sa4_code_2016": "307",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Darling Downs - Maranoa",
+            "pop": "17400",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "337",
+            "sa4_code_2016": "308",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Central Queensland",
+            "pop": "23800",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "343",
+            "sa4_code_2016": "309",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Gold Coast",
+            "pop": "94500",
+            "pop_distribution": "17.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "349",
+            "sa4_code_2016": "312",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Mackay - Isaac - Whitsunday",
+            "pop": "20200",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "355",
+            "sa4_code_2016": "315",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Queensland - Outback",
+            "pop": "7800",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "361",
+            "sa4_code_2016": "316",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Sunshine Coast",
+            "pop": "41600",
+            "pop_distribution": "12.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "367",
+            "sa4_code_2016": "317",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Toowoomba",
+            "pop": "19700",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "373",
+            "sa4_code_2016": "318",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Townsville",
+            "pop": "32000",
+            "pop_distribution": "17",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "379",
+            "sa4_code_2016": "319",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Wide Bay",
+            "pop": "26000",
+            "pop_distribution": "10.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "385",
+            "sa4_code_2016": "401",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Adelaide - Central and Hills",
+            "pop": "36600",
+            "pop_distribution": "14",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "391",
+            "sa4_code_2016": "402",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Adelaide - North",
+            "pop": "51700",
+            "pop_distribution": "14.39999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "397",
+            "sa4_code_2016": "403",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Adelaide - South",
+            "pop": "47100",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "403",
+            "sa4_code_2016": "404",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Adelaide - West",
+            "pop": "31900",
+            "pop_distribution": "15.5",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "409",
+            "sa4_code_2016": "405",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Barossa - Yorke - Mid North",
+            "pop": "12400",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "415",
+            "sa4_code_2016": "406",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "South Australia - Outback",
+            "pop": "10800",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "421",
+            "sa4_code_2016": "407",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "South Australia - South East",
+            "pop": "19900",
+            "pop_distribution": "12.19999981",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "427",
+            "sa4_code_2016": "502",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Mandurah",
+            "pop": "9900",
+            "pop_distribution": "11.39999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "433",
+            "sa4_code_2016": "503",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Perth - Inner",
+            "pop": "23300",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "439",
+            "sa4_code_2016": "504",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Perth - North East",
+            "pop": "29400",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "445",
+            "sa4_code_2016": "505",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Perth - North West",
+            "pop": "72200",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "451",
+            "sa4_code_2016": "506",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Perth - South East",
+            "pop": "70900",
+            "pop_distribution": "16.39999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "457",
+            "sa4_code_2016": "507",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Perth - South West",
+            "pop": "54300",
+            "pop_distribution": "15.10000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "463",
+            "sa4_code_2016": "501",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Bunbury",
+            "pop": "26300",
+            "pop_distribution": "17.60000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "469",
+            "sa4_code_2016": "509",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Western Australia - Wheat Belt",
+            "pop": "12600",
+            "pop_distribution": "11.30000019",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "475",
+            "sa4_code_2016": "601",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Hobart",
+            "pop": "28600",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "481",
+            "sa4_code_2016": "602",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Launceston and North East",
+            "pop": "16900",
+            "pop_distribution": "13.69999981",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "487",
+            "sa4_code_2016": "603",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "South East",
+            "pop": "3700",
+            "pop_distribution": "10.89999962",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "493",
+            "sa4_code_2016": "604",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "West and North West",
+            "pop": "12700",
+            "pop_distribution": "13.5",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "499",
+            "sa4_code_2016": "701",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Darwin",
+            "pop": "16600",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "505",
+            "sa4_code_2016": "702",
+            "age_grp": "15 to 24",
+            "sa4_name_2016": "Northern Territory - Outback",
+            "pop": "13400",
+            "pop_distribution": "17.70000076",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "2",
+            "sa4_code_2016": "102",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Central Coast",
+            "pop": "33900",
+            "pop_distribution": "12.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "8",
+            "sa4_code_2016": "115",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Baulkham Hills and Hawkesbury",
+            "pop": "32200",
+            "pop_distribution": "15.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "14",
+            "sa4_code_2016": "116",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Blacktown",
+            "pop": "65700",
+            "pop_distribution": "21.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "20",
+            "sa4_code_2016": "117",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - City and Inner South",
+            "pop": "112600",
+            "pop_distribution": "33.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "26",
+            "sa4_code_2016": "118",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Eastern Suburbs",
+            "pop": "63700",
+            "pop_distribution": "25.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "32",
+            "sa4_code_2016": "119",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Inner South West",
+            "pop": "98400",
+            "pop_distribution": "19.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "38",
+            "sa4_code_2016": "120",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Inner West",
+            "pop": "59600",
+            "pop_distribution": "21.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "44",
+            "sa4_code_2016": "121",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - North Sydney and Hornsby",
+            "pop": "47600",
+            "pop_distribution": "13.19999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "50",
+            "sa4_code_2016": "122",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Northern Beaches",
+            "pop": "30400",
+            "pop_distribution": "13.69999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "56",
+            "sa4_code_2016": "123",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Outer South West",
+            "pop": "42400",
+            "pop_distribution": "18.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "62",
+            "sa4_code_2016": "124",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Outer West and Blue Mountains",
+            "pop": "53000",
+            "pop_distribution": "20.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "68",
+            "sa4_code_2016": "125",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Parramatta",
+            "pop": "95500",
+            "pop_distribution": "23.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "74",
+            "sa4_code_2016": "126",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Ryde",
+            "pop": "37100",
+            "pop_distribution": "21.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "80",
+            "sa4_code_2016": "127",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - South West",
+            "pop": "72700",
+            "pop_distribution": "19.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "86",
+            "sa4_code_2016": "128",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sydney - Sutherland",
+            "pop": "34000",
+            "pop_distribution": "18.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "92",
+            "sa4_code_2016": "101",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Capital Region",
+            "pop": "34200",
+            "pop_distribution": "18",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "98",
+            "sa4_code_2016": "103",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Central West",
+            "pop": "22700",
+            "pop_distribution": "13.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "104",
+            "sa4_code_2016": "104",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Coffs Harbour - Grafton",
+            "pop": "10200",
+            "pop_distribution": "8.800000191",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "110",
+            "sa4_code_2016": "105",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Far West and Orana",
+            "pop": "14500",
+            "pop_distribution": "16",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "116",
+            "sa4_code_2016": "106",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Hunter Valley exc Newcastle",
+            "pop": "33700",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "122",
+            "sa4_code_2016": "107",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Illawarra",
+            "pop": "37900",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "128",
+            "sa4_code_2016": "108",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Mid North Coast",
+            "pop": "19000",
+            "pop_distribution": "10.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "134",
+            "sa4_code_2016": "109",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Murray",
+            "pop": "15300",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "140",
+            "sa4_code_2016": "110",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "New England and North West",
+            "pop": "14400",
+            "pop_distribution": "9.699999809",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "146",
+            "sa4_code_2016": "111",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Newcastle and Lake Macquarie",
+            "pop": "53200",
+            "pop_distribution": "17",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "152",
+            "sa4_code_2016": "112",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Richmond - Tweed",
+            "pop": "25100",
+            "pop_distribution": "11.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "158",
+            "sa4_code_2016": "113",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Riverina",
+            "pop": "18900",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "164",
+            "sa4_code_2016": "114",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Southern Highlands and Shoalhaven",
+            "pop": "14400",
+            "pop_distribution": "11",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "170",
+            "sa4_code_2016": "206",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - Inner",
+            "pop": "193900",
+            "pop_distribution": "30.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "176",
+            "sa4_code_2016": "207",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - Inner East",
+            "pop": "55300",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "182",
+            "sa4_code_2016": "208",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - Inner South",
+            "pop": "48800",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "188",
+            "sa4_code_2016": "209",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - North East",
+            "pop": "82200",
+            "pop_distribution": "18.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "194",
+            "sa4_code_2016": "210",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - North West",
+            "pop": "72600",
+            "pop_distribution": "21.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "200",
+            "sa4_code_2016": "211",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - Outer East",
+            "pop": "69100",
+            "pop_distribution": "16",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "206",
+            "sa4_code_2016": "212",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - South East",
+            "pop": "147800",
+            "pop_distribution": "21",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "212",
+            "sa4_code_2016": "213",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Melbourne - West",
+            "pop": "156600",
+            "pop_distribution": "23",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "218",
+            "sa4_code_2016": "214",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Mornington Peninsula",
+            "pop": "36600",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "224",
+            "sa4_code_2016": "201",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Ballarat",
+            "pop": "20100",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "230",
+            "sa4_code_2016": "202",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Bendigo",
+            "pop": "16000",
+            "pop_distribution": "12",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "236",
+            "sa4_code_2016": "203",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Geelong",
+            "pop": "36800",
+            "pop_distribution": "14.19999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "242",
+            "sa4_code_2016": "204",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Hume",
+            "pop": "22500",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "248",
+            "sa4_code_2016": "205",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Latrobe - Gippsland",
+            "pop": "36600",
+            "pop_distribution": "15.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "254",
+            "sa4_code_2016": "215",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "North West",
+            "pop": "15900",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "260",
+            "sa4_code_2016": "216",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Shepparton",
+            "pop": "12600",
+            "pop_distribution": "11.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "266",
+            "sa4_code_2016": "217",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Warrnambool and South West",
+            "pop": "13100",
+            "pop_distribution": "12.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "272",
+            "sa4_code_2016": "301",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Brisbane - East",
+            "pop": "25600",
+            "pop_distribution": "13",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "278",
+            "sa4_code_2016": "302",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Brisbane - North",
+            "pop": "32400",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "284",
+            "sa4_code_2016": "303",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Brisbane - South",
+            "pop": "59700",
+            "pop_distribution": "19",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "290",
+            "sa4_code_2016": "304",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Brisbane - West",
+            "pop": "24600",
+            "pop_distribution": "15.69999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "296",
+            "sa4_code_2016": "305",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Brisbane Inner City",
+            "pop": "78100",
+            "pop_distribution": "29.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "302",
+            "sa4_code_2016": "310",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Ipswich",
+            "pop": "61100",
+            "pop_distribution": "21.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "308",
+            "sa4_code_2016": "311",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Logan - Beaudesert",
+            "pop": "57400",
+            "pop_distribution": "20.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "314",
+            "sa4_code_2016": "313",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Moreton Bay - North",
+            "pop": "26000",
+            "pop_distribution": "12.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "320",
+            "sa4_code_2016": "314",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Moreton Bay - South",
+            "pop": "31900",
+            "pop_distribution": "18.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "326",
+            "sa4_code_2016": "306",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Cairns",
+            "pop": "35600",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "332",
+            "sa4_code_2016": "307",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Darling Downs - Maranoa",
+            "pop": "13400",
+            "pop_distribution": "13.19999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "338",
+            "sa4_code_2016": "308",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Central Queensland",
+            "pop": "32300",
+            "pop_distribution": "18.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "344",
+            "sa4_code_2016": "309",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Gold Coast",
+            "pop": "83100",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "350",
+            "sa4_code_2016": "312",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Mackay - Isaac - Whitsunday",
+            "pop": "21600",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "356",
+            "sa4_code_2016": "315",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Queensland - Outback",
+            "pop": "14200",
+            "pop_distribution": "22.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "362",
+            "sa4_code_2016": "316",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Sunshine Coast",
+            "pop": "41300",
+            "pop_distribution": "12.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "368",
+            "sa4_code_2016": "317",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Toowoomba",
+            "pop": "17600",
+            "pop_distribution": "13.69999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "374",
+            "sa4_code_2016": "318",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Townsville",
+            "pop": "35100",
+            "pop_distribution": "18.70000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "380",
+            "sa4_code_2016": "319",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Wide Bay",
+            "pop": "27700",
+            "pop_distribution": "11",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "386",
+            "sa4_code_2016": "401",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Adelaide - Central and Hills",
+            "pop": "40200",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "392",
+            "sa4_code_2016": "402",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Adelaide - North",
+            "pop": "69600",
+            "pop_distribution": "19.39999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "398",
+            "sa4_code_2016": "403",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Adelaide - South",
+            "pop": "43800",
+            "pop_distribution": "14.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "404",
+            "sa4_code_2016": "404",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Adelaide - West",
+            "pop": "37700",
+            "pop_distribution": "18.29999924",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "410",
+            "sa4_code_2016": "405",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Barossa - Yorke - Mid North",
+            "pop": "9200",
+            "pop_distribution": "9.699999809",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "416",
+            "sa4_code_2016": "406",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "South Australia - Outback",
+            "pop": "10600",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "422",
+            "sa4_code_2016": "407",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "South Australia - South East",
+            "pop": "20700",
+            "pop_distribution": "12.69999981",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "428",
+            "sa4_code_2016": "502",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Mandurah",
+            "pop": "11200",
+            "pop_distribution": "12.89999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "434",
+            "sa4_code_2016": "503",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Perth - Inner",
+            "pop": "27500",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "440",
+            "sa4_code_2016": "504",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Perth - North East",
+            "pop": "35300",
+            "pop_distribution": "15.69999981",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "446",
+            "sa4_code_2016": "505",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Perth - North West",
+            "pop": "80300",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "452",
+            "sa4_code_2016": "506",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Perth - South East",
+            "pop": "89300",
+            "pop_distribution": "20.70000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "458",
+            "sa4_code_2016": "507",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Perth - South West",
+            "pop": "70600",
+            "pop_distribution": "19.70000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "464",
+            "sa4_code_2016": "501",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Bunbury",
+            "pop": "19700",
+            "pop_distribution": "13.19999981",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "470",
+            "sa4_code_2016": "509",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Western Australia - Wheat Belt",
+            "pop": "12900",
+            "pop_distribution": "11.5",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "476",
+            "sa4_code_2016": "601",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Hobart",
+            "pop": "33000",
+            "pop_distribution": "16.79999924",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "482",
+            "sa4_code_2016": "602",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Launceston and North East",
+            "pop": "19000",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "488",
+            "sa4_code_2016": "603",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "South East",
+            "pop": "2900",
+            "pop_distribution": "8.5",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "494",
+            "sa4_code_2016": "604",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "West and North West",
+            "pop": "11700",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "500",
+            "sa4_code_2016": "701",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Darwin",
+            "pop": "24400",
+            "pop_distribution": "21.39999962",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "506",
+            "sa4_code_2016": "702",
+            "age_grp": "25 to 34",
+            "sa4_name_2016": "Northern Territory - Outback",
+            "pop": "18400",
+            "pop_distribution": "24.29999924",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "3",
+            "sa4_code_2016": "102",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Central Coast",
+            "pop": "33400",
+            "pop_distribution": "11.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "9",
+            "sa4_code_2016": "115",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Baulkham Hills and Hawkesbury",
+            "pop": "42000",
+            "pop_distribution": "20.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "15",
+            "sa4_code_2016": "116",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Blacktown",
+            "pop": "69300",
+            "pop_distribution": "23",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "21",
+            "sa4_code_2016": "117",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - City and Inner South",
+            "pop": "61100",
+            "pop_distribution": "18.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "27",
+            "sa4_code_2016": "118",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Eastern Suburbs",
+            "pop": "52900",
+            "pop_distribution": "21.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "33",
+            "sa4_code_2016": "119",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Inner South West",
+            "pop": "77200",
+            "pop_distribution": "15",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "39",
+            "sa4_code_2016": "120",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Inner West",
+            "pop": "43600",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "45",
+            "sa4_code_2016": "121",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - North Sydney and Hornsby",
+            "pop": "62300",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "51",
+            "sa4_code_2016": "122",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Northern Beaches",
+            "pop": "35700",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "57",
+            "sa4_code_2016": "123",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Outer South West",
+            "pop": "40700",
+            "pop_distribution": "17.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "63",
+            "sa4_code_2016": "124",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Outer West and Blue Mountains",
+            "pop": "48100",
+            "pop_distribution": "18.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "69",
+            "sa4_code_2016": "125",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Parramatta",
+            "pop": "93900",
+            "pop_distribution": "23.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "75",
+            "sa4_code_2016": "126",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Ryde",
+            "pop": "29700",
+            "pop_distribution": "17.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "81",
+            "sa4_code_2016": "127",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - South West",
+            "pop": "73200",
+            "pop_distribution": "19.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "87",
+            "sa4_code_2016": "128",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sydney - Sutherland",
+            "pop": "34400",
+            "pop_distribution": "18.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "93",
+            "sa4_code_2016": "101",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Capital Region",
+            "pop": "23000",
+            "pop_distribution": "12.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "99",
+            "sa4_code_2016": "103",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Central West",
+            "pop": "23600",
+            "pop_distribution": "13.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "105",
+            "sa4_code_2016": "104",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Coffs Harbour - Grafton",
+            "pop": "16800",
+            "pop_distribution": "14.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "111",
+            "sa4_code_2016": "105",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Far West and Orana",
+            "pop": "13900",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "117",
+            "sa4_code_2016": "106",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Hunter Valley exc Newcastle",
+            "pop": "37200",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "123",
+            "sa4_code_2016": "107",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Illawarra",
+            "pop": "28900",
+            "pop_distribution": "11.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "129",
+            "sa4_code_2016": "108",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Mid North Coast",
+            "pop": "20800",
+            "pop_distribution": "11.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "135",
+            "sa4_code_2016": "109",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Murray",
+            "pop": "15800",
+            "pop_distribution": "15.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "141",
+            "sa4_code_2016": "110",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "New England and North West",
+            "pop": "18800",
+            "pop_distribution": "12.69999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "147",
+            "sa4_code_2016": "111",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Newcastle and Lake Macquarie",
+            "pop": "49200",
+            "pop_distribution": "15.69999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "153",
+            "sa4_code_2016": "112",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Richmond - Tweed",
+            "pop": "31200",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "159",
+            "sa4_code_2016": "113",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Riverina",
+            "pop": "18800",
+            "pop_distribution": "14.69999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "165",
+            "sa4_code_2016": "114",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Southern Highlands and Shoalhaven",
+            "pop": "16900",
+            "pop_distribution": "12.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "171",
+            "sa4_code_2016": "206",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - Inner",
+            "pop": "113200",
+            "pop_distribution": "17.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "177",
+            "sa4_code_2016": "207",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - Inner East",
+            "pop": "54700",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "183",
+            "sa4_code_2016": "208",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - Inner South",
+            "pop": "62100",
+            "pop_distribution": "16.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "189",
+            "sa4_code_2016": "209",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - North East",
+            "pop": "87900",
+            "pop_distribution": "19.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "195",
+            "sa4_code_2016": "210",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - North West",
+            "pop": "50100",
+            "pop_distribution": "14.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "201",
+            "sa4_code_2016": "211",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - Outer East",
+            "pop": "71600",
+            "pop_distribution": "16.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "207",
+            "sa4_code_2016": "212",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - South East",
+            "pop": "127900",
+            "pop_distribution": "18.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "213",
+            "sa4_code_2016": "213",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Melbourne - West",
+            "pop": "157300",
+            "pop_distribution": "23.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "219",
+            "sa4_code_2016": "214",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Mornington Peninsula",
+            "pop": "35200",
+            "pop_distribution": "14",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "225",
+            "sa4_code_2016": "201",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Ballarat",
+            "pop": "18600",
+            "pop_distribution": "13.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "231",
+            "sa4_code_2016": "202",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Bendigo",
+            "pop": "20800",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "237",
+            "sa4_code_2016": "203",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Geelong",
+            "pop": "44800",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "243",
+            "sa4_code_2016": "204",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Hume",
+            "pop": "19600",
+            "pop_distribution": "13.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "249",
+            "sa4_code_2016": "205",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Latrobe - Gippsland",
+            "pop": "30300",
+            "pop_distribution": "12.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "255",
+            "sa4_code_2016": "215",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "North West",
+            "pop": "13900",
+            "pop_distribution": "11.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "261",
+            "sa4_code_2016": "216",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Shepparton",
+            "pop": "13300",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "267",
+            "sa4_code_2016": "217",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Warrnambool and South West",
+            "pop": "11700",
+            "pop_distribution": "11.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "273",
+            "sa4_code_2016": "301",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Brisbane - East",
+            "pop": "29600",
+            "pop_distribution": "15",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "279",
+            "sa4_code_2016": "302",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Brisbane - North",
+            "pop": "35600",
+            "pop_distribution": "19",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "285",
+            "sa4_code_2016": "303",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Brisbane - South",
+            "pop": "61400",
+            "pop_distribution": "19.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "291",
+            "sa4_code_2016": "304",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Brisbane - West",
+            "pop": "20000",
+            "pop_distribution": "12.80000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "297",
+            "sa4_code_2016": "305",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Brisbane Inner City",
+            "pop": "49300",
+            "pop_distribution": "18.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "303",
+            "sa4_code_2016": "310",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Ipswich",
+            "pop": "57700",
+            "pop_distribution": "19.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "309",
+            "sa4_code_2016": "311",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Logan - Beaudesert",
+            "pop": "44200",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "315",
+            "sa4_code_2016": "313",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Moreton Bay - North",
+            "pop": "29600",
+            "pop_distribution": "13.69999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "321",
+            "sa4_code_2016": "314",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Moreton Bay - South",
+            "pop": "34500",
+            "pop_distribution": "19.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "327",
+            "sa4_code_2016": "306",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Cairns",
+            "pop": "34800",
+            "pop_distribution": "16.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "333",
+            "sa4_code_2016": "307",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Darling Downs - Maranoa",
+            "pop": "11600",
+            "pop_distribution": "11.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "339",
+            "sa4_code_2016": "308",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Central Queensland",
+            "pop": "28800",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "345",
+            "sa4_code_2016": "309",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Gold Coast",
+            "pop": "93500",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "351",
+            "sa4_code_2016": "312",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Mackay - Isaac - Whitsunday",
+            "pop": "24300",
+            "pop_distribution": "17.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "357",
+            "sa4_code_2016": "315",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Queensland - Outback",
+            "pop": "10500",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "363",
+            "sa4_code_2016": "316",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Sunshine Coast",
+            "pop": "44600",
+            "pop_distribution": "13.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "369",
+            "sa4_code_2016": "317",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Toowoomba",
+            "pop": "20300",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "375",
+            "sa4_code_2016": "318",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Townsville",
+            "pop": "27400",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "381",
+            "sa4_code_2016": "319",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Wide Bay",
+            "pop": "30100",
+            "pop_distribution": "12",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "387",
+            "sa4_code_2016": "401",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Adelaide - Central and Hills",
+            "pop": "42100",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "393",
+            "sa4_code_2016": "402",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Adelaide - North",
+            "pop": "60800",
+            "pop_distribution": "17",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "399",
+            "sa4_code_2016": "403",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Adelaide - South",
+            "pop": "49200",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "405",
+            "sa4_code_2016": "404",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Adelaide - West",
+            "pop": "29000",
+            "pop_distribution": "14.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "411",
+            "sa4_code_2016": "405",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Barossa - Yorke - Mid North",
+            "pop": "13900",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "417",
+            "sa4_code_2016": "406",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "South Australia - Outback",
+            "pop": "10100",
+            "pop_distribution": "15.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "423",
+            "sa4_code_2016": "407",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "South Australia - South East",
+            "pop": "17800",
+            "pop_distribution": "10.89999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "429",
+            "sa4_code_2016": "502",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Mandurah",
+            "pop": "7700",
+            "pop_distribution": "8.899999619",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "435",
+            "sa4_code_2016": "503",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Perth - Inner",
+            "pop": "31300",
+            "pop_distribution": "19.60000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "441",
+            "sa4_code_2016": "504",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Perth - North East",
+            "pop": "44100",
+            "pop_distribution": "19.70000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "447",
+            "sa4_code_2016": "505",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Perth - North West",
+            "pop": "79300",
+            "pop_distribution": "17",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "453",
+            "sa4_code_2016": "506",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Perth - South East",
+            "pop": "81000",
+            "pop_distribution": "18.79999924",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "459",
+            "sa4_code_2016": "507",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Perth - South West",
+            "pop": "63100",
+            "pop_distribution": "17.60000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "465",
+            "sa4_code_2016": "501",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Bunbury",
+            "pop": "22800",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "471",
+            "sa4_code_2016": "509",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Western Australia - Wheat Belt",
+            "pop": "15900",
+            "pop_distribution": "14.19999981",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "477",
+            "sa4_code_2016": "601",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Hobart",
+            "pop": "29600",
+            "pop_distribution": "15",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "483",
+            "sa4_code_2016": "602",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Launceston and North East",
+            "pop": "16400",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "489",
+            "sa4_code_2016": "603",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "South East",
+            "pop": "4500",
+            "pop_distribution": "13.19999981",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "495",
+            "sa4_code_2016": "604",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "West and North West",
+            "pop": "12300",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "501",
+            "sa4_code_2016": "701",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Darwin",
+            "pop": "22500",
+            "pop_distribution": "19.79999924",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "507",
+            "sa4_code_2016": "702",
+            "age_grp": "35 to 44",
+            "sa4_name_2016": "Northern Territory - Outback",
+            "pop": "14800",
+            "pop_distribution": "19.60000038",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "4",
+            "sa4_code_2016": "102",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Central Coast",
+            "pop": "42700",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "10",
+            "sa4_code_2016": "115",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Baulkham Hills and Hawkesbury",
+            "pop": "35700",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "16",
+            "sa4_code_2016": "116",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Blacktown",
+            "pop": "42100",
+            "pop_distribution": "14",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "22",
+            "sa4_code_2016": "117",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - City and Inner South",
+            "pop": "43300",
+            "pop_distribution": "12.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "28",
+            "sa4_code_2016": "118",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Eastern Suburbs",
+            "pop": "33800",
+            "pop_distribution": "13.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "34",
+            "sa4_code_2016": "119",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Inner South West",
+            "pop": "76200",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "40",
+            "sa4_code_2016": "120",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Inner West",
+            "pop": "44800",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "46",
+            "sa4_code_2016": "121",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - North Sydney and Hornsby",
+            "pop": "64200",
+            "pop_distribution": "17.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "52",
+            "sa4_code_2016": "122",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Northern Beaches",
+            "pop": "44900",
+            "pop_distribution": "20.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "58",
+            "sa4_code_2016": "123",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Outer South West",
+            "pop": "37700",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "64",
+            "sa4_code_2016": "124",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Outer West and Blue Mountains",
+            "pop": "41300",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "70",
+            "sa4_code_2016": "125",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Parramatta",
+            "pop": "50000",
+            "pop_distribution": "12.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "76",
+            "sa4_code_2016": "126",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Ryde",
+            "pop": "27500",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "82",
+            "sa4_code_2016": "127",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - South West",
+            "pop": "56600",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "88",
+            "sa4_code_2016": "128",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sydney - Sutherland",
+            "pop": "27200",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "94",
+            "sa4_code_2016": "101",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Capital Region",
+            "pop": "28200",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "100",
+            "sa4_code_2016": "103",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Central West",
+            "pop": "23500",
+            "pop_distribution": "13.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "106",
+            "sa4_code_2016": "104",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Coffs Harbour - Grafton",
+            "pop": "17800",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "112",
+            "sa4_code_2016": "105",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Far West and Orana",
+            "pop": "11600",
+            "pop_distribution": "12.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "118",
+            "sa4_code_2016": "106",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Hunter Valley exc Newcastle",
+            "pop": "36500",
+            "pop_distribution": "16",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "124",
+            "sa4_code_2016": "107",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Illawarra",
+            "pop": "46000",
+            "pop_distribution": "17.70000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "130",
+            "sa4_code_2016": "108",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Mid North Coast",
+            "pop": "25100",
+            "pop_distribution": "13.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "136",
+            "sa4_code_2016": "109",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Murray",
+            "pop": "12900",
+            "pop_distribution": "13",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "142",
+            "sa4_code_2016": "110",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "New England and North West",
+            "pop": "24000",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "148",
+            "sa4_code_2016": "111",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Newcastle and Lake Macquarie",
+            "pop": "48100",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "154",
+            "sa4_code_2016": "112",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Richmond - Tweed",
+            "pop": "33300",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "160",
+            "sa4_code_2016": "113",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Riverina",
+            "pop": "18200",
+            "pop_distribution": "14.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "166",
+            "sa4_code_2016": "114",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Southern Highlands and Shoalhaven",
+            "pop": "20200",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "172",
+            "sa4_code_2016": "206",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - Inner",
+            "pop": "80900",
+            "pop_distribution": "12.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "178",
+            "sa4_code_2016": "207",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - Inner East",
+            "pop": "53900",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "184",
+            "sa4_code_2016": "208",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - Inner South",
+            "pop": "65900",
+            "pop_distribution": "18",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "190",
+            "sa4_code_2016": "209",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - North East",
+            "pop": "71600",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "196",
+            "sa4_code_2016": "210",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - North West",
+            "pop": "50900",
+            "pop_distribution": "15",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "202",
+            "sa4_code_2016": "211",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - Outer East",
+            "pop": "68500",
+            "pop_distribution": "15.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "208",
+            "sa4_code_2016": "212",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - South East",
+            "pop": "110300",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "214",
+            "sa4_code_2016": "213",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Melbourne - West",
+            "pop": "99800",
+            "pop_distribution": "14.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "220",
+            "sa4_code_2016": "214",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Mornington Peninsula",
+            "pop": "39200",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "226",
+            "sa4_code_2016": "201",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Ballarat",
+            "pop": "20900",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "232",
+            "sa4_code_2016": "202",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Bendigo",
+            "pop": "24100",
+            "pop_distribution": "18.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "238",
+            "sa4_code_2016": "203",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Geelong",
+            "pop": "43200",
+            "pop_distribution": "16.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "244",
+            "sa4_code_2016": "204",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Hume",
+            "pop": "24000",
+            "pop_distribution": "16.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "250",
+            "sa4_code_2016": "205",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Latrobe - Gippsland",
+            "pop": "25800",
+            "pop_distribution": "10.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "256",
+            "sa4_code_2016": "215",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "North West",
+            "pop": "19000",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "262",
+            "sa4_code_2016": "216",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Shepparton",
+            "pop": "18400",
+            "pop_distribution": "17.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "268",
+            "sa4_code_2016": "217",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Warrnambool and South West",
+            "pop": "15200",
+            "pop_distribution": "15",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "274",
+            "sa4_code_2016": "301",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Brisbane - East",
+            "pop": "31600",
+            "pop_distribution": "16",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "280",
+            "sa4_code_2016": "302",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Brisbane - North",
+            "pop": "35100",
+            "pop_distribution": "18.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "286",
+            "sa4_code_2016": "303",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Brisbane - South",
+            "pop": "44900",
+            "pop_distribution": "14.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "292",
+            "sa4_code_2016": "304",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Brisbane - West",
+            "pop": "29800",
+            "pop_distribution": "19",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "298",
+            "sa4_code_2016": "305",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Brisbane Inner City",
+            "pop": "38000",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "304",
+            "sa4_code_2016": "310",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Ipswich",
+            "pop": "45500",
+            "pop_distribution": "15.69999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "310",
+            "sa4_code_2016": "311",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Logan - Beaudesert",
+            "pop": "47300",
+            "pop_distribution": "16.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "316",
+            "sa4_code_2016": "313",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Moreton Bay - North",
+            "pop": "29400",
+            "pop_distribution": "13.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "322",
+            "sa4_code_2016": "314",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Moreton Bay - South",
+            "pop": "30900",
+            "pop_distribution": "17.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "328",
+            "sa4_code_2016": "306",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Cairns",
+            "pop": "33000",
+            "pop_distribution": "16",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "334",
+            "sa4_code_2016": "307",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Darling Downs - Maranoa",
+            "pop": "19800",
+            "pop_distribution": "19.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "340",
+            "sa4_code_2016": "308",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Central Queensland",
+            "pop": "27400",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "346",
+            "sa4_code_2016": "309",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Gold Coast",
+            "pop": "97800",
+            "pop_distribution": "18",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "352",
+            "sa4_code_2016": "312",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Mackay - Isaac - Whitsunday",
+            "pop": "23600",
+            "pop_distribution": "17",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "358",
+            "sa4_code_2016": "315",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Queensland - Outback",
+            "pop": "11100",
+            "pop_distribution": "17.70000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "364",
+            "sa4_code_2016": "316",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Sunshine Coast",
+            "pop": "52200",
+            "pop_distribution": "15.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "370",
+            "sa4_code_2016": "317",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Toowoomba",
+            "pop": "17000",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "376",
+            "sa4_code_2016": "318",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Townsville",
+            "pop": "23200",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "382",
+            "sa4_code_2016": "319",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Wide Bay",
+            "pop": "35700",
+            "pop_distribution": "14.19999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "388",
+            "sa4_code_2016": "401",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Adelaide - Central and Hills",
+            "pop": "40900",
+            "pop_distribution": "15.69999981",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "394",
+            "sa4_code_2016": "402",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Adelaide - North",
+            "pop": "53700",
+            "pop_distribution": "15",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "400",
+            "sa4_code_2016": "403",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Adelaide - South",
+            "pop": "48600",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "406",
+            "sa4_code_2016": "404",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Adelaide - West",
+            "pop": "30800",
+            "pop_distribution": "15",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "412",
+            "sa4_code_2016": "405",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Barossa - Yorke - Mid North",
+            "pop": "15000",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "418",
+            "sa4_code_2016": "406",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "South Australia - Outback",
+            "pop": "10300",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "424",
+            "sa4_code_2016": "407",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "South Australia - South East",
+            "pop": "22900",
+            "pop_distribution": "14.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "430",
+            "sa4_code_2016": "502",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Mandurah",
+            "pop": "9900",
+            "pop_distribution": "11.39999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "436",
+            "sa4_code_2016": "503",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Perth - Inner",
+            "pop": "23100",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "442",
+            "sa4_code_2016": "504",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Perth - North East",
+            "pop": "36500",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "448",
+            "sa4_code_2016": "505",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Perth - North West",
+            "pop": "76000",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "454",
+            "sa4_code_2016": "506",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Perth - South East",
+            "pop": "69900",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "460",
+            "sa4_code_2016": "507",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Perth - South West",
+            "pop": "59000",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "466",
+            "sa4_code_2016": "501",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Bunbury",
+            "pop": "22200",
+            "pop_distribution": "14.80000019",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "472",
+            "sa4_code_2016": "509",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Western Australia - Wheat Belt",
+            "pop": "18300",
+            "pop_distribution": "16.39999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "478",
+            "sa4_code_2016": "601",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Hobart",
+            "pop": "29500",
+            "pop_distribution": "15",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "484",
+            "sa4_code_2016": "602",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Launceston and North East",
+            "pop": "18700",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "490",
+            "sa4_code_2016": "603",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "South East",
+            "pop": "5500",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "496",
+            "sa4_code_2016": "604",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "West and North West",
+            "pop": "14400",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "502",
+            "sa4_code_2016": "701",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Darwin",
+            "pop": "19700",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "508",
+            "sa4_code_2016": "702",
+            "age_grp": "45 to 54",
+            "sa4_name_2016": "Northern Territory - Outback",
+            "pop": "11700",
+            "pop_distribution": "15.5",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "5",
+            "sa4_code_2016": "102",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Central Coast",
+            "pop": "46100",
+            "pop_distribution": "16.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "11",
+            "sa4_code_2016": "115",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Baulkham Hills and Hawkesbury",
+            "pop": "28700",
+            "pop_distribution": "13.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "17",
+            "sa4_code_2016": "116",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Blacktown",
+            "pop": "36500",
+            "pop_distribution": "12.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "23",
+            "sa4_code_2016": "117",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - City and Inner South",
+            "pop": "35200",
+            "pop_distribution": "10.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "29",
+            "sa4_code_2016": "118",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Eastern Suburbs",
+            "pop": "31600",
+            "pop_distribution": "12.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "35",
+            "sa4_code_2016": "119",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Inner South West",
+            "pop": "73600",
+            "pop_distribution": "14.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "41",
+            "sa4_code_2016": "120",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Inner West",
+            "pop": "34500",
+            "pop_distribution": "12.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "47",
+            "sa4_code_2016": "121",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - North Sydney and Hornsby",
+            "pop": "51600",
+            "pop_distribution": "14.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "53",
+            "sa4_code_2016": "122",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Northern Beaches",
+            "pop": "32000",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "59",
+            "sa4_code_2016": "123",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Outer South West",
+            "pop": "33700",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "65",
+            "sa4_code_2016": "124",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Outer West and Blue Mountains",
+            "pop": "37800",
+            "pop_distribution": "14.30000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "71",
+            "sa4_code_2016": "125",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Parramatta",
+            "pop": "44500",
+            "pop_distribution": "10.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "77",
+            "sa4_code_2016": "126",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Ryde",
+            "pop": "22800",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "83",
+            "sa4_code_2016": "127",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - South West",
+            "pop": "46400",
+            "pop_distribution": "12.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "89",
+            "sa4_code_2016": "128",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sydney - Sutherland",
+            "pop": "27500",
+            "pop_distribution": "14.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "95",
+            "sa4_code_2016": "101",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Capital Region",
+            "pop": "31100",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "101",
+            "sa4_code_2016": "103",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Central West",
+            "pop": "32700",
+            "pop_distribution": "19.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "107",
+            "sa4_code_2016": "104",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Coffs Harbour - Grafton",
+            "pop": "18700",
+            "pop_distribution": "16.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "113",
+            "sa4_code_2016": "105",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Far West and Orana",
+            "pop": "14200",
+            "pop_distribution": "15.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "119",
+            "sa4_code_2016": "106",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Hunter Valley exc Newcastle",
+            "pop": "34600",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "125",
+            "sa4_code_2016": "107",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Illawarra",
+            "pop": "42100",
+            "pop_distribution": "16.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "131",
+            "sa4_code_2016": "108",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Mid North Coast",
+            "pop": "36000",
+            "pop_distribution": "19.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "137",
+            "sa4_code_2016": "109",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Murray",
+            "pop": "15400",
+            "pop_distribution": "15.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "143",
+            "sa4_code_2016": "110",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "New England and North West",
+            "pop": "26400",
+            "pop_distribution": "17.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "149",
+            "sa4_code_2016": "111",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Newcastle and Lake Macquarie",
+            "pop": "46900",
+            "pop_distribution": "15",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "155",
+            "sa4_code_2016": "112",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Richmond - Tweed",
+            "pop": "29600",
+            "pop_distribution": "14",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "161",
+            "sa4_code_2016": "113",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Riverina",
+            "pop": "22400",
+            "pop_distribution": "17.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "167",
+            "sa4_code_2016": "114",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Southern Highlands and Shoalhaven",
+            "pop": "22700",
+            "pop_distribution": "17.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "173",
+            "sa4_code_2016": "206",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - Inner",
+            "pop": "67400",
+            "pop_distribution": "10.69999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "179",
+            "sa4_code_2016": "207",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - Inner East",
+            "pop": "55100",
+            "pop_distribution": "16.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "185",
+            "sa4_code_2016": "208",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - Inner South",
+            "pop": "53300",
+            "pop_distribution": "14.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "191",
+            "sa4_code_2016": "209",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - North East",
+            "pop": "55100",
+            "pop_distribution": "12.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "197",
+            "sa4_code_2016": "210",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - North West",
+            "pop": "48300",
+            "pop_distribution": "14.19999981",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "203",
+            "sa4_code_2016": "211",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - Outer East",
+            "pop": "60700",
+            "pop_distribution": "14.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "209",
+            "sa4_code_2016": "212",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - South East",
+            "pop": "87400",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "215",
+            "sa4_code_2016": "213",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Melbourne - West",
+            "pop": "76600",
+            "pop_distribution": "11.30000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "221",
+            "sa4_code_2016": "214",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Mornington Peninsula",
+            "pop": "39900",
+            "pop_distribution": "15.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "227",
+            "sa4_code_2016": "201",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Ballarat",
+            "pop": "21800",
+            "pop_distribution": "15.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "233",
+            "sa4_code_2016": "202",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Bendigo",
+            "pop": "22200",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "239",
+            "sa4_code_2016": "203",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Geelong",
+            "pop": "45300",
+            "pop_distribution": "17.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "245",
+            "sa4_code_2016": "204",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Hume",
+            "pop": "26700",
+            "pop_distribution": "18.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "251",
+            "sa4_code_2016": "205",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Latrobe - Gippsland",
+            "pop": "36100",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "257",
+            "sa4_code_2016": "215",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "North West",
+            "pop": "19200",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "263",
+            "sa4_code_2016": "216",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Shepparton",
+            "pop": "14100",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "269",
+            "sa4_code_2016": "217",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Warrnambool and South West",
+            "pop": "19300",
+            "pop_distribution": "19",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "275",
+            "sa4_code_2016": "301",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Brisbane - East",
+            "pop": "39200",
+            "pop_distribution": "19.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "281",
+            "sa4_code_2016": "302",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Brisbane - North",
+            "pop": "26500",
+            "pop_distribution": "14.19999981",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "287",
+            "sa4_code_2016": "303",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Brisbane - South",
+            "pop": "38100",
+            "pop_distribution": "12.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "293",
+            "sa4_code_2016": "304",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Brisbane - West",
+            "pop": "19400",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "299",
+            "sa4_code_2016": "305",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Brisbane Inner City",
+            "pop": "27100",
+            "pop_distribution": "10.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "305",
+            "sa4_code_2016": "310",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Ipswich",
+            "pop": "34800",
+            "pop_distribution": "12",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "311",
+            "sa4_code_2016": "311",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Logan - Beaudesert",
+            "pop": "37900",
+            "pop_distribution": "13.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "317",
+            "sa4_code_2016": "313",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Moreton Bay - North",
+            "pop": "32900",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "323",
+            "sa4_code_2016": "314",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Moreton Bay - South",
+            "pop": "23100",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "329",
+            "sa4_code_2016": "306",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Cairns",
+            "pop": "33900",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "335",
+            "sa4_code_2016": "307",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Darling Downs - Maranoa",
+            "pop": "16600",
+            "pop_distribution": "16.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "341",
+            "sa4_code_2016": "308",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Central Queensland",
+            "pop": "30400",
+            "pop_distribution": "17",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "347",
+            "sa4_code_2016": "309",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Gold Coast",
+            "pop": "71200",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "353",
+            "sa4_code_2016": "312",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Mackay - Isaac - Whitsunday",
+            "pop": "23100",
+            "pop_distribution": "16.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "359",
+            "sa4_code_2016": "315",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Queensland - Outback",
+            "pop": "8200",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "365",
+            "sa4_code_2016": "316",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Sunshine Coast",
+            "pop": "54200",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "371",
+            "sa4_code_2016": "317",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Toowoomba",
+            "pop": "17700",
+            "pop_distribution": "13.80000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "377",
+            "sa4_code_2016": "318",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Townsville",
+            "pop": "30700",
+            "pop_distribution": "16.39999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "383",
+            "sa4_code_2016": "319",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Wide Bay",
+            "pop": "46800",
+            "pop_distribution": "18.60000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "389",
+            "sa4_code_2016": "401",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Adelaide - Central and Hills",
+            "pop": "36800",
+            "pop_distribution": "14.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "395",
+            "sa4_code_2016": "402",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Adelaide - North",
+            "pop": "47300",
+            "pop_distribution": "13.19999981",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "401",
+            "sa4_code_2016": "403",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Adelaide - South",
+            "pop": "51900",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "407",
+            "sa4_code_2016": "404",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Adelaide - West",
+            "pop": "30900",
+            "pop_distribution": "15",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "413",
+            "sa4_code_2016": "405",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Barossa - Yorke - Mid North",
+            "pop": "16600",
+            "pop_distribution": "17.5",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "419",
+            "sa4_code_2016": "406",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "South Australia - Outback",
+            "pop": "12400",
+            "pop_distribution": "18.5",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "425",
+            "sa4_code_2016": "407",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "South Australia - South East",
+            "pop": "27700",
+            "pop_distribution": "17",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "431",
+            "sa4_code_2016": "502",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Mandurah",
+            "pop": "14700",
+            "pop_distribution": "16.89999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "437",
+            "sa4_code_2016": "503",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Perth - Inner",
+            "pop": "20000",
+            "pop_distribution": "12.5",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "443",
+            "sa4_code_2016": "504",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Perth - North East",
+            "pop": "30700",
+            "pop_distribution": "13.69999981",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "449",
+            "sa4_code_2016": "505",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Perth - North West",
+            "pop": "69900",
+            "pop_distribution": "14.89999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "455",
+            "sa4_code_2016": "506",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Perth - South East",
+            "pop": "55300",
+            "pop_distribution": "12.80000019",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "461",
+            "sa4_code_2016": "507",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Perth - South West",
+            "pop": "49800",
+            "pop_distribution": "13.89999962",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "467",
+            "sa4_code_2016": "501",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Bunbury",
+            "pop": "22700",
+            "pop_distribution": "15.19999981",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "473",
+            "sa4_code_2016": "509",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Western Australia - Wheat Belt",
+            "pop": "21900",
+            "pop_distribution": "19.60000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "479",
+            "sa4_code_2016": "601",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Hobart",
+            "pop": "30300",
+            "pop_distribution": "15.39999962",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "485",
+            "sa4_code_2016": "602",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Launceston and North East",
+            "pop": "21000",
+            "pop_distribution": "17.10000038",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "491",
+            "sa4_code_2016": "603",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "South East",
+            "pop": "7200",
+            "pop_distribution": "21.10000038",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "497",
+            "sa4_code_2016": "604",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "West and North West",
+            "pop": "15700",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "503",
+            "sa4_code_2016": "701",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Darwin",
+            "pop": "15800",
+            "pop_distribution": "13.89999962",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "509",
+            "sa4_code_2016": "702",
+            "age_grp": "55 to 64",
+            "sa4_name_2016": "Northern Territory - Outback",
+            "pop": "10100",
+            "pop_distribution": "13.30000019",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "6",
+            "sa4_code_2016": "102",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Central Coast",
+            "pop": "85500",
+            "pop_distribution": "30.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "12",
+            "sa4_code_2016": "115",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Baulkham Hills and Hawkesbury",
+            "pop": "39000",
+            "pop_distribution": "18.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "18",
+            "sa4_code_2016": "116",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Blacktown",
+            "pop": "37500",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "24",
+            "sa4_code_2016": "117",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - City and Inner South",
+            "pop": "41900",
+            "pop_distribution": "12.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "30",
+            "sa4_code_2016": "118",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Eastern Suburbs",
+            "pop": "41900",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "36",
+            "sa4_code_2016": "119",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Inner South West",
+            "pop": "101400",
+            "pop_distribution": "19.70000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "42",
+            "sa4_code_2016": "120",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Inner West",
+            "pop": "57100",
+            "pop_distribution": "20.70000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "48",
+            "sa4_code_2016": "121",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - North Sydney and Hornsby",
+            "pop": "75000",
+            "pop_distribution": "20.79999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "54",
+            "sa4_code_2016": "122",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Northern Beaches",
+            "pop": "49500",
+            "pop_distribution": "22.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "60",
+            "sa4_code_2016": "123",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Outer South West",
+            "pop": "36500",
+            "pop_distribution": "15.80000019",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "66",
+            "sa4_code_2016": "124",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Outer West and Blue Mountains",
+            "pop": "48100",
+            "pop_distribution": "18.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "72",
+            "sa4_code_2016": "125",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Parramatta",
+            "pop": "60600",
+            "pop_distribution": "14.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "78",
+            "sa4_code_2016": "126",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Ryde",
+            "pop": "28700",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "84",
+            "sa4_code_2016": "127",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - South West",
+            "pop": "63900",
+            "pop_distribution": "17.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "90",
+            "sa4_code_2016": "128",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sydney - Sutherland",
+            "pop": "35600",
+            "pop_distribution": "18.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "96",
+            "sa4_code_2016": "101",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Capital Region",
+            "pop": "47800",
+            "pop_distribution": "25.10000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "102",
+            "sa4_code_2016": "103",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Central West",
+            "pop": "38900",
+            "pop_distribution": "22.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "108",
+            "sa4_code_2016": "104",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Coffs Harbour - Grafton",
+            "pop": "37900",
+            "pop_distribution": "32.5",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "114",
+            "sa4_code_2016": "105",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Far West and Orana",
+            "pop": "23000",
+            "pop_distribution": "25.29999924",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "120",
+            "sa4_code_2016": "106",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Hunter Valley exc Newcastle",
+            "pop": "55200",
+            "pop_distribution": "24.20000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "126",
+            "sa4_code_2016": "107",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Illawarra",
+            "pop": "59000",
+            "pop_distribution": "22.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "132",
+            "sa4_code_2016": "108",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Mid North Coast",
+            "pop": "70300",
+            "pop_distribution": "37.40000153",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "138",
+            "sa4_code_2016": "109",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Murray",
+            "pop": "28200",
+            "pop_distribution": "28.39999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "144",
+            "sa4_code_2016": "110",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "New England and North West",
+            "pop": "45700",
+            "pop_distribution": "30.89999962",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "150",
+            "sa4_code_2016": "111",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Newcastle and Lake Macquarie",
+            "pop": "67700",
+            "pop_distribution": "21.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "156",
+            "sa4_code_2016": "112",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Richmond - Tweed",
+            "pop": "60400",
+            "pop_distribution": "28.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "162",
+            "sa4_code_2016": "113",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Riverina",
+            "pop": "32600",
+            "pop_distribution": "25.60000038",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "168",
+            "sa4_code_2016": "114",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Southern Highlands and Shoalhaven",
+            "pop": "40300",
+            "pop_distribution": "30.70000076",
+            "state_name_abbr": "NSW"
+        },
+        {
+            "fid": "174",
+            "sa4_code_2016": "206",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - Inner",
+            "pop": "88400",
+            "pop_distribution": "14",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "180",
+            "sa4_code_2016": "207",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - Inner East",
+            "pop": "59700",
+            "pop_distribution": "18",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "186",
+            "sa4_code_2016": "208",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - Inner South",
+            "pop": "82700",
+            "pop_distribution": "22.60000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "192",
+            "sa4_code_2016": "209",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - North East",
+            "pop": "94300",
+            "pop_distribution": "20.79999924",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "198",
+            "sa4_code_2016": "210",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - North West",
+            "pop": "65900",
+            "pop_distribution": "19.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "204",
+            "sa4_code_2016": "211",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - Outer East",
+            "pop": "98400",
+            "pop_distribution": "22.79999924",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "210",
+            "sa4_code_2016": "212",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - South East",
+            "pop": "116300",
+            "pop_distribution": "16.5",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "216",
+            "sa4_code_2016": "213",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Melbourne - West",
+            "pop": "86800",
+            "pop_distribution": "12.80000019",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "222",
+            "sa4_code_2016": "214",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Mornington Peninsula",
+            "pop": "67200",
+            "pop_distribution": "26.79999924",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "228",
+            "sa4_code_2016": "201",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Ballarat",
+            "pop": "33300",
+            "pop_distribution": "24.20000076",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "234",
+            "sa4_code_2016": "202",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Bendigo",
+            "pop": "30300",
+            "pop_distribution": "22.79999924",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "240",
+            "sa4_code_2016": "203",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Geelong",
+            "pop": "54800",
+            "pop_distribution": "21.10000038",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "246",
+            "sa4_code_2016": "204",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Hume",
+            "pop": "32800",
+            "pop_distribution": "22.70000076",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "252",
+            "sa4_code_2016": "205",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Latrobe - Gippsland",
+            "pop": "80800",
+            "pop_distribution": "34.09999847",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "258",
+            "sa4_code_2016": "215",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "North West",
+            "pop": "38300",
+            "pop_distribution": "31.39999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "264",
+            "sa4_code_2016": "216",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Shepparton",
+            "pop": "32100",
+            "pop_distribution": "29.89999962",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "270",
+            "sa4_code_2016": "217",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Warrnambool and South West",
+            "pop": "26400",
+            "pop_distribution": "26",
+            "state_name_abbr": "VIC"
+        },
+        {
+            "fid": "276",
+            "sa4_code_2016": "301",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Brisbane - East",
+            "pop": "45700",
+            "pop_distribution": "23.20000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "282",
+            "sa4_code_2016": "302",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Brisbane - North",
+            "pop": "28600",
+            "pop_distribution": "15.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "288",
+            "sa4_code_2016": "303",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Brisbane - South",
+            "pop": "51300",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "294",
+            "sa4_code_2016": "304",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Brisbane - West",
+            "pop": "33200",
+            "pop_distribution": "21.20000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "300",
+            "sa4_code_2016": "305",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Brisbane Inner City",
+            "pop": "29500",
+            "pop_distribution": "11.30000019",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "306",
+            "sa4_code_2016": "310",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Ipswich",
+            "pop": "39000",
+            "pop_distribution": "13.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "312",
+            "sa4_code_2016": "311",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Logan - Beaudesert",
+            "pop": "46800",
+            "pop_distribution": "16.70000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "318",
+            "sa4_code_2016": "313",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Moreton Bay - North",
+            "pop": "71500",
+            "pop_distribution": "33.09999847",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "324",
+            "sa4_code_2016": "314",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Moreton Bay - South",
+            "pop": "28600",
+            "pop_distribution": "16.29999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "330",
+            "sa4_code_2016": "306",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Cairns",
+            "pop": "38800",
+            "pop_distribution": "18.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "336",
+            "sa4_code_2016": "307",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Darling Downs - Maranoa",
+            "pop": "22500",
+            "pop_distribution": "22.20000076",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "342",
+            "sa4_code_2016": "308",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Central Queensland",
+            "pop": "35800",
+            "pop_distribution": "20.10000038",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "348",
+            "sa4_code_2016": "309",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Gold Coast",
+            "pop": "102300",
+            "pop_distribution": "18.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "354",
+            "sa4_code_2016": "312",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Mackay - Isaac - Whitsunday",
+            "pop": "26100",
+            "pop_distribution": "18.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "360",
+            "sa4_code_2016": "315",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Queensland - Outback",
+            "pop": "11000",
+            "pop_distribution": "17.5",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "366",
+            "sa4_code_2016": "316",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Sunshine Coast",
+            "pop": "95300",
+            "pop_distribution": "28.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "372",
+            "sa4_code_2016": "317",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Toowoomba",
+            "pop": "35800",
+            "pop_distribution": "27.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "378",
+            "sa4_code_2016": "318",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Townsville",
+            "pop": "39300",
+            "pop_distribution": "20.89999962",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "384",
+            "sa4_code_2016": "319",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Wide Bay",
+            "pop": "85000",
+            "pop_distribution": "33.79999924",
+            "state_name_abbr": "QLD"
+        },
+        {
+            "fid": "390",
+            "sa4_code_2016": "401",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Adelaide - Central and Hills",
+            "pop": "63900",
+            "pop_distribution": "24.5",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "396",
+            "sa4_code_2016": "402",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Adelaide - North",
+            "pop": "74900",
+            "pop_distribution": "20.89999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "402",
+            "sa4_code_2016": "403",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Adelaide - South",
+            "pop": "70200",
+            "pop_distribution": "22.60000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "408",
+            "sa4_code_2016": "404",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Adelaide - West",
+            "pop": "45500",
+            "pop_distribution": "22.10000038",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "414",
+            "sa4_code_2016": "405",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Barossa - Yorke - Mid North",
+            "pop": "27900",
+            "pop_distribution": "29.39999962",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "420",
+            "sa4_code_2016": "406",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "South Australia - Outback",
+            "pop": "12700",
+            "pop_distribution": "19",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "426",
+            "sa4_code_2016": "407",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "South Australia - South East",
+            "pop": "53700",
+            "pop_distribution": "33",
+            "state_name_abbr": "SA"
+        },
+        {
+            "fid": "432",
+            "sa4_code_2016": "502",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Mandurah",
+            "pop": "33600",
+            "pop_distribution": "38.59999847",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "438",
+            "sa4_code_2016": "503",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Perth - Inner",
+            "pop": "34500",
+            "pop_distribution": "21.60000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "444",
+            "sa4_code_2016": "504",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Perth - North East",
+            "pop": "48200",
+            "pop_distribution": "21.5",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "450",
+            "sa4_code_2016": "505",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Perth - North West",
+            "pop": "90000",
+            "pop_distribution": "19.20000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "456",
+            "sa4_code_2016": "506",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Perth - South East",
+            "pop": "65300",
+            "pop_distribution": "15.10000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "462",
+            "sa4_code_2016": "507",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Perth - South West",
+            "pop": "61800",
+            "pop_distribution": "17.20000076",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "468",
+            "sa4_code_2016": "501",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Bunbury",
+            "pop": "36100",
+            "pop_distribution": "24.10000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "474",
+            "sa4_code_2016": "509",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Western Australia - Wheat Belt",
+            "pop": "30300",
+            "pop_distribution": "27.10000038",
+            "state_name_abbr": "WA"
+        },
+        {
+            "fid": "480",
+            "sa4_code_2016": "601",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Hobart",
+            "pop": "45700",
+            "pop_distribution": "23.20000076",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "486",
+            "sa4_code_2016": "602",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Launceston and North East",
+            "pop": "31100",
+            "pop_distribution": "25.29999924",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "492",
+            "sa4_code_2016": "603",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "South East",
+            "pop": "10300",
+            "pop_distribution": "30.20000076",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "498",
+            "sa4_code_2016": "604",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "West and North West",
+            "pop": "27300",
+            "pop_distribution": "29",
+            "state_name_abbr": "TAS"
+        },
+        {
+            "fid": "504",
+            "sa4_code_2016": "701",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Darwin",
+            "pop": "14900",
+            "pop_distribution": "13.10000038",
+            "state_name_abbr": "NT"
+        },
+        {
+            "fid": "510",
+            "sa4_code_2016": "702",
+            "age_grp": "65 and over",
+            "sa4_name_2016": "Northern Territory - Outback",
+            "pop": "7300",
+            "pop_distribution": "9.600000381",
+            "state_name_abbr": "NT"
+        }
+    ]
+}
