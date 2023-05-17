@@ -21,14 +21,14 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 'test'
-db = couch[db_name]
+db_name = 't'
+# db = couch[db_name]
 
 # Whether the database exists
-# if db_name in couch:
-#     db = couch[db_name]
-# else:
-#     db = couch.create(db_name)
+if db_name in couch:
+    db = couch[db_name]
+else:
+    db = couch.create(db_name)
 
 # divide the file into parts and then read the file in parallel using MPI
 startIndex = math.floor(bytesNo / size) * rank
@@ -47,56 +47,18 @@ with open('twitter-huge.json', 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            keyword_area = ['Sydney', 'Melbourne', 'Brisbane', 'Perth', 'Adelaide', 'Hobart', 'Darwin', 'Canberra', 'Australian', 'Australia']
-            keyword_epidemic = ['epidemic', 'virus', 'coronavirus', 'COVID-19', 'vaccine',
-                                'preventative measures', 'mask', 'social distancing', 'testing',
-                                'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
-                                'state of emergency']
-            keyword_time = ["2020", "2021", "2022"]
-            keyword = ['unemployment rate', 'employment rate', 'job seekers', 'job vacancies', 'career transition',
-                       'labor market', 'salary',
-                       'full-time', 'part-time', 'self-employment', 'vocational training',
-                       'employment opportunities', 'labor force participation rate', 'rent', 'apartment', 'house',
-                       'lease',
-                       'landlord', 'tenant',
-                       'real estate', 'property management', 'security deposit', 'utilities',
-                       'rental agreement', 'eviction', 'rental market', 'rental income', 'cost of living', 'inflation',
-                       'consumer price index',
-                       'price level', 'wage growth', 'price stability', 'deflation',
-                       'living expenses', 'food prices', 'energy prices', 'housing costs',
-                       'transportation costs', 'healthcare costs', 'education costs',
-                       'childcare costs', 'retirement savings']
-            stop_all_loops = False
-            for i in keyword_area:
-                if i in new_line:
-                    for j in keyword_epidemic:
-                        if j in new_line:
-                            for p in keyword_time:
-                                if p in new_line:
-                                    for t in keyword:
-                                        if t in new_line:
-                                            stop_all_loops = True
 
-                                            twitter = json.loads(new_line[:-2])  # load a json string to dict
-                                            t_id = twitter.get("id")
-                                            doc = db.get("_id")
-                                            if db.get(t_id):
-                                                rev = db.get(t_id).rev
-                                                twitter["_id"] = t_id
-                                                twitter["_rev"] = rev
-                                            else:
-                                                twitter["_id"] = t_id
+            twitter = json.loads(new_line[:-2])  # load a json string to dict
+            t_id = twitter.get("id")
+            doc = db.get("_id")
+            if db.get(t_id):
+                rev = db.get(t_id).rev
+                twitter["_id"] = t_id
+                twitter["_rev"] = rev
+            else:
+                twitter["_id"] = t_id
+                doc_id, doc_rev = db.save(twitter)  # analyse the twitter
 
-
-
-                                            doc_id, doc_rev = db.save(twitter)  # analyse the twitter
-                                            break
-                                    if stop_all_loops:
-                                        break
-                            if stop_all_loops:
-                                break
-                    if stop_all_loops:
-                        break
             if file.tell() >= endIndex:  # stops when the assigned range is exceeded
                 break
         else:
