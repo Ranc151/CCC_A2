@@ -5,7 +5,7 @@ from mpi4py import MPI
 import os.path
 import math
 
-# use MPI to save processing time
+# use MPI to save processing time.
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
 size = comm.Get_size()
