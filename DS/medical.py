@@ -41,7 +41,7 @@ city_dentists_rate = dict(zip(phn_name_list,dentists_rates_list))
 
 for i in range(len(phn_name_list)):
     plt.bar(phn_name_list[i],dentists_rates_list[i])
-plt.title('city dentists rate')
+plt.title('city dentists rate per 100000 person')
 plt.xlabel('city')
 plt.ylabel('dentists rate %')
 plt.xticks(rotation=90)
