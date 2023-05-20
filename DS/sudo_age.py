@@ -89,7 +89,7 @@ plt.xticks(x, key)
 plt.legend(fontsize=8, loc='upper right')
 
 # display icon
-plt.show()
+plt.savefig('sudo_age_g.png')
 
 ##SA4
 db2 = server['sudo(s)']
@@ -159,7 +159,7 @@ color = generate_random_color()
 plt.bar(x, g65_and_over, width=bar_width, label='g65_and_over',
         bottom=np.array(g15_to_24) + np.array(g25_to_34) + np.array(g35_to_44) + np.array(g45_to_54) + np.array(
             g55_to_64), color="darkcyan")
-fig.subplots_adjust(left=0.1, bottom=0.2, right=0.9, top=0.9)
+fig.subplots_adjust(left=0.2, bottom=0.2, right=0.9, top=0.9)
 
 ax.set(xlabel="Small city", ylabel="Population", title="Small capital")
 # Set the scale position on the x axis
@@ -172,5 +172,5 @@ plt.xticks(x, key2[0:5])
 plt.legend(fontsize=8, loc='upper right')
 
 # display icon
-plt.show()
+plt.savefig('sudo_age_s.png')
 
