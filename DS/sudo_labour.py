@@ -58,13 +58,13 @@ for p in range(2):
         sum_g[p] = sum_g[p] + int(k[p][i])
     fig, ax = plt.subplots()
     color = generate_random_color()
-    fig.patch.set_facecolor('lightgray')
     ax.bar(key, items, color=color)
     ax.set(xlabel="city", ylabel="Population", title=employer[p] + " Grand capital")
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=35)
     for o in range(len(key)):
         plt.text(key[o], items[o], str(items[o]), ha='center', va='bottom')
-
+    fig.subplots_adjust(left=0.1, bottom=0.2, right=0.9, top=0.9)
+    plt.legend()
     plt.show()
 
 ## SA4
@@ -100,17 +100,17 @@ for p in range(2):
         key.append(i.split(" ")[-1])
     for i in k[p]:
         items.append(k[p][i])
-    for w in range(5):
+    for w in range(7):
         sum_s[p] = sum_s[p] + int(items[w])
     fig, ax = plt.subplots()
     color = generate_random_color()
-    fig.patch.set_facecolor('lightgray')
     ax.bar(key[0:5], items[0:5], color=color)
-    plt.xticks(rotation=45)
+    plt.xticks(rotation=35)
     ax.set(xlabel="city", ylabel="Population", title=employer[p] + " Small city", )
     for o in range(len(key[0:5])):
         plt.text(key[o], items[o], str(items[o]), ha='center', va='bottom')
-
+    fig.subplots_adjust(left=0.1, bottom=0.2, right=0.9, top=0.9)
+    plt.legend()
     plt.show()
 
 print(sum_g, sum_s)
