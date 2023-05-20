@@ -51,6 +51,7 @@ plt.bar(x, greater_citys_employed, width=width, label='Employed Full-Time')
 plt.bar(x+width, greater_citys_unemployed, width=width, label='Unemployed Total')
 
 plt.xticks(x, greater_citys)
+plt.xticks(fontsize=7)
 plt.legend()
 plt.show()
 
