@@ -62,13 +62,15 @@ for p in range(2):
     plt.xticks(rotation=35)
     for o in range(len(key)):
         plt.text(key[o], items[o], str(items[o]), ha='center', va='bottom')
-    fig.subplots_adjust(left=0.1, bottom=0.2, right=0.9, top=0.9)
+    fig.subplots_adjust(left=0.2, bottom=0.2, right=0.9, top=0.9)
     ax.set_facecolor('lightcyan')
-    print(items)
     for i, val in enumerate(items):
         ax.axhline(val, color='white', linestyle='--', linewidth=0.7)
 
-    plt.show()
+    if p == 0:
+        plt.savefig('sudo_Labourem_g.png')
+    else:
+        plt.savefig('sudo_Labourunem_g.png')
 
 ## SA4
 # get couchdb instance
@@ -112,11 +114,14 @@ for p in range(2):
     ax.set(xlabel="Great city", ylabel="Population", title=employer[p] + " Small city", )
     for o in range(len(key[0:5])):
         plt.text(key[o], items[o], str(items[o]), ha='center', va='bottom')
-    fig.subplots_adjust(left=0.1, bottom=0.2, right=0.9, top=0.9)
+    fig.subplots_adjust(left=0.2, bottom=0.2, right=0.9, top=0.9)
     ax.set_facecolor('lightcyan')
     for i, val in enumerate(items[0:5]):
         ax.axhline(val, color='white', linestyle='--', linewidth=0.7)
-    plt.show()
+    if p == 0:
+        plt.savefig('sudo_Labourem_s.png')
+    else:
+        plt.savefig('sudo_Labourunem_s.png')
 
 # print(sum_g, sum_s)
 data = ["Employer in Great City", "Unemployer in Great City", "Employer in Small City", "Unemployer in Small City"]
@@ -140,6 +145,6 @@ for t in autotexts:
 ax.legend(loc="best")
 
 # display plot
-plt.show()
+plt.savefig('sudo_Labour_pie.png')
 
 

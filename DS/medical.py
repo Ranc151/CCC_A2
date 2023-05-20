@@ -26,9 +26,9 @@ view = db.view('_all_docs', include_docs=True)
 
 # Create two empty lists and an empty dictionary dentists_rates_list=[]: used to store dental rate data.
 # phn_name_list = []: Name of the storage area. city_dentists_rate={}: Used to store city dentists_rate data.
-dentists_rates_list=[]
+dentists_rates_list = []
 phn_name_list = []
-city_dentists_rate={}
+city_dentists_rate = {}
 
 # The purpose of this code is to extract the values of specific properties from the database view and store
 # them in the dentists_rates_list and phn_name_list lists, respectively. These attribute values are
@@ -47,15 +47,20 @@ for row in view:
 # Then, the phn_name_list and dentists_rates_list lists were iterated, and a bar graph was plotted each time.
 # The axis and ordinates were the dentists_rates_list. Thus, dental rates in each region can be visualized
 # in the form of a bar chart.
-city_dentists_rate = dict(zip(phn_name_list,dentists_rates_list))
+city_dentists_rate = dict(zip(phn_name_list, dentists_rates_list))
+fig, ax = plt.subplots()
 for i in range(len(phn_name_list)):
-    plt.bar(phn_name_list[i],dentists_rates_list[i])
+    plt.bar(phn_name_list[i], dentists_rates_list[i])
+    ax.axhline(dentists_rates_list[i], color='white', linestyle='--', linewidth=0.3)
+
+ax.set_facecolor('lightcyan')
+
 
 plt.title('city dentists rate per 100000 person')
 plt.xlabel('city')
 plt.ylabel('dentists rate %')
 # Rotate the scale label on the x-axis to vertical.
-plt.xticks(rotation=90)
+plt.xticks(rotation=80)
 # Set x font size
 plt.xticks(fontsize=4)
-plt.show()
+plt.savefig('sudo_medical.png')
