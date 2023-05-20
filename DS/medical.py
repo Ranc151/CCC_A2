@@ -24,9 +24,16 @@ server = couchdb.Server(url)
 db = server['medical']
 view = db.view('_all_docs', include_docs=True)
 
+# Create two empty lists and an empty dictionary dentists_rates_list=[]: used to store dental rate data.
+# phn_name_list = []: Name of the storage area. city_dentists_rate={}: Used to store city dentists_rate data.
 dentists_rates_list=[]
 phn_name_list = []
 city_dentists_rate={}
+
+# The purpose of this code is to extract the values of specific properties from the database view and store
+# them in the dentists_rates_list and phn_name_list lists, respectively. These attribute values are
+# extracted from the elements in the "features" attribute in each document, which contain data about
+# dental rates and region names.
 for row in view:
     doc = row.doc
     for i in doc:
@@ -36,18 +43,19 @@ for row in view:
                 dentists_rates_list.append(j['properties']['dentists_2018_rate_per_100000_people'])
                 phn_name_list.append(j['properties']['phn_name'])
 
-#创建一个dict，key是phn_name，value是dentists_rates_list
+# First, the region name and dentists_rate data are stored in the city_dentists_rate dictionary.
+# Then, the phn_name_list and dentists_rates_list lists were iterated, and a bar graph was plotted each time.
+# The axis and ordinates were the dentists_rates_list. Thus, dental rates in each region can be visualized
+# in the form of a bar chart.
 city_dentists_rate = dict(zip(phn_name_list,dentists_rates_list))
-
 for i in range(len(phn_name_list)):
     plt.bar(phn_name_list[i],dentists_rates_list[i])
+
 plt.title('city dentists rate per 100000 person')
 plt.xlabel('city')
 plt.ylabel('dentists rate %')
+# Rotate the scale label on the x-axis to vertical.
 plt.xticks(rotation=90)
+# Set x font size
+plt.xticks(fontsize=4)
 plt.show()
-
-
-
-
-

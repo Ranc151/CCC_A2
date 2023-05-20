@@ -2,10 +2,14 @@ from datetime import timedelta
 
 from flask import Flask, request, render_template, jsonify
 from flask_restful import Api, Resource
+from flask_cors import CORS
 
 # setting config
 app = Flask(__name__)
-
+CORS(app)  # Resolve cross-domain issues and make the back-end api accessible to all
+# CORS(app,origins='http://127.0.0.1:5000')
+if __name__ == '__main__':
+    app.run(debug=True, host='127.0.0.1', port='5000')
 
 
 # app.config['DEBUG'] = True          # debug model open
@@ -23,7 +27,7 @@ def root():  # the main page
 def api_0(param):
     print(param)
 
-    return
+    return param
 
 
 @app.route('/api_1/', methods=['GET', 'POST'])
@@ -33,9 +37,3 @@ def api_1():
         return
     else:
         return
-
-
-
-
-if __name__ == '__main__':
-    app.run(debug=True, host='127.0.0.1', port='8080')
