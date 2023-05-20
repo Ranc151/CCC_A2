@@ -17,7 +17,6 @@ db = server['sudo(g)']
 
 # Read view
 view = db.view('_all_docs', include_docs=True)
-
 labour_21_em = {}
 labour_21_unem = {}
 # # Iterate over the view result
@@ -33,8 +32,8 @@ for row in view:
                 if j['gccsa_name_2016'] not in labour_21_unem:
                     if j['lbr_frc_stat'] == 'Unemployed Total':
                         labour_21_unem[j['gccsa_name_2016']] = j['p']
-print(labour_21_unem)
-print(labour_21_em)
+# print(labour_21_unem)
+# print(labour_21_em)
 
 
 def generate_random_color():
@@ -93,8 +92,8 @@ for row in view2:
                 if j['sa4_name_2016'] not in labour_21_unems:
                     if j['lbr_frc_stat'] == 'Unemployed Total':
                         labour_21_unems[j['sa4_name_2016']] = j['p']
-print(labour_21_unems)
-print(labour_21_ems)
+# print(labour_21_unems)
+# print(labour_21_ems)
 
 k = [labour_21_ems, labour_21_unems]
 for p in range(2):
@@ -119,7 +118,7 @@ for p in range(2):
         ax.axhline(val, color='white', linestyle='--', linewidth=0.7)
     plt.show()
 
-print(sum_g, sum_s)
+# print(sum_g, sum_s)
 data = ["Employer in Great City", "Unemployer in Great City", "Employer in Small City", "Unemployer in Small City"]
 values = [sum_g[0], sum_g[1], sum_s[0], sum_s[1]]
 colors = ['#ff9999', '#66b3ff', '#99ff99', '#ffcc99']
