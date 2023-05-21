@@ -2,6 +2,9 @@ import json
 from flask import Flask, request, render_template, jsonify
 from flask_cors import CORS
 import couchdb
+import base64
+from PIL import Image
+import io
 
 # authentication
 admin = 'admin'
@@ -39,7 +42,7 @@ def root():  # the main page
 
 
 # default GET
-@app.route('/get_source_data_GCCSA')
+@app.route('/get_source_data_GCCSA', methods=['GET'])
 def get_source_data_GCCSA():
     with open('./couchdb_DX/SUDO_file/new_csv/GCCSA_json/Labour_2021.json') as f:
         res = json.load(f)
@@ -47,7 +50,7 @@ def get_source_data_GCCSA():
     return res
 
 
-@app.route('/get_source_data_SA4')
+@app.route('/get_source_data_SA4', methods=['GET'])
 def get_source_data_SA4():
     with open('./couchdb_DX/SUDO_file/new_csv/SA4_json/Labour_2021.json') as f:
         res = json.load(f)
@@ -55,27 +58,47 @@ def get_source_data_SA4():
     return res
 
 
-# @app.route('/api_1', methods=['GET', 'POST', 'DELETE'])
-# def api_1():
-#     if request.method == 'POST':
-#         # using an existing view
-#         view = db.view('languages/judge', group_level=1)
-#         # Retrieve the view results
-#         results = {}
-#         for row in view:
-#             results[row.key] = row.value
-#         # Return the results as JSON
-#         return {'data': results}
-#     else:
-#         view = db.view('languages/langAvg', group_level=1)
-#         # Retrieve the view results
-#         results = {}
-#         print(view)
-#         for row in view:
-#             results[row.key] = row.value
-#         # Return the results as JSON
-#         return {'data': results}
+@app.route('/get_graph_1', methods=['GET'])
+def get_graph_1():
+    image_path = './static/graph/sudo_Labour_pie.png'
+
+    encoded = base64.b64encode(open(image_path, 'rb').read())
+    return encoded
+
+
+@app.route('/get_graph_2', methods=['GET'])
+def get_graph_2():
+    image_path = './static/graph/sudo_Labourem_g.png'
+
+    encoded = base64.b64encode(open(image_path, 'rb').read())
+    return encoded
+
+
+@app.route('/get_graph_3', methods=['GET'])
+def get_graph_3():
+    image_path = './static/graph/sudo_Labourem_s.png'
+
+    encoded = base64.b64encode(open(image_path, 'rb').read())
+    return encoded
+
+
+@app.route('/get_graph_4', methods=['GET'])
+def get_graph_4():
+    image_path = './static/graph/sudo_Labourunem_g.png'
+
+    encoded = base64.b64encode(open(image_path, 'rb').read())
+    return encoded
+
+
+@app.route('/get_graph_5', methods=['GET'])
+def get_graph_5():
+    image_path = './static/graph/sudo_Labourunem_s.png'
+
+    encoded = base64.b64encode(open(image_path, 'rb').read())
+    return encoded
+
+
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='127.0.0.1', port='8080')
+    app.run()
