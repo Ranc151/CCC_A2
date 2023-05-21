@@ -18,10 +18,10 @@ if db_name in couch:
 else:
     db = couch.create(db_name)
 
-# JSON文件所在的目录路径
+# Path to the directory where the JSON file is located
 json_dir = 'new_csv/medical_science'
 
-# 读取并插入每个JSON文件的数据到数据库
+# Read and insert data from each JSON file into the database
 for filename in os.listdir(json_dir):
 
     if filename.endswith('.json'):
