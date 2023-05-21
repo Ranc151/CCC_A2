@@ -1,7 +1,7 @@
 import json
 
 # 读取 JSON 文件
-with open('Labour_2020.json', "r") as f:
+with open('Labour_2021.json', "r") as f:
     json_data = json.load(f)
 
 # Create the GeoJSON data structure
