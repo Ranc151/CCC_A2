@@ -36,13 +36,13 @@ with open("G:\\py\\twitter-huge.json", 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            cityList = ['1GSYD', '1gsyd', '2GMEL', '2gmel', '3GBRI', '3gbri', '4GADE',
-                        '4gade', '5GPER', '5gper', 'SYD', 'syd', 'MEL', 'mel', 'BRI', 'bri',
-                        'ADE', 'ade', 'PER', 'per', 'Sydney', 'sydney', 'Melbourne', 'melbourne',
-                        'Brisbane', 'brisbane', 'Adelaide', 'adelaide', 'Perth', 'perth', 'Hobart',
-                        'hobart', 'Canberra', 'canberra', 'Darwin', 'darwin']
+            cityList = [' 1GSYD ', ' 1gsyd ', ' 2GMEL ', ' 2gmel ', ' 3GBRI ', ' 3gbri ', ' 4GADE ',
+                        ' 4gade ', ' 5GPER ', ' 5gper ', ' SYD ', ' syd ', ' MEL ', ' mel ', ' BRI ', ' bri ',
+                        ' ADE ', ' ade ', ' PER ', ' per ', ' Sydney ', ' sydney ', ' Melbourne' , ' melbourne ',
+                        ' Brisbane ', ' brisbane ', ' Adelaide ',  'adelaide ', ' Perth ', ' perth ', ' Hobart ',
+                        ' hobart ', ' Canberra ', ' canberra ', ' Darwin' , ' darwin ']
             for city in cityList:
-                if city in new_line:
+                if city in (" " + new_line + " "):
                     twitter = json.loads(new_line[:-2])
                     t_id = twitter.get("id")
                     doc = db.get("_id")
