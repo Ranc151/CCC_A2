@@ -79,20 +79,22 @@ plt.subplot(211)
 
 x = np.arange(len(greater_citys))
 
-plt.plot(x, sudo_employ_rate, label='SUDO-Employed Rate')
-plt.plot(x, twitter_employ_rate, label='Twitter-Employed Rate')
+plt.plot(x, sudo_employ_rate, label='SUDO-Employed Rate', linewidth=5)
+plt.plot(x, twitter_employ_rate, label='Twitter-Employed Rate', linewidth=5)
+plt.scatter(x, sudo_employ_rate, color='red', label='SUDO-Employed Points',s=75)
+plt.scatter(x, twitter_employ_rate, color='blue', label='Twitter-Employed Points',s=75)
 plt.xticks(x, greater_citys)
 plt.legend()
 
 plt.subplot(212)
 x = np.arange(len(greater_citys))
 
-plt.plot(x, sudo_unemploy_rate, label='SUDO-Unemployed Rate')
-plt.plot(x, twitter_unemploy_rate, label='Twitter-Unemployed Rate')
+plt.plot(x, sudo_unemploy_rate, label='SUDO-Unemployed Rate', linewidth=5)
+plt.plot(x, twitter_unemploy_rate, label='Twitter-Unemployed Rate', linewidth=5)
+plt.scatter(x, sudo_unemploy_rate, color='red', label='SUDO-Unemployed Points',s=75)
+plt.scatter(x, twitter_unemploy_rate, color='blue', label='Twitter-Unemployed Points',s=75)
 plt.xticks(x, greater_citys)
 
 plt.legend()
 plt.suptitle('SUDO VS Twitter')
 plt.show()
-
-
