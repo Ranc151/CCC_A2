@@ -20,7 +20,7 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 't'
+db_name = 't1'
 db = couch[db_name]
 
 # divide the file into parts and then read the file in parallel using MPI
@@ -37,28 +37,7 @@ with open("G:\\py\\twitter-huge.json", 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            cities =['Central Coast', 'Sydney - Baulkham Hills and Hawkesbury', 'Sydney - Blacktown',
-                     'Sydney - City and Inner South', 'Sydney - Eastern Suburbs', 'Sydney - Inner South West',
-                     'Sydney - Inner West', 'Sydney - North Sydney and Hornsby', 'Sydney - Northern Beaches',
-                     'Sydney - Outer South West', 'Sydney - Outer West and Blue Mountains', 'Sydney - Parramatta',
-                     'Sydney - Ryde', 'Sydney - South West', 'Sydney - Sutherland', 'Capital Region', 'Central West',
-                     'Coffs Harbour - Grafton', 'Far West and Orana', 'Hunter Valley exc Newcastle', 'Illawarra',
-                     'Mid North Coast', 'Murray', 'New England and North West', 'Newcastle and Lake Macquarie',
-                     'Richmond - Tweed', 'Riverina', 'Southern Highlands and Shoalhaven', 'Melbourne - Inner',
-                     'Melbourne - Inner East', 'Melbourne - Inner South', 'Melbourne - North East',
-                     'Melbourne - North West', 'Melbourne - Outer East', 'Melbourne - South East',
-                     'Melbourne - West', 'Mornington Peninsula', 'Ballarat', 'Bendigo', 'Geelong',
-                     'Hume', 'Latrobe - Gippsland', 'North West', 'Shepparton', 'Warrnambool and South West',
-                     'Brisbane - East', 'Brisbane - North', 'Brisbane - South', 'Brisbane - West',
-                     'Brisbane Inner City', 'Ipswich', 'Logan - Beaudesert', 'Moreton Bay - North',
-                     'Moreton Bay - South', 'Cairns', 'Darling Downs - Maranoa', 'Central Queensland',
-                     'Gold Coast', 'Mackay - Isaac - Whitsunday', 'Queensland - Outback', 'Sunshine Coast',
-                     'Toowoomba', 'Townsville', 'Wide Bay', 'Adelaide - Central and Hills', 'Adelaide - North',
-                     'Adelaide - South', 'Adelaide - West', 'Barossa - Yorke - Mid North', 'South Australia - Outback',
-                     'South Australia - South East', 'Mandurah', 'Perth - Inner', 'Perth - North East',
-                     'Perth - North West', 'Perth - South East', 'Perth - South West', 'Bunbury',
-                     'Western Australia - Wheat Belt', 'Hobart', 'Launceston and North East', 'South East',
-                     'West and North West', 'Darwin', 'Northern Territory - Outback','NSW', 'VIC', 'QLD', 'SA', 'WA', 'TAS', 'NT']
+            cities =['melbourne']
 
             for city in cities:
                 if city in new_line:
