@@ -20,7 +20,7 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 't2'
+db_name = 'riverina_price'
 db = couch[db_name]
 
 # divide the file into parts and then read the file in parallel using MPI
@@ -37,19 +37,17 @@ with open("twitter-huge.json", 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            cities = ['melbourne']
-            keyword = ['employ', 'work', 'job','communication', 'collaboration', 'teamwork', 'coordination', 'update',
-                       'feedback', 'document', 'report', 'data', 'analysis', 'summary', 'evaluation', 'recommendation',
-                       'project', 'task', 'progress', 'plan', 'completion', 'deadline', 'deliverable', 'milestone',
-                       'process', 'steps', 'approval', 'review', 'follow-up', 'coordination', 'notification', 'job',
-                       'work', 'occupation', 'employment', 'career', 'profession', 'vocation', 'trade', 'calling',
-                       'task', 'duty', 'role', 'position', 'post', 'gig', 'labor', 'craft', 'business', 'service',
-                       'engagement', 'undertaking', 'pursuit', 'enterprise', 'responsibility', 'function', 'assignment',
-                       'livelihood', 'umemploy', 'unemployment', 'joblessness', 'job loss', 'layoff', 'redundancy',
-                       'retrenchment', 'dismissal', 'termination', 'downsizing', 'furlough', 'job cut', 'job insecurity',
-                       'joblessness', 'Unemployment', 'Joblessness', 'Layoff', 'Redundancy', 'Unemployed', 'Jobless',
-                       'Out of work', 'Idle', 'Underemployed', 'Workless', 'Unemployment rate', 'Dismissal',
-                       'Retrenchment', 'Downsizing', 'Furlough']
+            cities = ['riverina']
+            keyword = ["Expensive", "Costly", "Pricey", "High-priced", "Premium", "Luxurious", "Overpriced",
+                       "Exorbitant", "Steep", "Lavish", "Splurge", "Extravagant", "Upscale", "Deluxe", "Fancy",
+                       "Posh", "Exclusive", "Price tag", "Marked up", "Inflated", "Sky-high", "Inflation",
+                       "Price hike", "Price surge", "Price boom", "Price gouging", "Pricey", "Overpriced",
+                       "Expensive", "Costly", "Premium", "Luxury", "High-end", "Upscale", "Lavish", "Extravagant",
+                       "Splurge", "Exorbitant", "Steep", "Bank-breaking", "Outrageous", "Wallet-draining",
+                       "Skyrocketing", "Inflated", "Sticker shock", "Mark-up", "Price tag", "Pricey", "Pricy",
+                       "Dear", "Cost-prohibitive", "Overvalued", "Overinflated", "Overrated", "Price premium",
+                       "Pricey goods", "Price escalation", "Price spike", "Price index", "Price surge",
+                       "Price inflation", "Price jump"]
             if cities[0] in new_line:
                 for key in keyword:
                     if key in new_line:
@@ -63,8 +61,9 @@ with open("twitter-huge.json", 'r', encoding='utf-8') as file:
                         else:
                             twitter["_id"] = t_id
                         doc_id, doc_rev = db.save(twitter)  # analyse the twitter
+                        print(f'Document saved with ID: {doc_id} and revision: {doc_rev}')
                         break
-            else:
-                break
+        else:
+            break
 if rank == 0:
     print(time.time() - begin_time)

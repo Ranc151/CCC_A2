@@ -41,19 +41,7 @@ def read_data_from_server(n_url, n_token):
                                 'quarantine', 'lockdown', 'outbreak', 'cases', 'death toll', 'recovery',
                                 'state of emergency']
             keyword_time = ["2020", "2021"]
-            keyword = ['unemployment rate', 'employment rate', 'job seekers', 'job vacancies', 'career transition',
-                       'labor market', 'salary',
-                       'full-time', 'part-time', 'self-employment', 'vocational training',
-                       'employment opportunities', 'labor force participation rate', 'rent', 'apartment', 'house',
-                       'lease',
-                       'landlord', 'tenant',
-                       'real estate', 'property management', 'security deposit', 'utilities',
-                       'rental agreement', 'eviction', 'rental market', 'rental income', 'cost of living', 'inflation',
-                       'consumer price index',
-                       'price level', 'wage growth', 'price stability', 'deflation',
-                       'living expenses', 'food prices', 'energy prices', 'housing costs',
-                       'transportation costs', 'healthcare costs', 'education costs',
-                       'childcare costs', 'retirement savings']
+            keyword = []
             stop_all_loops = False
             for i in keyword_area:
                 if i in json_str:
