@@ -11,5 +11,5 @@ geojson2_data = {
 }
 
 # Save the GeoJSON data to a file
-with open("output2.geojson", "w") as f:
+with open("../../geo_json/output2.geojson", "w") as f:
     json.dump(geojson2_data, f)
