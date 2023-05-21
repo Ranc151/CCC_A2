@@ -24,7 +24,7 @@ labour_21_unem = {}
 for row in view:
     doc = row.doc
     for i in doc:
-        if i == "Labour_2021":
+        if i == "Labour_2020":
             content = doc[i]
             for j in content:
                 if j['gccsa_name_2016'] not in labour_21_em:
@@ -69,9 +69,9 @@ for p in range(2):
         ax.axhline(val, color='white', linestyle='--', linewidth=0.7)
 
     if p == 0:
-        plt.savefig('sudo_Labourem_g.png')
+        plt.savefig('sudo_Labourem_g20.png')
     else:
-        plt.savefig('sudo_Labourunem_g.png')
+        plt.savefig('sudo_Labourunem_g20.png')
 
 ## SA4
 # get couchdb instance
@@ -86,7 +86,7 @@ labour_21_unems = {}
 for row in view2:
     doc = row.doc
     for i in doc:
-        if i == "Labour_2021":
+        if i == "Labour_2020":
             content = doc[i]
             for j in content:
                 if j['sa4_name_2016'] not in labour_21_ems:
@@ -120,9 +120,9 @@ for p in range(2):
     for i, val in enumerate(items[0:5]):
         ax.axhline(val, color='white', linestyle='--', linewidth=0.7)
     if p == 0:
-        plt.savefig('sudo_Labourem_s.png')
+        plt.savefig('sudo_Labourem_s20.png')
     else:
-        plt.savefig('sudo_Labourunem_s.png')
+        plt.savefig('sudo_Labourunem_s20.png')
 
 print(sum_g, sum_s)
 data = ["Employer in Great City", "Unemployer in Great City", "Employer in Small City", "Unemployer in Small City"]
@@ -146,6 +146,6 @@ for t in autotexts:
 ax.legend(loc="best")
 
 # display plot
-plt.savefig('sudo_Labour_pie.png')
+plt.savefig('sudo_Labour_pie20.png')
 
 
