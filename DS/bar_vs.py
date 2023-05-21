@@ -48,8 +48,8 @@ for twitter_db in twitter_umemployed_dbs:
 # 获取数据库中的所有文档
 docs = [row.doc for row in sudo_db.view('_all_docs', include_docs=True)]
 for doc in docs:
-    if 'Labour_2020' in doc.keys():
-        for dict in doc['Labour_2020']:
+    if 'Labour_2021' in doc.keys():
+        for dict in doc['Labour_2021']:
             if dict['lbr_frc_stat'] == 'Unemployed Total':
                 greater_citys.append(dict['gccsa_name_2016'])
                 greater_citys_unemployed.append(int(dict['p']))
