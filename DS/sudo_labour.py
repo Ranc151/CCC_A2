@@ -102,11 +102,14 @@ for p in range(2):
     key = []
     items = []
     for i in k[p]:
-        key.append(i.split(" ")[-1])
+        key.append(i)
+        # key.append(i.split(" ")[-1])
+    print(key)
     for i in k[p]:
         items.append(int(k[p][i]))
     for w in range(7):
         sum_s[p] = sum_s[p] + int(items[w])
+
     fig, ax = plt.subplots()
     color = generate_random_color()
     ax.bar(key[0:5], items[0:5], color=color, width=0.6)
@@ -122,6 +125,8 @@ for p in range(2):
         plt.savefig('sudo_Labourem_s20.png')
     else:
         plt.savefig('sudo_Labourunem_s20.png')
+
+
 
 # print(sum_g, sum_s)
 data = ["Employer in Great City", "Unemployer in Great City", "Employer in Small City", "Unemployer in Small City"]
