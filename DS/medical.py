@@ -49,9 +49,26 @@ for row in view:
 # in the form of a bar chart.
 city_dentists_rate = dict(zip(phn_name_list, dentists_rates_list))
 fig, ax = plt.subplots()
-for i in range(len(phn_name_list)):
-    plt.bar(phn_name_list[i], dentists_rates_list[i])
-    ax.axhline(dentists_rates_list[i], color='white', linestyle='--', linewidth=0.3)
+data = []
+data2 = []
+data3 = []
+data4 = []
+for k in range(len(phn_name_list)):
+    if "Melbourne" in phn_name_list[k] or  "Sydney" in phn_name_list[k] or "Brisbane" in phn_name_list[k] or "Adelaide" in phn_name_list[k] or "Perth" in phn_name_list[k]:
+        data.append(phn_name_list[k])
+        data2.append(dentists_rates_list[k])
+    else:
+        data3.append(phn_name_list[k])
+        data4.append(dentists_rates_list[k])
+
+data = data + data3
+data2 = data2 + data4
+color = "blue"
+for i in range(len(data)):
+    if i == 24:
+        color = "red"
+    plt.bar(data[i], data2[i], color=color)
+    ax.axhline(data2[i], color='white', linestyle='--', linewidth=0.3)
 
 ax.set_facecolor('lightcyan')
 
@@ -63,4 +80,5 @@ plt.ylabel('dentists rate %')
 plt.xticks(rotation=80)
 # Set x font size
 plt.xticks(fontsize=4)
+
 plt.savefig('sudo_medical.png')
