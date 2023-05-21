@@ -24,8 +24,8 @@ db_name = 't'
 db = couch[db_name]
 
 # divide the file into parts and then read the file in parallel using MPI
-startIndex = math.floor(bytesNo / size) * rank + 3000000000
-endIndex = startIndex + math.floor(bytesNo / size) + 3000000000
+startIndex = math.floor(bytesNo / size) * rank
+endIndex = startIndex + math.floor(bytesNo / size)
 
 
 # start to store the data
