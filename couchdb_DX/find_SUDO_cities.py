@@ -45,17 +45,4 @@ with open(file_address, 'r', encoding='utf-8') as file:
             print(cityList)
             print(stateList)
             print(locationDict)
-            cityList = ['NSW', 'Central Coast', 'Sydney - Baulkham Hills and Hawkesbury', 'Sydney - Blacktown',
-                        'Sydney - City and Inner South', 'Sydney - Eastern Suburbs', 'Sydney - Inner South West',
-                        'Sydney - Inner West', 'Sydney - North Sydney and Hornsby', 'Sydney - Northern Beaches',
-                        'Sydney - Outer South West', 'Sydney - Outer West and Blue Mountains', 'Sydney - Parramatta',
-                        'Sydney - Ryde', 'Sydney - South West', 'Sydney - Sutherland', 'Capital Region', 'Central West',
-                        'Coffs Harbour - Grafton', 'Far West and Orana', 'Hunter Valley exc Newcastle', 'Illawarra',
-                        'Mid North Coast', 'Murray', 'New England and North West', 'Newcastle and Lake Macquarie',
-                        'Richmond - Tweed', 'Riverina', 'Southern Highlands and Shoalhaven']
-            c = []
-            for i in cityList:
-                c.append(i.lower())
-            print(c)
-
             exit()

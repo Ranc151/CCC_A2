@@ -20,7 +20,7 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 'NSW_Data'
+db_name = 'vic_data'
 db = couch[db_name]
 
 # divide the file into parts and then read the file in parallel using MPI
