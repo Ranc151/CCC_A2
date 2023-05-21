@@ -20,13 +20,12 @@ url = f'http://{admin}:{password}@172.26.130.209:5984/'
 couch = couchdb.Server(url)
 
 # set the db name
-db_name = 'vic_data'
+db_name = 'final_gcc'
 db = couch[db_name]
 
 # divide the file into parts and then read the file in parallel using MPI
 startIndex = math.floor(bytesNo / size) * rank
 endIndex = startIndex + math.floor(bytesNo / size)
-
 
 # start to store the data
 with open("G:\\py\\twitter-huge.json", 'r', encoding='utf-8') as file:
@@ -37,20 +36,11 @@ with open("G:\\py\\twitter-huge.json", 'r', encoding='utf-8') as file:
     while True:
         new_line = file.readline()
         if new_line != "]}":
-            cityList = ['VIC', 'Melbourne - Inner', 'Melbourne - Inner East', 'Melbourne - Inner South',
-                        'Melbourne - North East', 'Melbourne - North West', 'Melbourne - Outer East',
-                        'Melbourne - South East',
-                        'Melbourne - West', 'Mornington Peninsula', 'Ballarat', 'Bendigo', 'Geelong', 'Hume',
-                        'Latrobe - Gippsland',
-                        'North West', 'Shepparton', 'Warrnambool and South West', "Melbourne", 'vic',
-                        'melbourne - inner',
-                        'melbourne - inner east', 'melbourne - inner south', 'melbourne - north east',
-                        'melbourne - north west',
-                        'melbourne - outer east', 'melbourne - south east', 'melbourne - west', 'mornington peninsula',
-                        'ballarat',
-                        'bendigo', 'geelong', 'hume', 'latrobe - gippsland', 'north west', 'shepparton',
-                        'warrnambool and south west', 'melbourne']
-
+            cityList = ['1GSYD', '1gsyd', '2GMEL', '2gmel', '3GBRI', '3gbri', '4GADE',
+                        '4gade', '5GPER', '5gper', 'SYD', 'syd', 'MEL', 'mel', 'BRI', 'bri',
+                        'ADE', 'ade', 'PER', 'per', 'Sydney', 'sydney', 'Melbourne', 'melbourne',
+                        'Brisbane', 'brisbane', 'Adelaide', 'adelaide', 'Perth', 'perth', 'Hobart',
+                        'hobart', 'Canberra', 'canberra', 'Darwin', 'darwin']
             for city in cityList:
                 if city in new_line:
                     twitter = json.loads(new_line[:-2])
