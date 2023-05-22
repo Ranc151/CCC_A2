@@ -97,4 +97,4 @@ plt.xticks(x, greater_citys)
 
 plt.legend()
 plt.suptitle('SUDO VS Twitter')
-plt.show()
+plt.savefig('sVt_line.png')

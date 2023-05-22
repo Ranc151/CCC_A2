@@ -44,7 +44,6 @@ x = np.arange(len(greater_citys))
 
 plt.bar(x, medical_datas)
 plt.xticks(x, greater_citys)
-plt.legend()
 
 plt.suptitle('Medical Analyse')
-plt.show()
+plt.savefig('medical.png')
