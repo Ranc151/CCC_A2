@@ -3,8 +3,7 @@ from flask import Flask, request, render_template, jsonify
 from flask_cors import CORS
 import couchdb
 import base64
-from PIL import Image
-import io
+
 
 # authentication
 admin = 'admin'
