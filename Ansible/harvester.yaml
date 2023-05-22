@@ -1,6 +1,6 @@
 ---
 - name: install python with Mastodon and CouchDB
-  hosts: http://admin:Sjx991225@172.26.130.209:5984/
+  hosts: localhost
   become: yes
   tasks:
     - name: install Python3
@@ -20,6 +20,6 @@
 
     - name: run Python application
       ansible.builtin.command:
-        cmd: "python3 Mastodon_demo.py"
+        cmd: "python3 Mastodon_an.py"
 
 
