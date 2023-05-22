@@ -4,7 +4,6 @@ from flask_cors import CORS
 import couchdb
 import base64
 
-
 # authentication
 admin = 'admin'
 password = 'Sjx991225'
@@ -97,7 +96,5 @@ def get_graph_5():
     return encoded
 
 
-
-
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True, host='172.17.0.2', port='8080')
