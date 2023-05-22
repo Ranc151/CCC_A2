@@ -7,19 +7,15 @@ admin = 'admin'
 password = 'Sjx991225'
 url = f'http://{admin}:{password}@172.26.130.209:5984/'
 
-# get couchdb instance
 couch = couchdb.Server(url)
 
-# indicate the db name
 db_name = 'mastodon_an'
 
-# if not exist, create one
 if db_name not in couch:
     db = couch.create(db_name)
 else:
     db = couch[db_name]
 
-# optional, better not hardcode here
 token = ''
 m = Mastodon(
     # your server here
@@ -28,7 +24,6 @@ m = Mastodon(
 )
 
 
-# listen on the timeline
 class Listener(StreamListener):
     # called when receiving new post or status update
     def on_update(self, status):
