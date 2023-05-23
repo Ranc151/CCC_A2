@@ -5,11 +5,11 @@ Ran Chen ID:1368584  Email:ranchen1@student.unimelb.edu.au
 
 Jiaxuan Shi
 
-Weiyan Cheng
+Weiyan Cheng ID:1403719 Email:weiycheng@student.unimelb.edu.au
 
 XunHeng Li ID:1405559 Email:XUHENGL@student.unimelb.edu.au
 
-KAI XU
+KAI XU ID:1008501 Email:kaxu@student.unimelb.edu.au
 
 In this project, we used Flask as the back-end framework and imported RESTful as the API interface design style. For the front-end we chose to separate from the back-end to make it easier to develop and manage, and Vue was our choice.
 
