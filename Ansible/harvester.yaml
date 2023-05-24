@@ -1,6 +1,6 @@
 ---
 - name: install python with Mastodon and CouchDB
-  hosts: localhost
+  hosts: http://admin:Sjx991225@172.26.130.209:5984/
   become: yes
   tasks:
     - name: install Python3
