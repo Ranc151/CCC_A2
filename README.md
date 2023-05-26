@@ -3,7 +3,7 @@ Our member are
 
 Ran Chen ID:1368584  Email:ranchen1@student.unimelb.edu.au
 
-Jiaxuan Shi
+Jiaxuan Shi ID:1312618 Email:jiaxuans2@student.unimelb.edu.au
 
 Weiyan Cheng ID:1403719 Email:weiycheng@student.unimelb.edu.au
 
