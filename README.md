@@ -1,4 +1,16 @@
 # This the Assignment 2 for COMP90024 CCC
+
+
+Front end URL:https://github.com/Ranc151/CCC_A2
+
+NewWork URL: http://172.26.128.234:8080/
+
+Presentation Videos:
+
+Part I : https://youtu.be/eGxLEK_CdHE
+
+Part II: https://youtu.be/14YqQl1kxl0(ansible)
+
 Our member are 
 
 Ran Chen ID:1368584  Email:ranchen1@student.unimelb.edu.au
